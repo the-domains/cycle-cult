@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 13:55:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2016 13:57:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f5dda7c-8724-4c6b-9f8c-5b1b778d2192.jpg" alt="Naomi Taniguchi on the Honda RC142">]]></description>
+            <link>https://thegrid.ai/cycle-cult/naomi-taniguchi-on-the-honda-rc142-at-the-1959-isle-of-man-t/index.html</link>
+            <guid isPermaLink="false">30f73366-2f31-4536-9f86-cf7707f81968</guid>
+            <pubDate>Fri, 22 Jul 2016 13:56:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c93a957-af6a-4b23-8628-41a84aa6bde0.jpg" alt="Jack Shemans">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/the-honda-rc142-twin-and-the-mondial-gp-125-single-dont-loo/index.html</link>
             <guid isPermaLink="false">b9722416-030c-4ef9-907e-a9085999f8e4</guid>
             <pubDate>Fri, 22 Jul 2016 13:36:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c7db4113-27d4-49ec-b20d-57963f1911f0.jpg" alt="Motom ultra-lightweight">]]></description>
-            <link>https://thegrid.ai/cycle-cult/this-is-another-motom-ultra-lightweight-single-that-appears/index.html</link>
-            <guid isPermaLink="false">a5a102fd-2551-425c-bba9-624e806880c6</guid>
-            <pubDate>Fri, 22 Jul 2016 13:34:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
