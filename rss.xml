@@ -4,15 +4,8 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 13:10:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2016 13:08:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c63bb276-5713-481d-8782-ed1f66073ae9.jpg" alt="Howard Earle at Brooklands">]]></description>
-            <link>https://thegrid.ai/cycle-cult/the-brooklands-concrete-banked-oval-was-famous-for-speed-rec/index.html</link>
-            <guid isPermaLink="false">52a62404-d592-413a-bcb8-b709cc0e4d9b</guid>
-            <pubDate>Fri, 22 Jul 2016 13:10:01 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a11cd2a9-0521-4f57-9119-b6e03b5d2828.jpg" alt="OHV 350cc Z&eacute;del v-twin Alcyon motorcycle">]]></description>
@@ -75,6 +68,13 @@
             <link>https://thegrid.ai/cycle-cult/this-is-what-a-pit-stop-during-the-french-motorcycle-grand-p/index.html</link>
             <guid isPermaLink="false">737e019a-3a36-4963-9fb3-26224b16d406</guid>
             <pubDate>Fri, 22 Jul 2016 05:23:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ccc638e8-9e17-492a-b9cc-dc9c266feaed.jpg" alt="Tom Phillis">]]></description>
+            <link>https://thegrid.ai/cycle-cult/1960-was-the-first-year-that-the-honda-team-would-compete-in/index.html</link>
+            <guid isPermaLink="false">fc656eb7-e8c2-490f-a9a5-7a588afa513d</guid>
+            <pubDate>Fri, 22 Jul 2016 05:20:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
