@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 13:48:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2016 13:51:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a8429fc-afb9-4557-bc04-8b5a520a051e.jpg" alt="Giacomo Agostini - 1971">]]></description>
+            <link>https://thegrid.ai/cycle-cult/giacomo-agostini-on-the-1-mv-agusta-pushes-off-the-starting/index.html</link>
+            <guid isPermaLink="false">07020893-4fc1-43c9-92aa-695a5f5221ae</guid>
+            <pubDate>Fri, 22 Jul 2016 13:51:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/244905f8-2e88-46a5-a583-da1f587882a9.jpg" alt="Giacomo Agostini - 1974">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/between-1969-and-1977-angel-nieto-won-six-of-the-nine-50cc-t/index.html</link>
             <guid isPermaLink="false">ca3612ba-9068-4dd9-ac71-d1114b731bbc</guid>
             <pubDate>Fri, 22 Jul 2016 13:30:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/89aaee61-ea6c-4b2b-8070-0289832df738.jpg" alt="1964 Vostok S-364 ">]]></description>
-            <link>https://thegrid.ai/cycle-cult/its-amazing-to-me-that-in-the-1960s-the-ussr-ever-attempt/index.html</link>
-            <guid isPermaLink="false">bb967699-53de-4e9e-9cb3-5b2f5b3d3130</guid>
-            <pubDate>Fri, 22 Jul 2016 13:28:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
