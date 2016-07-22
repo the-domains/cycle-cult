@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 13:59:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2016 14:01:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/98b3b9e5-0201-436c-a355-b5b4c12ddeb0.jpg" alt="Gene Vincent - Triumph">]]></description>
+            <link>https://thegrid.ai/cycle-cult/the-year-is-1969-and-legendary-rock-n-roller-gene-vincent-is/index.html</link>
+            <guid isPermaLink="false">0317f019-27f3-4163-a55a-dec48618fe60</guid>
+            <pubDate>Fri, 22 Jul 2016 14:01:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/62326eef-2154-493e-a0fe-b7fc14c00ea5.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/right-from-the-start-of-mike-hailwoods-racing-career-his-st/index.html</link>
             <guid isPermaLink="false">b234ef2e-fb24-4baa-9fef-68e0b2b31870</guid>
             <pubDate>Fri, 22 Jul 2016 13:40:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7315c2a9-34b6-40a7-aa50-15c2a4cdb390.jpg" alt="Naomi Taniguchi">]]></description>
-            <link>https://thegrid.ai/cycle-cult/naomi-taniguchi-became-the-first-japanese-racer-to-compete-a/index.html</link>
-            <guid isPermaLink="false">245823a6-b6ca-4760-b853-ef2e7e1bb730</guid>
-            <pubDate>Fri, 22 Jul 2016 13:38:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
