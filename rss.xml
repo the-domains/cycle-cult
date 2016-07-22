@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 05:30:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2016 05:32:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/71573ece-24a2-4ed8-a75f-292921436dec.jpg" alt="Alec Bennett">]]></description>
+            <link>https://thegrid.ai/cycle-cult/alec-bennett-won-the-500cc-senior-french-grand-prix-in-1921/index.html</link>
+            <guid isPermaLink="false">20a44f5c-703a-482d-b811-76d9b6ac20d4</guid>
+            <pubDate>Fri, 22 Jul 2016 05:32:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/51dd1a5d-d711-4955-9921-5c6810a91fc1.jpg" alt="AJS &quot;Porcupine&quot;">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/in-1914-the-french-automobile-company-peugeot-developed-the/index.html</link>
             <guid isPermaLink="false">7995d152-cf13-466f-81e8-a108993eca0e</guid>
             <pubDate>Fri, 22 Jul 2016 05:11:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/043bad21-4a3f-437a-bc60-4e79e1490947.jpg" alt="Silvio Grassetti">]]></description>
-            <link>https://thegrid.ai/cycle-cult/the-benelli-250cc-four-cylinder-gp-bike-made-its-racing-debu/index.html</link>
-            <guid isPermaLink="false">8b9d9a66-3326-47e1-9344-beda851aa9ae</guid>
-            <pubDate>Fri, 22 Jul 2016 05:09:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
