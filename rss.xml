@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 05:15:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2016 05:16:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3fe77734-5b80-456a-bee7-3fac477af158.jpg" alt="Cycle Cult Chopper Girl">]]></description>
+            <link>https://thegrid.ai/cycle-cult/cycle-cult-chopper-girl/index.html</link>
+            <guid isPermaLink="false">5d59db73-993b-4142-a847-bb9002961bf7</guid>
+            <pubDate>Fri, 22 Jul 2016 05:16:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4583f4d9-fac4-4890-bfc9-45f8a14c4f02.jpg" alt="Vostok GP Engine">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/d147c3d5-99de-4c38-b1cd-2f4996dabf16/index.html</link>
             <guid isPermaLink="false">d147c3d5-99de-4c38-b1cd-2f4996dabf16</guid>
             <pubDate>Fri, 22 Jul 2016 04:59:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea711e04-f136-4be5-aeb1-a2bc56176662.jpg">]]></description>
-            <link>https://thegrid.ai/cycle-cult/ae3a300f-6976-4e40-bdc1-a8e922c0ce53/index.html</link>
-            <guid isPermaLink="false">ae3a300f-6976-4e40-bdc1-a8e922c0ce53</guid>
-            <pubDate>Fri, 22 Jul 2016 04:59:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
