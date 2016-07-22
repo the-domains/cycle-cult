@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 05:08:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2016 05:09:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/043bad21-4a3f-437a-bc60-4e79e1490947.jpg" alt="Silvio Grassetti">]]></description>
+            <link>https://thegrid.ai/cycle-cult/the-benelli-250cc-four-cylinder-gp-bike-made-its-racing-debu/index.html</link>
+            <guid isPermaLink="false">8b9d9a66-3326-47e1-9344-beda851aa9ae</guid>
+            <pubDate>Fri, 22 Jul 2016 05:09:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/05b78ecc-5b73-4280-a501-2f7f4e7adc63.jpg" alt="Flying Freddie Dixon">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/a93b31c4-e269-4123-9fe9-d9e72b03c1d5/index.html</link>
             <guid isPermaLink="false">a93b31c4-e269-4123-9fe9-d9e72b03c1d5</guid>
             <pubDate>Fri, 22 Jul 2016 04:59:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7fc91884-2702-4ed9-a207-67bcebf5f2c4.jpg">]]></description>
-            <link>https://thegrid.ai/cycle-cult/57da483f-7966-4c51-8984-dc0151459773/index.html</link>
-            <guid isPermaLink="false">57da483f-7966-4c51-8984-dc0151459773</guid>
-            <pubDate>Fri, 22 Jul 2016 04:59:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
