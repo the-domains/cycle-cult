@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 13:36:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2016 13:38:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7315c2a9-34b6-40a7-aa50-15c2a4cdb390.jpg" alt="Naomi Taniguchi">]]></description>
+            <link>https://thegrid.ai/cycle-cult/naomi-taniguchi-became-the-first-japanese-racer-to-compete-a/index.html</link>
+            <guid isPermaLink="false">245823a6-b6ca-4760-b853-ef2e7e1bb730</guid>
+            <pubDate>Fri, 22 Jul 2016 13:38:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7aa42493-4d8d-49f9-95a4-aba846217788.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/in-1923-romanian-lessman-antonesco-and-marcel-violet-comple/index.html</link>
             <guid isPermaLink="false">5ae31bd0-1259-4ce3-850f-3d56195ea9ae</guid>
             <pubDate>Fri, 22 Jul 2016 13:18:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e152fe1-ca02-4ae7-918d-a0aec6004896.jpg" alt="Ren&eacute; Gillard">]]></description>
-            <link>https://thegrid.ai/cycle-cult/rene-gillard-photo-won-the-grand-prix-of-lyon-on-a-peugeot/index.html</link>
-            <guid isPermaLink="false">45bb6945-62e4-42a0-9598-f0235d6b1aef</guid>
-            <pubDate>Fri, 22 Jul 2016 13:16:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
