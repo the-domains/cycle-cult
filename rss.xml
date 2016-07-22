@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 13:25:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2016 13:28:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/89aaee61-ea6c-4b2b-8070-0289832df738.jpg" alt="1964 Vostok S-364 ">]]></description>
+            <link>https://thegrid.ai/cycle-cult/its-amazing-to-me-that-in-the-1960s-the-ussr-ever-attempt/index.html</link>
+            <guid isPermaLink="false">bb967699-53de-4e9e-9cb3-5b2f5b3d3130</guid>
+            <pubDate>Fri, 22 Jul 2016 13:28:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5aaec422-4376-4dc9-97c7-1087f5b28df0.jpg" alt="Lucien Delvaux">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/paul-meunier-won-the-french-grand-prix-in-1921-on-a-ohv-350c/index.html</link>
             <guid isPermaLink="false">47139ba3-231f-46fd-88c9-1c3f1836a8b2</guid>
             <pubDate>Fri, 22 Jul 2016 13:08:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5502dd06-aca4-4c50-818e-ce6b713c8ad4.jpg" alt="Freddie Dixon and passenger Walter Denny">]]></description>
-            <link>https://thegrid.ai/cycle-cult/winners-of-the-first-sidecar-race-at-the-isle-of-man-in-1923/index.html</link>
-            <guid isPermaLink="false">76540afe-61a4-4207-9106-932923d9d5f7</guid>
-            <pubDate>Fri, 22 Jul 2016 13:05:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
