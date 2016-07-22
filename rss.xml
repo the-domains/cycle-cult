@@ -4,15 +4,8 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 05:00:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2016 05:00:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/21537a8e-bfb1-4a61-b05b-e686571124c3.jpg">]]></description>
-            <link>https://thegrid.ai/cycle-cult/c7a9d780-e7b2-409e-9b87-5db9e2699b4a/index.html</link>
-            <guid isPermaLink="false">c7a9d780-e7b2-409e-9b87-5db9e2699b4a</guid>
-            <pubDate>Fri, 22 Jul 2016 04:59:35 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb6734a2-e10c-4eaa-935f-f08c82e385ca.jpg">]]></description>
@@ -75,6 +68,13 @@
             <link>https://thegrid.ai/cycle-cult/2b60eb76-3a95-4fde-ba41-c604c75c6217/index.html</link>
             <guid isPermaLink="false">2b60eb76-3a95-4fde-ba41-c604c75c6217</guid>
             <pubDate>Fri, 22 Jul 2016 04:59:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/57b7c353-d110-44aa-91f9-d3f3c1c95cb2.jpg">]]></description>
+            <link>https://thegrid.ai/cycle-cult/d7d95592-5818-43b7-a6f3-fc0700ae0003/index.html</link>
+            <guid isPermaLink="false">d7d95592-5818-43b7-a6f3-fc0700ae0003</guid>
+            <pubDate>Fri, 22 Jul 2016 04:59:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
