@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 05:28:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2016 05:30:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/51dd1a5d-d711-4955-9921-5c6810a91fc1.jpg" alt="AJS &quot;Porcupine&quot;">]]></description>
+            <link>https://thegrid.ai/cycle-cult/the-ajs-porcupine-was-originally-to-be-badged-and-raced-as/index.html</link>
+            <guid isPermaLink="false">0e6b617f-7bcc-4f96-8401-ec3e760bc1fb</guid>
+            <pubDate>Fri, 22 Jul 2016 05:30:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/85af13a2-db6e-44d1-ab9c-ebf9ee92eb6a.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/the-benelli-250cc-four-cylinder-gp-bike-made-its-racing-debu/index.html</link>
             <guid isPermaLink="false">8b9d9a66-3326-47e1-9344-beda851aa9ae</guid>
             <pubDate>Fri, 22 Jul 2016 05:09:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/05b78ecc-5b73-4280-a501-2f7f4e7adc63.jpg" alt="Flying Freddie Dixon">]]></description>
-            <link>https://thegrid.ai/cycle-cult/this-is-a-great-shot-of-flying-freddie-dixon-prior-to-the/index.html</link>
-            <guid isPermaLink="false">21ef852f-14cb-467d-8d49-6212beb2a4c8</guid>
-            <pubDate>Fri, 22 Jul 2016 05:08:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
