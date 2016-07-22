@@ -4,8 +4,22 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 04:45:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2016 04:50:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f34f0720-29d5-40b5-af4f-782c20c86157.jpg" alt="Oscar Hedstr&ouml;m">]]></description>
+            <link>https://thegrid.ai/cycle-cult/oscar-hedstrom-built-the-first-indian-prototype-in-1901-and/index.html</link>
+            <guid isPermaLink="false">85408094-7a7d-452a-8876-6776d94c6268</guid>
+            <pubDate>Fri, 22 Jul 2016 04:50:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c5166ff-ffbc-41c2-88e2-8ec25fa2ce4f.jpg">]]></description>
+            <link>https://thegrid.ai/cycle-cult/gene-vincent-was-a-mod-im-not-sure-vincent-eugene-craddock/index.html</link>
+            <guid isPermaLink="false">ba5bf764-031f-4bb1-a255-b4b2320d2de8</guid>
+            <pubDate>Fri, 22 Jul 2016 04:47:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6ba0327-f894-46d9-948b-ccc93382846f.jpg" alt="Eagle Rock Hill Climb">]]></description>
@@ -61,20 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/burlesque-dancer-misty-ayers-is-our-cycle-cult-girl-of-the-d/index.html</link>
             <guid isPermaLink="false">17c79108-6c27-4275-93d8-c0736d2ba788</guid>
             <pubDate>Fri, 22 Jul 2016 04:19:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8504cf22-c2f9-4f3e-8141-1d69ae6c9c76.jpg">]]></description>
-            <link>https://thegrid.ai/cycle-cult/765bad93-5b25-4230-9acb-ba586b8528f9/index.html</link>
-            <guid isPermaLink="false">765bad93-5b25-4230-9acb-ba586b8528f9</guid>
-            <pubDate>Fri, 22 Jul 2016 04:14:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb133f16-14a9-44c7-bab8-b89329b0a2fd.jpg" alt="Renzo Pasolini">]]></description>
-            <link>https://thegrid.ai/cycle-cult/renzo-pasolini-is-remembered-for-his-challenges-on-a-benelli/index.html</link>
-            <guid isPermaLink="false">31462b27-3e6e-431c-9571-a23f1bcff6d8</guid>
-            <pubDate>Fri, 22 Jul 2016 04:12:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
