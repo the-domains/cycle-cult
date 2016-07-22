@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 14:11:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2016 14:17:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/64117e37-598d-41b9-bafd-e3d87f2993d5.jpg" alt="Gilera 500cc - 1949">]]></description>
+            <link>https://thegrid.ai/cycle-cult/gileras-involvement-in-international-racing-started-in-1935/index.html</link>
+            <guid isPermaLink="false">7cddb1ac-d526-429d-a67a-0d46a8d2c508</guid>
+            <pubDate>Fri, 22 Jul 2016 14:16:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/96e1546f-50a2-4bd2-99c8-3ff256a30faf.png" alt="George Rowley - AJS V4 Kompressor">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/giacomo-agostini-on-the-1-mv-agusta-pushes-off-the-starting/index.html</link>
             <guid isPermaLink="false">07020893-4fc1-43c9-92aa-695a5f5221ae</guid>
             <pubDate>Fri, 22 Jul 2016 13:51:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/244905f8-2e88-46a5-a583-da1f587882a9.jpg" alt="Giacomo Agostini - 1974">]]></description>
-            <link>https://thegrid.ai/cycle-cult/by-1974-even-the-great-giacomo-agostini-couldnt-ignore-the/index.html</link>
-            <guid isPermaLink="false">3aafd99e-befc-4e29-984b-987a85695363</guid>
-            <pubDate>Fri, 22 Jul 2016 13:48:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
