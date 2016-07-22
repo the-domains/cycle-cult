@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 13:28:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2016 13:30:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/51aea287-6e06-41c6-9e47-80af1a1886a0.jpg" alt="1977 &Aacute;ngel Nieto">]]></description>
+            <link>https://thegrid.ai/cycle-cult/between-1969-and-1977-angel-nieto-won-six-of-the-nine-50cc-t/index.html</link>
+            <guid isPermaLink="false">ca3612ba-9068-4dd9-ac71-d1114b731bbc</guid>
+            <pubDate>Fri, 22 Jul 2016 13:30:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/89aaee61-ea6c-4b2b-8070-0289832df738.jpg" alt="1964 Vostok S-364 ">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/the-brooklands-concrete-banked-oval-was-famous-for-speed-rec/index.html</link>
             <guid isPermaLink="false">52a62404-d592-413a-bcb8-b709cc0e4d9b</guid>
             <pubDate>Fri, 22 Jul 2016 13:10:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a11cd2a9-0521-4f57-9119-b6e03b5d2828.jpg" alt="OHV 350cc Z&eacute;del v-twin Alcyon motorcycle">]]></description>
-            <link>https://thegrid.ai/cycle-cult/paul-meunier-won-the-french-grand-prix-in-1921-on-a-ohv-350c/index.html</link>
-            <guid isPermaLink="false">47139ba3-231f-46fd-88c9-1c3f1836a8b2</guid>
-            <pubDate>Fri, 22 Jul 2016 13:08:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
