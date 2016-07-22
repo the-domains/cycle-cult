@@ -4,8 +4,22 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 05:20:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2016 05:26:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/075fa201-e381-48d0-8952-7352c6d48dec.jpg" alt="Pierce-Arrow ">]]></description>
+            <link>https://thegrid.ai/cycle-cult/the-pierce-arrow-motor-car-company-made-one-of-the-finest-pr/index.html</link>
+            <guid isPermaLink="false">e5340c8c-05bd-49ce-9080-fbdf21fe9a1d</guid>
+            <pubDate>Fri, 22 Jul 2016 05:26:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1beee23c-eef3-4278-8575-c664704ab943.jpg" alt="Paul Meunier ">]]></description>
+            <link>https://thegrid.ai/cycle-cult/this-is-what-a-pit-stop-during-the-french-motorcycle-grand-p/index.html</link>
+            <guid isPermaLink="false">737e019a-3a36-4963-9fb3-26224b16d406</guid>
+            <pubDate>Fri, 22 Jul 2016 05:23:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ccc638e8-9e17-492a-b9cc-dc9c266feaed.jpg" alt="Tom Phillis">]]></description>
@@ -61,20 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/e8fdd015-1b4a-4ad1-98e9-807c7ce351fd/index.html</link>
             <guid isPermaLink="false">e8fdd015-1b4a-4ad1-98e9-807c7ce351fd</guid>
             <pubDate>Fri, 22 Jul 2016 04:59:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cac07cdb-5da3-438d-85c8-1583a6d0eb63.jpg">]]></description>
-            <link>https://thegrid.ai/cycle-cult/c64473c2-84a5-46dd-a5c3-2ed2e6379c60/index.html</link>
-            <guid isPermaLink="false">c64473c2-84a5-46dd-a5c3-2ed2e6379c60</guid>
-            <pubDate>Fri, 22 Jul 2016 04:59:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c59c994f-cb07-414d-9f7a-2aa32804b513.jpg">]]></description>
-            <link>https://thegrid.ai/cycle-cult/e27d1a86-2aa1-4b5f-a525-9389b7675bdf/index.html</link>
-            <guid isPermaLink="false">e27d1a86-2aa1-4b5f-a525-9389b7675bdf</guid>
-            <pubDate>Fri, 22 Jul 2016 04:59:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
