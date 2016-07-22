@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 13:16:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2016 13:18:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/276261ee-9b56-4808-8c46-199ed4e7c3b1.jpg" alt="Peugeot 500M ">]]></description>
+            <link>https://thegrid.ai/cycle-cult/in-1923-romanian-lessman-antonesco-and-marcel-violet-comple/index.html</link>
+            <guid isPermaLink="false">5ae31bd0-1259-4ce3-850f-3d56195ea9ae</guid>
+            <pubDate>Fri, 22 Jul 2016 13:18:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e152fe1-ca02-4ae7-918d-a0aec6004896.jpg" alt="Ren&eacute; Gillard">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/alec-bennett-won-the-500cc-senior-french-grand-prix-in-1921/index.html</link>
             <guid isPermaLink="false">20a44f5c-703a-482d-b811-76d9b6ac20d4</guid>
             <pubDate>Fri, 22 Jul 2016 05:32:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/51dd1a5d-d711-4955-9921-5c6810a91fc1.jpg" alt="AJS &quot;Porcupine&quot;">]]></description>
-            <link>https://thegrid.ai/cycle-cult/the-ajs-porcupine-was-originally-to-be-badged-and-raced-as/index.html</link>
-            <guid isPermaLink="false">0e6b617f-7bcc-4f96-8401-ec3e760bc1fb</guid>
-            <pubDate>Fri, 22 Jul 2016 05:30:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
