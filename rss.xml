@@ -4,7 +4,7 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 04:59:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2016 04:59:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -43,20 +43,6 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2229ceb9-8ef8-44e8-8e24-58f6714f992b.jpg">]]></description>
-            <link>https://thegrid.ai/cycle-cult/2b60eb76-3a95-4fde-ba41-c604c75c6217/index.html</link>
-            <guid isPermaLink="false">2b60eb76-3a95-4fde-ba41-c604c75c6217</guid>
-            <pubDate>Fri, 22 Jul 2016 04:59:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/57b7c353-d110-44aa-91f9-d3f3c1c95cb2.jpg">]]></description>
-            <link>https://thegrid.ai/cycle-cult/d7d95592-5818-43b7-a6f3-fc0700ae0003/index.html</link>
-            <guid isPermaLink="false">d7d95592-5818-43b7-a6f3-fc0700ae0003</guid>
-            <pubDate>Fri, 22 Jul 2016 04:59:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aae73e2f-deb5-4635-95d0-8d3ae7e21500.jpg" alt="Paul Pean - Peugeot">]]></description>
             <link>https://thegrid.ai/cycle-cult/peugeot-factory-rider-paul-pean-in-this-photo-won-the-1926-g/index.html</link>
             <guid isPermaLink="false">87ced64e-0a81-42a1-b05c-78d8c68a4e8e</guid>
@@ -75,6 +61,20 @@
             <link>https://thegrid.ai/cycle-cult/oscar-hedstrom-built-the-first-indian-prototype-in-1901-and/index.html</link>
             <guid isPermaLink="false">85408094-7a7d-452a-8876-6776d94c6268</guid>
             <pubDate>Fri, 22 Jul 2016 04:50:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c5166ff-ffbc-41c2-88e2-8ec25fa2ce4f.jpg">]]></description>
+            <link>https://thegrid.ai/cycle-cult/gene-vincent-was-a-mod-im-not-sure-vincent-eugene-craddock/index.html</link>
+            <guid isPermaLink="false">ba5bf764-031f-4bb1-a255-b4b2320d2de8</guid>
+            <pubDate>Fri, 22 Jul 2016 04:47:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6ba0327-f894-46d9-948b-ccc93382846f.jpg" alt="Eagle Rock Hill Climb">]]></description>
+            <link>https://thegrid.ai/cycle-cult/the-eagle-rock-hill-climb-is-the-oldest-recorded-official-hi/index.html</link>
+            <guid isPermaLink="false">49f38a0c-d022-4c4c-9aa7-5119e07237cc</guid>
+            <pubDate>Fri, 22 Jul 2016 04:44:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
