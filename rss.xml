@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 04:19:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2016 04:22:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f3a38edc-8f6e-4c0d-8e58-92c84c9152df.jpg">]]></description>
+            <link>https://thegrid.ai/cycle-cult/renzo-pasolini-i-race-because-i-love-to-do-itif-i-win-e/index.html</link>
+            <guid isPermaLink="false">83139963-2a82-4cc7-af49-fa40f99efd54</guid>
+            <pubDate>Fri, 22 Jul 2016 04:22:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/768867ed-1d81-41bd-9de0-93ad27e89902.jpg" alt="Burlesque dancer Misty Ayers">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/8d3519de-affd-4d75-9fc6-d306459b95af/index.html</link>
             <guid isPermaLink="false">8d3519de-affd-4d75-9fc6-d306459b95af</guid>
             <pubDate>Fri, 22 Jul 2016 03:40:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0c99e8da-f71b-479f-acc1-dc794baddd3f.jpg">]]></description>
-            <link>https://thegrid.ai/cycle-cult/ecba2d20-9b81-413a-a97d-0e5bf6bc6450/index.html</link>
-            <guid isPermaLink="false">ecba2d20-9b81-413a-a97d-0e5bf6bc6450</guid>
-            <pubDate>Fri, 22 Jul 2016 03:40:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
