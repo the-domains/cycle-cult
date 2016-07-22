@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 05:11:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2016 05:15:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4583f4d9-fac4-4890-bfc9-45f8a14c4f02.jpg" alt="Vostok GP Engine">]]></description>
+            <link>https://thegrid.ai/cycle-cult/ok-cycle-cultists-here-is-a-puzzler-what-is-this-engine-a/index.html</link>
+            <guid isPermaLink="false">2004bf7c-90a1-480c-8e3a-7dc51b5ed5ea</guid>
+            <pubDate>Fri, 22 Jul 2016 05:14:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3d3a4bba-28f6-4ba2-bb69-750fd142f4ee.jpg" alt="Ernest Henry">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/ae3a300f-6976-4e40-bdc1-a8e922c0ce53/index.html</link>
             <guid isPermaLink="false">ae3a300f-6976-4e40-bdc1-a8e922c0ce53</guid>
             <pubDate>Fri, 22 Jul 2016 04:59:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/21537a8e-bfb1-4a61-b05b-e686571124c3.jpg">]]></description>
-            <link>https://thegrid.ai/cycle-cult/c7a9d780-e7b2-409e-9b87-5db9e2699b4a/index.html</link>
-            <guid isPermaLink="false">c7a9d780-e7b2-409e-9b87-5db9e2699b4a</guid>
-            <pubDate>Fri, 22 Jul 2016 04:59:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
