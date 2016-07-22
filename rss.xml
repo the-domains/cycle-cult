@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 05:32:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2016 12:59:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/27321f69-6860-45ab-99b4-e220eb92f51e.jpg" alt="Tom Phillis - Norton">]]></description>
+            <link>https://thegrid.ai/cycle-cult/tom-phillis-first-motorcycle-was-a-1939-high-cam-sunbeam-b2/index.html</link>
+            <guid isPermaLink="false">14c288a4-03e7-4e86-b55b-f1eb06d36523</guid>
+            <pubDate>Fri, 22 Jul 2016 12:59:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/71573ece-24a2-4ed8-a75f-292921436dec.jpg" alt="Alec Bennett">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/ok-cycle-cultists-here-is-a-puzzler-what-is-this-engine-a/index.html</link>
             <guid isPermaLink="false">2004bf7c-90a1-480c-8e3a-7dc51b5ed5ea</guid>
             <pubDate>Fri, 22 Jul 2016 05:14:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3d3a4bba-28f6-4ba2-bb69-750fd142f4ee.jpg" alt="Ernest Henry">]]></description>
-            <link>https://thegrid.ai/cycle-cult/in-1914-the-french-automobile-company-peugeot-developed-the/index.html</link>
-            <guid isPermaLink="false">7995d152-cf13-466f-81e8-a108993eca0e</guid>
-            <pubDate>Fri, 22 Jul 2016 05:11:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
