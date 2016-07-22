@@ -4,8 +4,22 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 13:44:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2016 13:48:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/244905f8-2e88-46a5-a583-da1f587882a9.jpg" alt="Giacomo Agostini - 1974">]]></description>
+            <link>https://thegrid.ai/cycle-cult/by-1974-even-the-great-giacomo-agostini-couldnt-ignore-the/index.html</link>
+            <guid isPermaLink="false">3aafd99e-befc-4e29-984b-987a85695363</guid>
+            <pubDate>Fri, 22 Jul 2016 13:48:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3202aed3-d672-4615-984b-017ffb49a970.jpg" alt="Mike Hailwood - Honda">]]></description>
+            <link>https://thegrid.ai/cycle-cult/mike-hailwood-was-a-natural-who-could-ride-anything-he-won/index.html</link>
+            <guid isPermaLink="false">956c9823-2839-4396-8cff-b172160e1b8f</guid>
+            <pubDate>Fri, 22 Jul 2016 13:46:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/609531e8-5047-4b53-9c3a-e9d75069f743.jpg" alt="Mike Hailwood #28">]]></description>
@@ -61,20 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/its-amazing-to-me-that-in-the-1960s-the-ussr-ever-attempt/index.html</link>
             <guid isPermaLink="false">bb967699-53de-4e9e-9cb3-5b2f5b3d3130</guid>
             <pubDate>Fri, 22 Jul 2016 13:28:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5aaec422-4376-4dc9-97c7-1087f5b28df0.jpg" alt="Lucien Delvaux">]]></description>
-            <link>https://thegrid.ai/cycle-cult/ernest-henrys-parallel-twin-cylinder-double-overhead-cam-pe/index.html</link>
-            <guid isPermaLink="false">d22200df-fefd-4031-b625-5b749b9f316d</guid>
-            <pubDate>Fri, 22 Jul 2016 13:25:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f09fdd11-effa-4ac3-b91b-e79eb6abf39a.jpg" alt="Edward &quot;Teddy&quot; Carroll">]]></description>
-            <link>https://thegrid.ai/cycle-cult/edward-teddy-carroll-was-just-17-when-he-landed-his-dream/index.html</link>
-            <guid isPermaLink="false">d4b3ed16-c654-4d14-875c-95434cef9f19</guid>
-            <pubDate>Fri, 22 Jul 2016 13:23:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
