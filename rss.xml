@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 13:38:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2016 13:40:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/701eae7b-c05f-44bf-983b-49cd790eac43.jpg" alt="Mike Hailwood&apos;s Helmet">]]></description>
+            <link>https://thegrid.ai/cycle-cult/right-from-the-start-of-mike-hailwoods-racing-career-his-st/index.html</link>
+            <guid isPermaLink="false">b234ef2e-fb24-4baa-9fef-68e0b2b31870</guid>
+            <pubDate>Fri, 22 Jul 2016 13:40:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7315c2a9-34b6-40a7-aa50-15c2a4cdb390.jpg" alt="Naomi Taniguchi">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/flying-freddie-dixon-takes-a-spill-in-the-hairpin-at-le-ma/index.html</link>
             <guid isPermaLink="false">65a98b78-b72b-40e8-bc33-3851277250d7</guid>
             <pubDate>Fri, 22 Jul 2016 13:21:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/276261ee-9b56-4808-8c46-199ed4e7c3b1.jpg" alt="Peugeot 500M ">]]></description>
-            <link>https://thegrid.ai/cycle-cult/in-1923-romanian-lessman-antonesco-and-marcel-violet-comple/index.html</link>
-            <guid isPermaLink="false">5ae31bd0-1259-4ce3-850f-3d56195ea9ae</guid>
-            <pubDate>Fri, 22 Jul 2016 13:18:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
