@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 13:52:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2016 13:55:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c93a957-af6a-4b23-8628-41a84aa6bde0.jpg" alt="Jack Shemans">]]></description>
+            <link>https://thegrid.ai/cycle-cult/jack-shemans-is-a-cycle-cult-unsung-hero-and-a-highly-regard/index.html</link>
+            <guid isPermaLink="false">579b454b-1c1d-4787-9b2d-bb683710ab78</guid>
+            <pubDate>Fri, 22 Jul 2016 13:55:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/65d52202-7f0a-47dd-a933-d693cc516043.jpg" alt="Giacomo Agostini and Mike Hailwood">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/this-is-another-motom-ultra-lightweight-single-that-appears/index.html</link>
             <guid isPermaLink="false">a5a102fd-2551-425c-bba9-624e806880c6</guid>
             <pubDate>Fri, 22 Jul 2016 13:34:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/013c8f08-04d0-4be2-8369-bdb49806fa39.jpg" alt="Pierce Motorcycle">]]></description>
-            <link>https://thegrid.ai/cycle-cult/catalogue-images-of-the-pierce-motorcycles-and-the-pierce-sp/index.html</link>
-            <guid isPermaLink="false">ed7d70dc-ef71-4e61-bbda-28a6cf0f8963</guid>
-            <pubDate>Fri, 22 Jul 2016 13:32:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
