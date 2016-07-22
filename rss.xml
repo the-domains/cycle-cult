@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 13:12:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2016 13:14:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b765f275-78fc-4527-bbf2-77c7eb5fbc3a.jpg" alt="SOHC 500cc twin Peugeot">]]></description>
+            <link>https://thegrid.ai/cycle-cult/m-richard-the-1925-winner-of-the-grand-prix-of-lyon-on-a-so/index.html</link>
+            <guid isPermaLink="false">637bbf2b-0191-4370-a70f-6212d62b87fa</guid>
+            <pubDate>Fri, 22 Jul 2016 13:14:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2fcc8d0c-086d-4fea-92bf-b10cf57d0a49.jpg" alt="&quot;Cannonball&quot; Baker and Teddy Carrol">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/angel-nieto-is-one-of-the-most-successful-motorcycle-racers/index.html</link>
             <guid isPermaLink="false">304146cb-3d26-43c0-883e-b34ee1ecd1bb</guid>
             <pubDate>Fri, 22 Jul 2016 05:28:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/075fa201-e381-48d0-8952-7352c6d48dec.jpg" alt="Pierce-Arrow ">]]></description>
-            <link>https://thegrid.ai/cycle-cult/the-pierce-arrow-motor-car-company-made-one-of-the-finest-pr/index.html</link>
-            <guid isPermaLink="false">e5340c8c-05bd-49ce-9080-fbdf21fe9a1d</guid>
-            <pubDate>Fri, 22 Jul 2016 05:26:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
