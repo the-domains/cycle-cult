@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 04:00:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2016 04:06:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf6e237f-86e7-40f2-8c90-8f61efd7eb26.jpg" alt="Vincent Engine Cutaway">]]></description>
+            <link>https://thegrid.ai/cycle-cult/the-vincent-v-twin-motorcycle-incorporated-a-number-of-new-a/index.html</link>
+            <guid isPermaLink="false">7de4cccb-fe65-435a-a587-b901a463f7ae</guid>
+            <pubDate>Fri, 22 Jul 2016 04:06:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/70e9a271-478d-4784-93fe-cd784426c0c9.jpg" alt="Vincent Engine Cutaway">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/e58c7bfd-1646-4d9e-bedb-1f810339a8dc/index.html</link>
             <guid isPermaLink="false">e58c7bfd-1646-4d9e-bedb-1f810339a8dc</guid>
             <pubDate>Fri, 22 Jul 2016 03:40:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4748b3fd-90c0-487e-aac7-ec7094357c00.jpg">]]></description>
-            <link>https://thegrid.ai/cycle-cult/97f7a7e9-d001-4ece-80dd-2ac8ae6f634b/index.html</link>
-            <guid isPermaLink="false">97f7a7e9-d001-4ece-80dd-2ac8ae6f634b</guid>
-            <pubDate>Fri, 22 Jul 2016 03:40:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
