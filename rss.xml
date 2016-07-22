@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 05:18:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2016 05:20:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ccc638e8-9e17-492a-b9cc-dc9c266feaed.jpg" alt="Tom Phillis">]]></description>
+            <link>https://thegrid.ai/cycle-cult/1960-was-the-first-year-that-the-honda-team-would-compete-in/index.html</link>
+            <guid isPermaLink="false">fc656eb7-e8c2-490f-a9a5-7a588afa513d</guid>
+            <pubDate>Fri, 22 Jul 2016 05:20:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fee45e93-80d9-488e-a0d8-082cab99e69a.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/e27d1a86-2aa1-4b5f-a525-9389b7675bdf/index.html</link>
             <guid isPermaLink="false">e27d1a86-2aa1-4b5f-a525-9389b7675bdf</guid>
             <pubDate>Fri, 22 Jul 2016 04:59:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/badbb414-dcf5-4c41-b514-2eb7721f4c82.jpg">]]></description>
-            <link>https://thegrid.ai/cycle-cult/771bcc24-38f4-4fbd-a958-8e8ce8d942b1/index.html</link>
-            <guid isPermaLink="false">771bcc24-38f4-4fbd-a958-8e8ce8d942b1</guid>
-            <pubDate>Fri, 22 Jul 2016 04:59:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
