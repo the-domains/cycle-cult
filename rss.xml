@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 13:01:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2016 13:05:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5502dd06-aca4-4c50-818e-ce6b713c8ad4.jpg" alt="Freddie Dixon and passenger Walter Denny">]]></description>
+            <link>https://thegrid.ai/cycle-cult/winners-of-the-first-sidecar-race-at-the-isle-of-man-in-1923/index.html</link>
+            <guid isPermaLink="false">76540afe-61a4-4207-9106-932923d9d5f7</guid>
+            <pubDate>Fri, 22 Jul 2016 13:05:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/369bb44c-709d-4f39-92a6-048ea5aa8fab.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/ultra-lightweight-motorcycles-have-always-piqued-my-interest/index.html</link>
             <guid isPermaLink="false">4f94b6a6-b0fb-4aab-8c7e-2c61220df855</guid>
             <pubDate>Fri, 22 Jul 2016 05:18:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3fe77734-5b80-456a-bee7-3fac477af158.jpg" alt="Cycle Cult Chopper Girl">]]></description>
-            <link>https://thegrid.ai/cycle-cult/cycle-cult-chopper-girl/index.html</link>
-            <guid isPermaLink="false">5d59db73-993b-4142-a847-bb9002961bf7</guid>
-            <pubDate>Fri, 22 Jul 2016 05:16:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
