@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 14:01:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2016 14:06:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/426ac2fd-9274-4651-a8eb-c2149351c7f4.jpg" alt="AJS E95 Porcupine">]]></description>
+            <link>https://thegrid.ai/cycle-cult/in-1952-the-porcupine-works-racer-was-redesigned-by-ajs-de/index.html</link>
+            <guid isPermaLink="false">37340811-52c1-4e05-b623-8b0981e437be</guid>
+            <pubDate>Fri, 22 Jul 2016 14:05:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/98b3b9e5-0201-436c-a355-b5b4c12ddeb0.jpg" alt="Gene Vincent - Triumph">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/mike-hailwoods-interest-in-motorcycle-racing-was-so-keen-th/index.html</link>
             <guid isPermaLink="false">159e9c5a-98ac-4015-9541-e24c24608c12</guid>
             <pubDate>Fri, 22 Jul 2016 13:44:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/701eae7b-c05f-44bf-983b-49cd790eac43.jpg" alt="Mike Hailwood&apos;s Helmet">]]></description>
-            <link>https://thegrid.ai/cycle-cult/right-from-the-start-of-mike-hailwoods-racing-career-his-st/index.html</link>
-            <guid isPermaLink="false">b234ef2e-fb24-4baa-9fef-68e0b2b31870</guid>
-            <pubDate>Fri, 22 Jul 2016 13:40:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
