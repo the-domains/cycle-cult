@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 13:14:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2016 13:16:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e152fe1-ca02-4ae7-918d-a0aec6004896.jpg" alt="Ren&eacute; Gillard">]]></description>
+            <link>https://thegrid.ai/cycle-cult/rene-gillard-photo-won-the-grand-prix-of-lyon-on-a-peugeot/index.html</link>
+            <guid isPermaLink="false">45bb6945-62e4-42a0-9598-f0235d6b1aef</guid>
+            <pubDate>Fri, 22 Jul 2016 13:16:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b765f275-78fc-4527-bbf2-77c7eb5fbc3a.jpg" alt="SOHC 500cc twin Peugeot">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/the-ajs-porcupine-was-originally-to-be-badged-and-raced-as/index.html</link>
             <guid isPermaLink="false">0e6b617f-7bcc-4f96-8401-ec3e760bc1fb</guid>
             <pubDate>Fri, 22 Jul 2016 05:30:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/85af13a2-db6e-44d1-ab9c-ebf9ee92eb6a.jpg">]]></description>
-            <link>https://thegrid.ai/cycle-cult/angel-nieto-is-one-of-the-most-successful-motorcycle-racers/index.html</link>
-            <guid isPermaLink="false">304146cb-3d26-43c0-883e-b34ee1ecd1bb</guid>
-            <pubDate>Fri, 22 Jul 2016 05:28:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
