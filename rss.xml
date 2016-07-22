@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 12:59:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2016 13:01:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/369bb44c-709d-4f39-92a6-048ea5aa8fab.jpg">]]></description>
+            <link>https://thegrid.ai/cycle-cult/the-honda-rc142-1959-1960-had-a-capacity-of-1246cc-and-a-b/index.html</link>
+            <guid isPermaLink="false">c04c8cd8-9c98-4867-8cda-2dd80c9aa126</guid>
+            <pubDate>Fri, 22 Jul 2016 13:01:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/27321f69-6860-45ab-99b4-e220eb92f51e.jpg" alt="Tom Phillis - Norton">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/cycle-cult-chopper-girl/index.html</link>
             <guid isPermaLink="false">5d59db73-993b-4142-a847-bb9002961bf7</guid>
             <pubDate>Fri, 22 Jul 2016 05:16:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4583f4d9-fac4-4890-bfc9-45f8a14c4f02.jpg" alt="Vostok GP Engine">]]></description>
-            <link>https://thegrid.ai/cycle-cult/ok-cycle-cultists-here-is-a-puzzler-what-is-this-engine-a/index.html</link>
-            <guid isPermaLink="false">2004bf7c-90a1-480c-8e3a-7dc51b5ed5ea</guid>
-            <pubDate>Fri, 22 Jul 2016 05:14:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
