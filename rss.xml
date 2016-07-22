@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 13:23:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2016 13:25:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5aaec422-4376-4dc9-97c7-1087f5b28df0.jpg" alt="Lucien Delvaux">]]></description>
+            <link>https://thegrid.ai/cycle-cult/ernest-henrys-parallel-twin-cylinder-double-overhead-cam-pe/index.html</link>
+            <guid isPermaLink="false">d22200df-fefd-4031-b625-5b749b9f316d</guid>
+            <pubDate>Fri, 22 Jul 2016 13:25:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f09fdd11-effa-4ac3-b91b-e79eb6abf39a.jpg" alt="Edward &quot;Teddy&quot; Carroll">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/winners-of-the-first-sidecar-race-at-the-isle-of-man-in-1923/index.html</link>
             <guid isPermaLink="false">76540afe-61a4-4207-9106-932923d9d5f7</guid>
             <pubDate>Fri, 22 Jul 2016 13:05:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/369bb44c-709d-4f39-92a6-048ea5aa8fab.jpg">]]></description>
-            <link>https://thegrid.ai/cycle-cult/the-honda-rc142-1959-1960-had-a-capacity-of-1246cc-and-a-b/index.html</link>
-            <guid isPermaLink="false">c04c8cd8-9c98-4867-8cda-2dd80c9aa126</guid>
-            <pubDate>Fri, 22 Jul 2016 13:01:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
