@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 14:06:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2016 14:09:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/47e957ff-c3ac-4400-b566-66533a518f2d.jpg" alt="AJS water cooled supercharged Porcupine">]]></description>
+            <link>https://thegrid.ai/cycle-cult/in-1939-ajs-designer-matt-wright-former-new-imperial-design/index.html</link>
+            <guid isPermaLink="false">65f4b85c-fa2e-493a-ae50-671d2b98605a</guid>
+            <pubDate>Fri, 22 Jul 2016 14:09:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/426ac2fd-9274-4651-a8eb-c2149351c7f4.jpg" alt="AJS E95 Porcupine">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/mike-hailwood-was-a-natural-who-could-ride-anything-he-won/index.html</link>
             <guid isPermaLink="false">956c9823-2839-4396-8cff-b172160e1b8f</guid>
             <pubDate>Fri, 22 Jul 2016 13:46:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/609531e8-5047-4b53-9c3a-e9d75069f743.jpg" alt="Mike Hailwood #28">]]></description>
-            <link>https://thegrid.ai/cycle-cult/mike-hailwoods-interest-in-motorcycle-racing-was-so-keen-th/index.html</link>
-            <guid isPermaLink="false">159e9c5a-98ac-4015-9541-e24c24608c12</guid>
-            <pubDate>Fri, 22 Jul 2016 13:44:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
