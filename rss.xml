@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 04:06:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2016 04:12:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb133f16-14a9-44c7-bab8-b89329b0a2fd.jpg" alt="Renzo Pasolini">]]></description>
+            <link>https://thegrid.ai/cycle-cult/renzo-pasolini-is-remembered-for-his-challenges-on-a-benelli/index.html</link>
+            <guid isPermaLink="false">31462b27-3e6e-431c-9571-a23f1bcff6d8</guid>
+            <pubDate>Fri, 22 Jul 2016 04:12:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf6e237f-86e7-40f2-8c90-8f61efd7eb26.jpg" alt="Vincent Engine Cutaway">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/0f262b7e-28b6-40aa-a785-f93463a46e8d/index.html</link>
             <guid isPermaLink="false">0f262b7e-28b6-40aa-a785-f93463a46e8d</guid>
             <pubDate>Fri, 22 Jul 2016 03:40:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac9fd499-0d7e-4c8f-8391-ad6c0d445e88.jpg">]]></description>
-            <link>https://thegrid.ai/cycle-cult/e58c7bfd-1646-4d9e-bedb-1f810339a8dc/index.html</link>
-            <guid isPermaLink="false">e58c7bfd-1646-4d9e-bedb-1f810339a8dc</guid>
-            <pubDate>Fri, 22 Jul 2016 03:40:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
