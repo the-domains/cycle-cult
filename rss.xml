@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 04:38:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2016 04:45:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6ba0327-f894-46d9-948b-ccc93382846f.jpg" alt="Eagle Rock Hill Climb">]]></description>
+            <link>https://thegrid.ai/cycle-cult/the-eagle-rock-hill-climb-is-the-oldest-recorded-official-hi/index.html</link>
+            <guid isPermaLink="false">49f38a0c-d022-4c4c-9aa7-5119e07237cc</guid>
+            <pubDate>Fri, 22 Jul 2016 04:44:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7e518cd-9412-4712-b272-cd513a66c0f5.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/renzo-pasolini-is-remembered-for-his-challenges-on-a-benelli/index.html</link>
             <guid isPermaLink="false">31462b27-3e6e-431c-9571-a23f1bcff6d8</guid>
             <pubDate>Fri, 22 Jul 2016 04:12:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf6e237f-86e7-40f2-8c90-8f61efd7eb26.jpg" alt="Vincent Engine Cutaway">]]></description>
-            <link>https://thegrid.ai/cycle-cult/the-vincent-v-twin-motorcycle-incorporated-a-number-of-new-a/index.html</link>
-            <guid isPermaLink="false">7de4cccb-fe65-435a-a587-b901a463f7ae</guid>
-            <pubDate>Fri, 22 Jul 2016 04:06:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
