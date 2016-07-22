@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 13:40:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2016 13:44:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/609531e8-5047-4b53-9c3a-e9d75069f743.jpg" alt="Mike Hailwood #28">]]></description>
+            <link>https://thegrid.ai/cycle-cult/mike-hailwoods-interest-in-motorcycle-racing-was-so-keen-th/index.html</link>
+            <guid isPermaLink="false">159e9c5a-98ac-4015-9541-e24c24608c12</guid>
+            <pubDate>Fri, 22 Jul 2016 13:44:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/701eae7b-c05f-44bf-983b-49cd790eac43.jpg" alt="Mike Hailwood&apos;s Helmet">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/edward-teddy-carroll-was-just-17-when-he-landed-his-dream/index.html</link>
             <guid isPermaLink="false">d4b3ed16-c654-4d14-875c-95434cef9f19</guid>
             <pubDate>Fri, 22 Jul 2016 13:23:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e575678-6238-432c-a2c6-81ee850b8470.jpg" alt="Freddie Dixon and Jack Emerson">]]></description>
-            <link>https://thegrid.ai/cycle-cult/flying-freddie-dixon-takes-a-spill-in-the-hairpin-at-le-ma/index.html</link>
-            <guid isPermaLink="false">65a98b78-b72b-40e8-bc33-3851277250d7</guid>
-            <pubDate>Fri, 22 Jul 2016 13:21:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
