@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 04:22:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2016 04:25:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2a9c3cec-023f-46a8-be3e-a380970c0e30.jpg">]]></description>
+            <link>https://thegrid.ai/cycle-cult/some-motorcycle-designs-are-way-ahead-of-the-times-the-majo/index.html</link>
+            <guid isPermaLink="false">7e652be5-a6d0-4ce4-a089-a788242b4cbd</guid>
+            <pubDate>Fri, 22 Jul 2016 04:25:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f3a38edc-8f6e-4c0d-8e58-92c84c9152df.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/3447bc2e-0b99-4bbc-8a54-258c6ea13edc/index.html</link>
             <guid isPermaLink="false">3447bc2e-0b99-4bbc-8a54-258c6ea13edc</guid>
             <pubDate>Fri, 22 Jul 2016 03:41:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc2df219-753d-46ee-9a1c-c57c2003f093.jpg">]]></description>
-            <link>https://thegrid.ai/cycle-cult/8d3519de-affd-4d75-9fc6-d306459b95af/index.html</link>
-            <guid isPermaLink="false">8d3519de-affd-4d75-9fc6-d306459b95af</guid>
-            <pubDate>Fri, 22 Jul 2016 03:40:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
