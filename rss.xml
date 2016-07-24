@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 17:08:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 17:10:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/18fa0ceb-81ef-4492-b301-06680107daf4.jpg" alt="DKW SB 500">]]></description>
+            <link>https://thegrid.ai/cycle-cult/dkw-was-the-worlds-largest-motorcycle-manufacturer-by-the-1/index.html</link>
+            <guid isPermaLink="false">390e75a8-6e22-4cb8-96e0-ef0db8b25621</guid>
+            <pubDate>Sun, 24 Jul 2016 17:10:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7318ef21-d9b8-49eb-a1ee-faa20b840efc.jpg" alt="1952 DKW 3 Cylinder 350cc">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/tazio-nuvolari-and-francesco-stanguellini-in-october-23-of-1/index.html</link>
             <guid isPermaLink="false">59c2ce59-79eb-4ea3-b790-f3a4e1e06a7d</guid>
             <pubDate>Sun, 24 Jul 2016 16:12:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4a0a7b7-092e-4cfa-a5b5-f1dc86771fb4.png" alt="Scuderia Stanguellini Race Team">]]></description>
-            <link>https://thegrid.ai/cycle-cult/the-1925-celso-stanguellini-race-team-riders-bezzanti-barbo/index.html</link>
-            <guid isPermaLink="false">2e3adc30-a0eb-413f-971b-a45dfadb38b8</guid>
-            <pubDate>Sun, 24 Jul 2016 16:08:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
