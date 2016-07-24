@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-22T14:01:19.151Z'
+datePublished: '2016-07-24T08:00:42.622Z'
+sourcePath: >-
+  _posts/2016-07-22-the-year-is-1969-and-legendary-rock-n-roller-gene-vincent-is.md
 author: []
 via: {}
-dateModified: '2016-07-22T14:01:15.571Z'
+dateModified: '2016-07-24T08:00:42.043Z'
 title: ''
 publisher: {}
 description: >-
@@ -17,8 +19,6 @@ description: >-
   Vincent was woken up the next day he claimed not to remember anything about
   the night before.
 starred: false
-sourcePath: >-
-  _posts/2016-07-22-the-year-is-1969-and-legendary-rock-n-roller-gene-vincent-is.md
 inFeed: true
 hasPage: true
 inNav: false
