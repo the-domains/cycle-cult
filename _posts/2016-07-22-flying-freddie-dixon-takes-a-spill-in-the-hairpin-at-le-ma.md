@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-22T13:21:49.553Z'
+datePublished: '2016-07-24T08:18:07.098Z'
+sourcePath: >-
+  _posts/2016-07-22-flying-freddie-dixon-takes-a-spill-in-the-hairpin-at-le-ma.md
 author: []
 via: {}
-dateModified: '2016-07-22T13:21:45.551Z'
+dateModified: '2016-07-24T08:18:06.602Z'
 title: ''
 publisher: {}
 description: >-
@@ -14,8 +16,6 @@ description: >-
   Alec Bennett won the 1921 Senior 500cc French Grand Prix on a long stroke 3.5
   hp Sunbeam TT with an average speed of 58.31 mph.
 starred: false
-sourcePath: >-
-  _posts/2016-07-22-flying-freddie-dixon-takes-a-spill-in-the-hairpin-at-le-ma.md
 inFeed: true
 hasPage: true
 inNav: false
