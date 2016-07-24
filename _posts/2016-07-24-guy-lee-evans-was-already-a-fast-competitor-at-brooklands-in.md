@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-24T03:21:58.047Z'
+datePublished: '2016-07-24T06:42:00.392Z'
+sourcePath: >-
+  _posts/2016-07-24-guy-lee-evans-was-already-a-fast-competitor-at-brooklands-in.md
 author: []
 via: {}
-dateModified: '2016-07-24T03:21:48.828Z'
+dateModified: '2016-07-24T06:41:59.832Z'
 title: ''
 publisher: {}
 description: >-
@@ -30,10 +32,8 @@ description: >-
   Collier taking first with an average speed of 50.63 mph and his brother Harry
   close behind in second place. Later that year Charlie Bennett would win the
   Brooklands 60-Lap TT race on an Indian motorcycle with an average speed of 61
-  mph.  ref: Motorcycle Illustrated Sept. 1, 1909
+  mph. ref: Motorcycle Illustrated Sept. 1, 1909
 starred: false
-sourcePath: >-
-  _posts/2016-07-24-guy-lee-evans-was-already-a-fast-competitor-at-brooklands-in.md
 inFeed: true
 hasPage: true
 inNav: false
