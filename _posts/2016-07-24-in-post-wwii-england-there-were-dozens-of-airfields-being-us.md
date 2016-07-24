@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-24T03:08:23.797Z'
+datePublished: '2016-07-24T06:54:01.378Z'
+sourcePath: >-
+  _posts/2016-07-24-in-post-wwii-england-there-were-dozens-of-airfields-being-us.md
 author: []
 via: {}
-dateModified: '2016-07-24T03:08:19.666Z'
+dateModified: '2016-07-24T06:54:00.635Z'
 title: ''
 publisher: {}
 description: >-
@@ -23,12 +25,10 @@ description: >-
   out a misfire in the rear cylinder caused by trapped piston rings the night
   before Sunday's record attempt. George also set the British Standing Start
   Kilo Record in 250, 350 and 500cc classes on an Ariel Arrow special supplied
-  to him by the Selly Oak company that same weekend! 
+  to him by the Selly Oak company that same weekend!
   ref:https://en.wikipedia.org/wiki/RAF_Thurleigh
   ref:http://vincent.gkhost.co.uk/George-Brown
 starred: false
-sourcePath: >-
-  _posts/2016-07-24-in-post-wwii-england-there-were-dozens-of-airfields-being-us.md
 inFeed: true
 hasPage: true
 inNav: false
