@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-22T04:06:52.892Z'
+datePublished: '2016-07-24T07:58:24.505Z'
+sourcePath: >-
+  _posts/2016-07-22-the-vincent-v-twin-motorcycle-incorporated-a-number-of-new-a.md
 author: []
 via: {}
-dateModified: '2016-07-22T04:05:03.362Z'
+dateModified: '2016-07-24T07:58:24.068Z'
 title: ''
 publisher: {}
 description: >-
@@ -22,8 +24,6 @@ description: >-
   the Black Shadow, was capable of 125 mph! Hence the slogan "the makers of the
   world's fastest motorcycles".
 starred: false
-sourcePath: >-
-  _posts/2016-07-22-the-vincent-v-twin-motorcycle-incorporated-a-number-of-new-a.md
 inFeed: true
 hasPage: true
 inNav: false
