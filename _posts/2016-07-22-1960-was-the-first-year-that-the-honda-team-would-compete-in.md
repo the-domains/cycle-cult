@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-22T05:20:29.618Z'
+datePublished: '2016-07-24T07:06:38.854Z'
+sourcePath: >-
+  _posts/2016-07-22-1960-was-the-first-year-that-the-honda-team-would-compete-in.md
 author: []
 via: {}
-dateModified: '2016-07-22T05:20:25.182Z'
+dateModified: '2016-07-24T07:06:38.453Z'
 title: ''
 publisher: {}
 description: >-
@@ -22,8 +24,6 @@ description: >-
   planned to retire from racing at the end of 1960. But his wife Tilde
   approached Honda on his behalf and he became a Honda works rider in 1961.
 starred: false
-sourcePath: >-
-  _posts/2016-07-22-1960-was-the-first-year-that-the-honda-team-would-compete-in.md
 inFeed: true
 hasPage: true
 inNav: false
