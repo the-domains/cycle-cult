@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-07-22T05:16:33.221Z'
+datePublished: '2016-07-24T08:07:28.108Z'
+sourcePath: _posts/2016-07-22-cycle-cult-chopper-girl.md
 author: []
 via: {}
-dateModified: '2016-07-22T05:16:29.994Z'
+dateModified: '2016-07-24T08:07:25.655Z'
 title: ''
 publisher: {}
 description: Cycle Cult Chopper Girl
 starred: false
-sourcePath: _posts/2016-07-22-cycle-cult-chopper-girl.md
 inFeed: true
 hasPage: true
 inNav: false
