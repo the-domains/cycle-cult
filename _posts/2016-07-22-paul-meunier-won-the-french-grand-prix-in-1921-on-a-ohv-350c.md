@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-22T13:08:06.209Z'
+datePublished: '2016-07-24T07:01:38.772Z'
+sourcePath: >-
+  _posts/2016-07-22-paul-meunier-won-the-french-grand-prix-in-1921-on-a-ohv-350c.md
 author: []
 via: {}
-dateModified: '2016-07-22T13:08:02.979Z'
+dateModified: '2016-07-24T07:01:36.495Z'
 title: ''
 publisher: {}
 description: >-
@@ -33,8 +35,6 @@ description: >-
   motorcycles, scooters and mopeds were produced, Peugeot took over the company
   in 1954.
 starred: false
-sourcePath: >-
-  _posts/2016-07-22-paul-meunier-won-the-french-grand-prix-in-1921-on-a-ohv-350c.md
 inFeed: true
 hasPage: true
 inNav: false
