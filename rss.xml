@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 17:42:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 17:43:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/18fa0ceb-81ef-4492-b301-06680107daf4.jpg" alt="DKW SB 500">]]></description>
+            <link>https://thegrid.ai/cycle-cult/dkw-was-the-worlds-largest-motorcycle-manufacturer-by-the-1/index.html</link>
+            <guid isPermaLink="false">390e75a8-6e22-4cb8-96e0-ef0db8b25621</guid>
+            <pubDate>Sun, 24 Jul 2016 17:43:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a74b239b-2089-4581-a025-8dab56e010f7.jpg" alt="Phelon &amp; Moore - 1914">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/the-first-post-wwii-motorcycle-race-organized-in-germany-was/index.html</link>
             <guid isPermaLink="false">7349421d-6114-4a16-8662-4e99f83ebc3f</guid>
             <pubDate>Sun, 24 Jul 2016 17:14:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/17f9ea01-f3b0-4ebb-8750-0e4bd148c8d5.jpg" alt="Karl Bodmer in 1937 riding for DKW">]]></description>
-            <link>https://thegrid.ai/cycle-cult/karl-bodmer-in-1937-riding-for-dkw-auto-union-on-the-ss-35/index.html</link>
-            <guid isPermaLink="false">ed097ea8-de9d-4da8-8ca7-106a734dad4f</guid>
-            <pubDate>Sun, 24 Jul 2016 17:11:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
