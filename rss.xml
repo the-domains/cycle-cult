@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 04:55:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 04:57:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/045c4636-844b-4302-8d51-547afb380188.jpg" alt="Giuliano Maoggi">]]></description>
+            <link>https://thegrid.ai/cycle-cult/giuliano-maoggi-on-a-ducati-marianna-125cc-at-the-motogiro-d/index.html</link>
+            <guid isPermaLink="false">248ec9a1-d520-4c53-b7f9-1bfc102e79bc</guid>
+            <pubDate>Sun, 24 Jul 2016 04:57:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/84d80c06-ef13-4f60-ac2b-a72a294de737.jpg" alt="Ducati 100cc Marianna">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/tazio-nuvolari-in-1926-on-his-bianchi-freccia-celeste-light/index.html</link>
             <guid isPermaLink="false">b1a9e8ea-9548-4d04-9939-ac4e31f3ea30</guid>
             <pubDate>Sun, 24 Jul 2016 04:14:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f066c833-286f-4397-b260-40cfa4ed90e4.jpg">]]></description>
-            <link>https://thegrid.ai/cycle-cult/a-1954-honda-dream-showed-up-at-the-vintage-motorcycle-days/index.html</link>
-            <guid isPermaLink="false">edec7d04-5aa7-4990-af2c-160c84ad1fe8</guid>
-            <pubDate>Sun, 24 Jul 2016 04:12:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
