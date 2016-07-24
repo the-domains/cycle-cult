@@ -4,8 +4,22 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 15:37:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 15:41:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/426ac2fd-9274-4651-a8eb-c2149351c7f4.jpg" alt="AJS E95 Porcupine">]]></description>
+            <link>https://thegrid.ai/cycle-cult/in-1952-the-porcupine-works-racer-was-redesigned-by-ajs-de/index.html</link>
+            <guid isPermaLink="false">37340811-52c1-4e05-b623-8b0981e437be</guid>
+            <pubDate>Sun, 24 Jul 2016 15:41:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5edf2a35-7ce4-488f-8dcc-7c5fbdc9a375.jpg">]]></description>
+            <link>https://thegrid.ai/cycle-cult/in-may-of-1952-a-pair-of-vincent-black-shadows-were-prepared/index.html</link>
+            <guid isPermaLink="false">194ad836-953f-4af8-9706-2b94dafb435a</guid>
+            <pubDate>Sun, 24 Jul 2016 15:39:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/824576c8-aff6-4174-88a8-e8aca376f5ba.jpg">]]></description>
@@ -61,20 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/cannonball-baker-and-teddy-carroll-set-motorcycle-enduranc/index.html</link>
             <guid isPermaLink="false">8341d551-41af-46dc-965d-15902cd84ea6</guid>
             <pubDate>Sun, 24 Jul 2016 08:27:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f544e2ec-a3e0-4617-b670-d60fd5b6485c.jpg">]]></description>
-            <link>https://thegrid.ai/cycle-cult/american-board-track-legend-jacob-jake-de-rosier-was-the-f/index.html</link>
-            <guid isPermaLink="false">8bd1cfdd-fb1a-439a-84f6-340986d63e8a</guid>
-            <pubDate>Sun, 24 Jul 2016 08:27:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed2da0f8-bf76-4640-82d6-59f62be998fa.jpg" alt="Gunga Din">]]></description>
-            <link>https://thegrid.ai/cycle-cult/gunga-din-is-the-most-famous-works-racer-to-come-out-of-th/index.html</link>
-            <guid isPermaLink="false">3b3732e0-e713-4262-a9d1-d7491685cd38</guid>
-            <pubDate>Sun, 24 Jul 2016 08:26:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
