@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-22T13:16:18.404Z'
+datePublished: '2016-07-24T06:49:09.111Z'
+sourcePath: >-
+  _posts/2016-07-22-rene-gillard-photo-won-the-grand-prix-of-lyon-on-a-peugeot.md
 author: []
 via: {}
-dateModified: '2016-07-22T13:16:15.382Z'
+dateModified: '2016-07-24T06:49:07.697Z'
 title: ''
 publisher: {}
 description: >-
@@ -10,8 +12,6 @@ description: >-
   1923 and 1924. At the1925 GP in Lyon a Peugeot 500 won again this time piloted
   by M. Richard.
 starred: false
-sourcePath: >-
-  _posts/2016-07-22-rene-gillard-photo-won-the-grand-prix-of-lyon-on-a-peugeot.md
 inFeed: true
 hasPage: true
 inNav: false
