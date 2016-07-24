@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-22T14:09:46.619Z'
+datePublished: '2016-07-24T06:43:21.520Z'
+sourcePath: >-
+  _posts/2016-07-22-in-1939-ajs-designer-matt-wright-former-new-imperial-design.md
 author: []
 via: {}
-dateModified: '2016-07-22T14:09:42.873Z'
+dateModified: '2016-07-24T06:43:21.023Z'
 title: ''
 publisher: {}
 description: >-
@@ -21,8 +23,6 @@ description: >-
   BMW's of Georg Meir and Jock West that grabbed the first two places. Rusk and
   Foster would come in 11th and 13th.
 starred: false
-sourcePath: >-
-  _posts/2016-07-22-in-1939-ajs-designer-matt-wright-former-new-imperial-design.md
 inFeed: true
 hasPage: true
 inNav: false
