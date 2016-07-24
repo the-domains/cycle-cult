@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-22T13:30:19.900Z'
+datePublished: '2016-07-24T08:18:38.208Z'
+sourcePath: >-
+  _posts/2016-07-22-between-1969-and-1977-angel-nieto-won-six-of-the-nine-50cc-t.md
 author: []
 via: {}
-dateModified: '2016-07-22T13:30:15.527Z'
+dateModified: '2016-07-24T08:18:37.241Z'
 title: ''
 publisher: {}
 description: >-
@@ -18,8 +20,6 @@ description: >-
   rider to win a GP riding the idiosyncratic Derbi 250 twin, at the 1972
   Austrian GP at (Saltzburgring).
 starred: false
-sourcePath: >-
-  _posts/2016-07-22-between-1969-and-1977-angel-nieto-won-six-of-the-nine-50cc-t.md
 inFeed: true
 hasPage: true
 inNav: false
