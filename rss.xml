@@ -4,8 +4,22 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 07:06:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 07:07:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a04501c7-09c1-4d93-b1a9-e3a04723747a.jpg">]]></description>
+            <link>https://thegrid.ai/cycle-cult/9a1e10f9-2e05-442f-bdeb-b7b5e96316ad/index.html</link>
+            <guid isPermaLink="false">9a1e10f9-2e05-442f-bdeb-b7b5e96316ad</guid>
+            <pubDate>Sun, 24 Jul 2016 07:07:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ccc638e8-9e17-492a-b9cc-dc9c266feaed.jpg" alt="Tom Phillis">]]></description>
+            <link>https://thegrid.ai/cycle-cult/1960-was-the-first-year-that-the-honda-team-would-compete-in/index.html</link>
+            <guid isPermaLink="false">fc656eb7-e8c2-490f-a9a5-7a588afa513d</guid>
+            <pubDate>Sun, 24 Jul 2016 07:06:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb133f16-14a9-44c7-bab8-b89329b0a2fd.jpg" alt="Renzo Pasolini">]]></description>
@@ -61,20 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/this-is-the-motor-that-changed-everything-the-inline-four-c/index.html</link>
             <guid isPermaLink="false">4bdb4da5-9015-4595-bca5-3bf03d5988cb</guid>
             <pubDate>Sun, 24 Jul 2016 07:03:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4748b3fd-90c0-487e-aac7-ec7094357c00.jpg">]]></description>
-            <link>https://thegrid.ai/cycle-cult/97f7a7e9-d001-4ece-80dd-2ac8ae6f634b/index.html</link>
-            <guid isPermaLink="false">97f7a7e9-d001-4ece-80dd-2ac8ae6f634b</guid>
-            <pubDate>Sun, 24 Jul 2016 07:02:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/013c8f08-04d0-4be2-8369-bdb49806fa39.jpg" alt="Pierce Motorcycle">]]></description>
-            <link>https://thegrid.ai/cycle-cult/catalogue-images-of-the-pierce-motorcycles-and-the-pierce-sp/index.html</link>
-            <guid isPermaLink="false">ed7d70dc-ef71-4e61-bbda-28a6cf0f8963</guid>
-            <pubDate>Sun, 24 Jul 2016 07:02:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
