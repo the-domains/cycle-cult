@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-24T05:22:37.908Z'
+datePublished: '2016-07-24T07:04:00.962Z'
+sourcePath: >-
+  _posts/2016-07-24-jimmie-guthrie-became-one-of-joe-craigs-norton-works-riders.md
 author: []
 via: {}
-dateModified: '2016-07-24T05:22:33.965Z'
+dateModified: '2016-07-24T07:04:00.494Z'
 title: ''
 publisher: {}
 description: >-
@@ -30,8 +32,6 @@ description: >-
   would win the Junior. Jimmie Guthrie, was killed during the German Grand Prix
   later that year.
 starred: false
-sourcePath: >-
-  _posts/2016-07-24-jimmie-guthrie-became-one-of-joe-craigs-norton-works-riders.md
 inFeed: true
 hasPage: true
 inNav: false
