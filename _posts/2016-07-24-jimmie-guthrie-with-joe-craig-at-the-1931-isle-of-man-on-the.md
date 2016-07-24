@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-24T05:19:57.937Z'
+datePublished: '2016-07-24T08:24:56.494Z'
+sourcePath: >-
+  _posts/2016-07-24-jimmie-guthrie-with-joe-craig-at-the-1931-isle-of-man-on-the.md
 author: []
 via: {}
-dateModified: '2016-07-24T05:19:51.657Z'
+dateModified: '2016-07-24T08:24:55.485Z'
 title: ''
 publisher: {}
 description: >-
@@ -27,10 +29,8 @@ description: >-
   Gall with only a few hundred meters before the finish line when he struck
   Mansfeld who was a lap behind. It has long been speculated that a chain break
   or other mechanical malfunction caused the accident or maybe the Nazi's just
-  couldn't bear another defeat, we'll never know. 
+  couldn't bear another defeat, we'll never know.
 starred: false
-sourcePath: >-
-  _posts/2016-07-24-jimmie-guthrie-with-joe-craig-at-the-1931-isle-of-man-on-the.md
 inFeed: true
 hasPage: true
 inNav: false
