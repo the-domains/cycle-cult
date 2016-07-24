@@ -4,15 +4,8 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 07:48:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 07:48:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/99ab811a-71f0-405d-b90a-b69fc861812f.jpg">]]></description>
-            <link>https://thegrid.ai/cycle-cult/so-this-is-interestingcees-fick-from-holland-stuffed-a-75/index.html</link>
-            <guid isPermaLink="false">5b86301b-d96c-4cef-ab46-370a1699f436</guid>
-            <pubDate>Sun, 24 Jul 2016 07:48:36 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c63bb276-5713-481d-8782-ed1f66073ae9.jpg" alt="Howard Earle at Brooklands">]]></description>
@@ -75,6 +68,13 @@
             <link>https://thegrid.ai/cycle-cult/this-is-another-motom-ultra-lightweight-single-that-appears/index.html</link>
             <guid isPermaLink="false">a5a102fd-2551-425c-bba9-624e806880c6</guid>
             <pubDate>Sun, 24 Jul 2016 07:05:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/935cafed-54c9-4743-a8d1-028c6418a1bd.jpg">]]></description>
+            <link>https://thegrid.ai/cycle-cult/a235f2d0-8716-45c9-888c-dfa57acd193b/index.html</link>
+            <guid isPermaLink="false">a235f2d0-8716-45c9-888c-dfa57acd193b</guid>
+            <pubDate>Sun, 24 Jul 2016 07:05:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
