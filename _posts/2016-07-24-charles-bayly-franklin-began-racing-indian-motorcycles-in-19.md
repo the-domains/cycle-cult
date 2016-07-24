@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-24T03:18:57.059Z'
+datePublished: '2016-07-24T06:45:12.583Z'
+sourcePath: >-
+  _posts/2016-07-24-charles-bayly-franklin-began-racing-indian-motorcycles-in-19.md
 author: []
 via: {}
-dateModified: '2016-07-24T03:18:48.897Z'
+dateModified: '2016-07-24T06:45:11.981Z'
 title: ''
 publisher: {}
 description: >-
@@ -31,8 +33,6 @@ description: >-
   1922, and the Indian 101 Scout of 1928.
   ref:https://en.wikipedia.org/wiki/Charles_Franklin
 starred: false
-sourcePath: >-
-  _posts/2016-07-24-charles-bayly-franklin-began-racing-indian-motorcycles-in-19.md
 inFeed: true
 hasPage: true
 inNav: false
