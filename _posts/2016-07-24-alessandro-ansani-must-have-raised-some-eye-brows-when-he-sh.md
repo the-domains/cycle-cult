@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-24T03:53:19.262Z'
+datePublished: '2016-07-24T08:06:15.717Z'
+sourcePath: >-
+  _posts/2016-07-24-alessandro-ansani-must-have-raised-some-eye-brows-when-he-sh.md
 author: []
 via: {}
-dateModified: '2016-07-24T03:53:14.183Z'
+dateModified: '2016-07-24T08:06:10.039Z'
 title: ''
 publisher: {}
 description: >-
@@ -23,8 +25,6 @@ description: >-
   engines to design a 3 cylinder W3 or what is referred to as a Fan engine
   layout as seen here in this 1905 photo of Ansani with a W3 engined racer.
 starred: false
-sourcePath: >-
-  _posts/2016-07-24-alessandro-ansani-must-have-raised-some-eye-brows-when-he-sh.md
 inFeed: true
 hasPage: true
 inNav: false
