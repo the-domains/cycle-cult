@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-24T15:58:04.761Z'
+datePublished: '2016-07-24T17:45:08.736Z'
+sourcePath: >-
+  _posts/2016-07-24-the-june-1937-issue-of-harley-davidsons-magazine-enthusias.md
 author: []
 via: {}
-dateModified: '2016-07-24T15:57:57.940Z'
+dateModified: '2016-07-24T17:45:07.486Z'
 title: ''
 publisher: {}
 description: >-
@@ -18,10 +20,8 @@ description: >-
   thank scrambles for early developments in suspension and the rear swing arm. I
   can only imagine what running a Scramble on a rigid frame motorcycle does to a
   man. The Honda CL77 or Scrambler 305 was the off-road or scrambler version of
-  the Honda C77 Dream and the CB77 Super Hawk of the 1960s. 
+  the Honda C77 Dream and the CB77 Super Hawk of the 1960s.
 starred: false
-sourcePath: >-
-  _posts/2016-07-24-the-june-1937-issue-of-harley-davidsons-magazine-enthusias.md
 inFeed: true
 hasPage: true
 inNav: false
