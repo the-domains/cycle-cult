@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-24T05:11:03.661Z'
+datePublished: '2016-07-24T07:46:58.831Z'
+sourcePath: >-
+  _posts/2016-07-24-on-march-13-1937-joe-petrali-set-the-land-speed-record-for.md
 author: []
 via: {}
-dateModified: '2016-07-24T05:10:58.946Z'
+dateModified: '2016-07-24T07:46:57.732Z'
 title: ''
 publisher: {}
 description: >-
@@ -26,10 +28,8 @@ description: >-
   It was on an oiled-down one mile dirt track. Bikes were sliding everywhere and
   Petrali was almost hit several times. Smok'n Joe pulled off the track and hung
   up his leathers for good. The last great Class A champion walked away from
-  racing. 
+  racing.
 starred: false
-sourcePath: >-
-  _posts/2016-07-24-on-march-13-1937-joe-petrali-set-the-land-speed-record-for.md
 inFeed: true
 hasPage: true
 inNav: false
