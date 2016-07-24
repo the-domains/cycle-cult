@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 03:53:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 03:56:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e30873e-acf0-42ad-8e1c-a2fb99b082ea.png" alt="Alessandro Ansani - 35 hp &quot;Omnia&quot; Slayer">]]></description>
+            <link>https://thegrid.ai/cycle-cult/alessandro-ansani-was-a-mechanical-genius-he-built-his-firs/index.html</link>
+            <guid isPermaLink="false">c5e0206a-0fc6-4643-acf2-2852afb06f51</guid>
+            <pubDate>Sun, 24 Jul 2016 03:56:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/75ca41b8-4381-4ed0-9c68-4e2e383890c2.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/the-winner-of-the-first-isle-of-man-motorcycle-tourist-troph/index.html</link>
             <guid isPermaLink="false">de79ae6b-ed53-4d2c-9154-761a6cbdfb16</guid>
             <pubDate>Sun, 24 Jul 2016 03:29:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e573480b-4a8d-4d4e-886c-f3b89c3d503c.jpg">]]></description>
-            <link>https://thegrid.ai/cycle-cult/the-gang-welcomes-the-1000th-cycle-cultist-thanks-to-all-of/index.html</link>
-            <guid isPermaLink="false">5f7de9cf-8771-4c53-b2f4-0c0d7c8d9a10</guid>
-            <pubDate>Sun, 24 Jul 2016 03:26:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
