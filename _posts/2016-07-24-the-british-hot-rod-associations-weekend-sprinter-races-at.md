@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-24T04:08:23.234Z'
+datePublished: '2016-07-24T07:03:33.977Z'
+sourcePath: >-
+  _posts/2016-07-24-the-british-hot-rod-associations-weekend-sprinter-races-at.md
 author: []
 via: {}
-dateModified: '2016-07-24T04:08:17.328Z'
+dateModified: '2016-07-24T07:03:33.266Z'
 title: ''
 publisher: {}
 description: >-
@@ -21,8 +23,6 @@ description: >-
   It was a great time for watching what would become legends of speed. The
   "Magnum Opus's" best run at Santa Pod....157mph.
 starred: false
-sourcePath: >-
-  _posts/2016-07-24-the-british-hot-rod-associations-weekend-sprinter-races-at.md
 inFeed: true
 hasPage: true
 inNav: false
