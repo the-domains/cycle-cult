@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 23:10:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 23:13:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e8679f4-00f8-4bec-b763-abdebb88f1f0.jpg" alt="Noel Pope and the Brough Superior Streamline">]]></description>
+            <link>https://thegrid.ai/cycle-cult/this-motorrad-cover-shows-noel-pope-and-the-brough-superior/index.html</link>
+            <guid isPermaLink="false">0321a26d-3574-4126-9ac0-b4a2e8c0ffa6</guid>
+            <pubDate>Sun, 24 Jul 2016 23:12:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7576f3d0-46b8-4609-a331-dc58302cea3e.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/in-february-1955-the-los-angeles-police-department-through/index.html</link>
             <guid isPermaLink="false">8d8f69aa-410e-4804-a263-2f353a957522</guid>
             <pubDate>Sun, 24 Jul 2016 23:07:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cb135186-54bb-4136-818b-193a2215988e.jpg" alt="Harley-Davidson Memorial Day Parade Truck">]]></description>
-            <link>https://thegrid.ai/cycle-cult/the-first-memorial-day-may-have-occurred-at-columbus-missis/index.html</link>
-            <guid isPermaLink="false">11578bcc-d11d-4602-957c-db8b42a408e6</guid>
-            <pubDate>Sun, 24 Jul 2016 22:46:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
