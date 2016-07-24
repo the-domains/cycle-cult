@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 15:41:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 15:43:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bc8fe77a-819b-4d5d-8d9f-3581598ce4d2.jpg">]]></description>
+            <link>https://thegrid.ai/cycle-cult/e8fdd015-1b4a-4ad1-98e9-807c7ce351fd/index.html</link>
+            <guid isPermaLink="false">e8fdd015-1b4a-4ad1-98e9-807c7ce351fd</guid>
+            <pubDate>Sun, 24 Jul 2016 15:43:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/426ac2fd-9274-4651-a8eb-c2149351c7f4.jpg" alt="AJS E95 Porcupine">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/324fc85e-1fa4-4a37-a6db-52d4efd84ccd/index.html</link>
             <guid isPermaLink="false">324fc85e-1fa4-4a37-a6db-52d4efd84ccd</guid>
             <pubDate>Sun, 24 Jul 2016 08:28:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2fcc8d0c-086d-4fea-92bf-b10cf57d0a49.jpg" alt="&quot;Cannonball&quot; Baker and Teddy Carrol">]]></description>
-            <link>https://thegrid.ai/cycle-cult/cannonball-baker-and-teddy-carroll-set-motorcycle-enduranc/index.html</link>
-            <guid isPermaLink="false">8341d551-41af-46dc-965d-15902cd84ea6</guid>
-            <pubDate>Sun, 24 Jul 2016 08:27:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
