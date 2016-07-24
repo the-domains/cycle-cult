@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-22T13:36:42.050Z'
+datePublished: '2016-07-24T06:57:13.370Z'
+sourcePath: >-
+  _posts/2016-07-22-the-honda-rc142-twin-and-the-mondial-gp-125-single-dont-loo.md
 author: []
 via: {}
-dateModified: '2016-07-22T13:36:38.934Z'
+dateModified: '2016-07-24T06:57:12.483Z'
 title: ''
 publisher: {}
 description: >-
@@ -23,8 +25,6 @@ description: >-
   Kawashima and Honda gained a great deal of knowledge from the now three year
   old Mondial design and applied that to the Honda RC142 works machine.
 starred: false
-sourcePath: >-
-  _posts/2016-07-22-the-honda-rc142-twin-and-the-mondial-gp-125-single-dont-loo.md
 inFeed: true
 hasPage: true
 inNav: false
