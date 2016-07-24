@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 22:42:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 22:46:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cb135186-54bb-4136-818b-193a2215988e.jpg" alt="Harley-Davidson Memorial Day Parade Truck">]]></description>
+            <link>https://thegrid.ai/cycle-cult/the-first-memorial-day-may-have-occurred-at-columbus-missis/index.html</link>
+            <guid isPermaLink="false">11578bcc-d11d-4602-957c-db8b42a408e6</guid>
+            <pubDate>Sun, 24 Jul 2016 22:46:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2424733-f6ef-4486-a7af-3a4e6d856ad9.jpg" alt="Harley-Davidson WLA  &quot;Liberator&quot;">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/5f704bcc-706a-4d43-934f-3f0222db65d1/index.html</link>
             <guid isPermaLink="false">5f704bcc-706a-4d43-934f-3f0222db65d1</guid>
             <pubDate>Sun, 24 Jul 2016 20:06:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff3e5e2b-8561-41b4-84d9-c2a758ee15da.jpg">]]></description>
-            <link>https://thegrid.ai/cycle-cult/a66411cc-6a08-4ce6-8fb6-e731d1275528/index.html</link>
-            <guid isPermaLink="false">a66411cc-6a08-4ce6-8fb6-e731d1275528</guid>
-            <pubDate>Sun, 24 Jul 2016 20:06:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
