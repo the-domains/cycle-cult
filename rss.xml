@@ -4,15 +4,8 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 07:54:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 07:53:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8504cf22-c2f9-4f3e-8141-1d69ae6c9c76.jpg">]]></description>
-            <link>https://thegrid.ai/cycle-cult/765bad93-5b25-4230-9acb-ba586b8528f9/index.html</link>
-            <guid isPermaLink="false">765bad93-5b25-4230-9acb-ba586b8528f9</guid>
-            <pubDate>Sun, 24 Jul 2016 07:54:04 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3202aed3-d672-4615-984b-017ffb49a970.jpg" alt="Mike Hailwood - Honda">]]></description>
@@ -75,6 +68,13 @@
             <link>https://thegrid.ai/cycle-cult/i-love-a-good-engine-cutaway-and-this-1951-vincent-hrd-is-am/index.html</link>
             <guid isPermaLink="false">b24f0ae0-2090-4dee-b97d-48c4cf481cf3</guid>
             <pubDate>Sun, 24 Jul 2016 07:50:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Photo: the Dunwoody Collection ( Bob Dunwoody)]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cbaaa7c1-7145-4e45-803b-6b1ee6c3d605.jpg" alt="Sammy Miller - 1957 Ulster Grand Prix">]]></description>
+            <link>https://thegrid.ai/cycle-cult/photo-the-dunwoody-collection-bob-dunwoody/index.html</link>
+            <guid isPermaLink="false">3d01a276-2f97-4d06-a995-2c7fd6d3e2d3</guid>
+            <pubDate>Sun, 24 Jul 2016 07:49:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
