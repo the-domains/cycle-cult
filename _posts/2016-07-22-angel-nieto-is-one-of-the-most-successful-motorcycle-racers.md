@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-22T05:28:25.043Z'
+datePublished: '2016-07-24T08:16:57.846Z'
+sourcePath: >-
+  _posts/2016-07-22-angel-nieto-is-one-of-the-most-successful-motorcycle-racers.md
 author: []
 via: {}
-dateModified: '2016-07-22T05:28:21.199Z'
+dateModified: '2016-07-24T08:16:57.209Z'
 title: ''
 publisher: {}
 description: >-
@@ -22,8 +24,6 @@ description: >-
   cc, 250 cc, 500 cc and 750 cc classes. His total of 90 Grand Prix victories is
   third only to the 122 by Giacomo Agostini, and the 110 of Valentino Rossi.
 starred: false
-sourcePath: >-
-  _posts/2016-07-22-angel-nieto-is-one-of-the-most-successful-motorcycle-racers.md
 inFeed: true
 hasPage: true
 inNav: false
