@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-07-24T04:05:48.963Z'
+datePublished: '2016-07-24T07:51:49.243Z'
+sourcePath: _posts/2016-07-24-im-pretty-sure-the-term-ass-backwards-was-coined-to-descr.md
 author: []
 via: {}
-dateModified: '2016-07-24T04:05:45.029Z'
+dateModified: '2016-07-24T07:51:48.767Z'
 title: ''
 publisher: {}
 description: >-
   I'm pretty sure the term "Ass Backwards" was coined to describe this sidecar
-  setup! 
+  setup!
 starred: false
-sourcePath: _posts/2016-07-24-im-pretty-sure-the-term-ass-backwards-was-coined-to-descr.md
 inFeed: true
 hasPage: true
 inNav: false
