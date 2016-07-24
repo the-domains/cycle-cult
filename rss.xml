@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 08:01:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 08:02:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/57b7c353-d110-44aa-91f9-d3f3c1c95cb2.jpg">]]></description>
+            <link>https://thegrid.ai/cycle-cult/d7d95592-5818-43b7-a6f3-fc0700ae0003/index.html</link>
+            <guid isPermaLink="false">d7d95592-5818-43b7-a6f3-fc0700ae0003</guid>
+            <pubDate>Sun, 24 Jul 2016 08:01:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fee45e93-80d9-488e-a0d8-082cab99e69a.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/the-vincent-v-twin-motorcycle-incorporated-a-number-of-new-a/index.html</link>
             <guid isPermaLink="false">7de4cccb-fe65-435a-a587-b901a463f7ae</guid>
             <pubDate>Sun, 24 Jul 2016 07:58:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f44c7ae-da1f-49d6-98c2-a3d1ff497eaf.jpg" alt="Albert Sourdot">]]></description>
-            <link>https://thegrid.ai/cycle-cult/albert-sourdot-won-the-lightweight-french-grand-prix-on-a-mo/index.html</link>
-            <guid isPermaLink="false">0c423d9b-0519-44c2-8937-f6bdd4bafbe2</guid>
-            <pubDate>Sun, 24 Jul 2016 07:58:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
