@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 16:26:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 16:28:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2db8067-12c0-4b5c-83ad-e9862c75998c.jpg" alt="DKW RM350 - Exploded View">]]></description>
+            <link>https://thegrid.ai/cycle-cult/the-dkw-rm350-two-stroke-three-cylinder-engine-used-light-al/index.html</link>
+            <guid isPermaLink="false">e9d7e80b-28fc-4a48-82cd-4b3831880948</guid>
+            <pubDate>Sun, 24 Jul 2016 16:28:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0382b6ae-b36c-4a1c-8f8c-e23282c5f1da.jpg" alt="Toni Bauhofer">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/the-supercharged-vincent-comet-tt-special-was-built-for-an-a/index.html</link>
             <guid isPermaLink="false">7a1b9a7d-9d1a-4b1a-b315-31a18df68e96</guid>
             <pubDate>Sun, 24 Jul 2016 16:02:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b753456-63ee-447b-a5ba-4f0ac7491e2d.jpg" alt="The Vincent &quot;League of Extraordinary Gentlemen&quot; ">]]></description>
-            <link>https://thegrid.ai/cycle-cult/the-vincent-league-of-extraordinary-gentlemen-with-the-fir/index.html</link>
-            <guid isPermaLink="false">9afd5ea5-9d08-4c92-a5af-dc022118272f</guid>
-            <pubDate>Sun, 24 Jul 2016 16:00:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
