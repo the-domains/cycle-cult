@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-22T05:23:13.170Z'
+datePublished: '2016-07-24T08:00:17.891Z'
+sourcePath: >-
+  _posts/2016-07-22-this-is-what-a-pit-stop-during-the-french-motorcycle-grand-p.md
 author: []
 via: {}
-dateModified: '2016-07-22T05:23:10.103Z'
+dateModified: '2016-07-24T08:00:17.480Z'
 title: ''
 publisher: {}
 description: >-
@@ -16,8 +18,6 @@ description: >-
   was taken during the 1922 French Grand Prix in which Alec Bennett won the 500,
   Erminio Visioli 350 and Geoff Davison won the 250cc.
 starred: false
-sourcePath: >-
-  _posts/2016-07-22-this-is-what-a-pit-stop-during-the-french-motorcycle-grand-p.md
 inFeed: true
 hasPage: true
 inNav: false
