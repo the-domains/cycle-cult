@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-22T04:56:11.940Z'
+datePublished: '2016-07-24T08:19:15.876Z'
+sourcePath: >-
+  _posts/2016-07-22-peugeot-factory-rider-paul-pean-in-this-photo-won-the-1926-g.md
 author: []
 via: {}
-dateModified: '2016-07-22T04:56:04.318Z'
+dateModified: '2016-07-24T08:19:15.342Z'
 title: ''
 publisher: {}
 description: >-
@@ -15,8 +17,6 @@ description: >-
   Grémillon but even with a new 3-speed gearbox the design proved fragile
   yielding limited success prior to WWI.
 starred: false
-sourcePath: >-
-  _posts/2016-07-22-peugeot-factory-rider-paul-pean-in-this-photo-won-the-1926-g.md
 inFeed: true
 hasPage: true
 inNav: false
