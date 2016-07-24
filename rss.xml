@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 15:37:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 15:37:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/824576c8-aff6-4174-88a8-e8aca376f5ba.jpg">]]></description>
+            <link>https://thegrid.ai/cycle-cult/the-harley-davidson-flathead-engine-started-with-the-model-w/index.html</link>
+            <guid isPermaLink="false">8c314363-b2be-4b9c-adf3-c9712f0265b6</guid>
+            <pubDate>Sun, 24 Jul 2016 15:37:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6a43f02d-3d4b-484d-a425-bf5adc8b67ad.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/gunga-din-is-the-most-famous-works-racer-to-come-out-of-th/index.html</link>
             <guid isPermaLink="false">3b3732e0-e713-4262-a9d1-d7491685cd38</guid>
             <pubDate>Sun, 24 Jul 2016 08:26:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f2a734e-1aaf-4bf7-8262-0e0395268eda.jpg">]]></description>
-            <link>https://thegrid.ai/cycle-cult/b5e8c307-6fff-4ae4-a254-836a569127cd/index.html</link>
-            <guid isPermaLink="false">b5e8c307-6fff-4ae4-a254-836a569127cd</guid>
-            <pubDate>Sun, 24 Jul 2016 08:26:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
