@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 23:34:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 23:36:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3eba0728-4890-478a-9fd9-e0adf4b0a6fb.jpg" alt="Jack Prince - Board Tracks">]]></description>
+            <link>https://thegrid.ai/cycle-cult/by-1909-former-champion-bicycle-racer-jack-prince-had-built/index.html</link>
+            <guid isPermaLink="false">b48485d9-a483-4f34-8713-0ade2bd1c042</guid>
+            <pubDate>Sun, 24 Jul 2016 23:36:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/05df07d7-a4f1-4e70-86a5-b9ba040536ab.jpg" alt="Fulford&ndash;Miami Speedway 1926">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/this-motorrad-cover-shows-noel-pope-and-the-brough-superior/index.html</link>
             <guid isPermaLink="false">0321a26d-3574-4126-9ac0-b4a2e8c0ffa6</guid>
             <pubDate>Sun, 24 Jul 2016 23:12:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7576f3d0-46b8-4609-a331-dc58302cea3e.jpg">]]></description>
-            <link>https://thegrid.ai/cycle-cult/berliner-motor-corporation-in-hasbrouck-heights-new-jersey/index.html</link>
-            <guid isPermaLink="false">79f0f1ca-b1b3-44be-8020-907e549ee71b</guid>
-            <pubDate>Sun, 24 Jul 2016 23:10:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
