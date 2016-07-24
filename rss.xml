@@ -4,8 +4,22 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 07:04:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 07:05:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/935cafed-54c9-4743-a8d1-028c6418a1bd.jpg">]]></description>
+            <link>https://thegrid.ai/cycle-cult/a235f2d0-8716-45c9-888c-dfa57acd193b/index.html</link>
+            <guid isPermaLink="false">a235f2d0-8716-45c9-888c-dfa57acd193b</guid>
+            <pubDate>Sun, 24 Jul 2016 07:05:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1a3d085b-b811-4270-9c99-78c36140b03f.jpg">]]></description>
+            <link>https://thegrid.ai/cycle-cult/3447bc2e-0b99-4bbc-8a54-258c6ea13edc/index.html</link>
+            <guid isPermaLink="false">3447bc2e-0b99-4bbc-8a54-258c6ea13edc</guid>
+            <pubDate>Sun, 24 Jul 2016 07:04:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1096b2a9-1cf4-4cf6-9b97-04691138ed64.jpg">]]></description>
@@ -61,20 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/charles-chook-hodgekiss-coupled-two-500cc-jap-motors-in/index.html</link>
             <guid isPermaLink="false">d309e4ff-e2be-46db-bc60-1619d14d3216</guid>
             <pubDate>Sun, 24 Jul 2016 07:01:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c5166ff-ffbc-41c2-88e2-8ec25fa2ce4f.jpg">]]></description>
-            <link>https://thegrid.ai/cycle-cult/gene-vincent-was-a-mod-im-not-sure-vincent-eugene-craddock/index.html</link>
-            <guid isPermaLink="false">ba5bf764-031f-4bb1-a255-b4b2320d2de8</guid>
-            <pubDate>Sun, 24 Jul 2016 07:00:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/62326eef-2154-493e-a0fe-b7fc14c00ea5.jpg">]]></description>
-            <link>https://thegrid.ai/cycle-cult/glenn-bewley-of-classic-motorcycle-engineering-in-tennessee/index.html</link>
-            <guid isPermaLink="false">251f7df8-6d25-412f-b90a-0481abd2215d</guid>
-            <pubDate>Sun, 24 Jul 2016 07:00:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
