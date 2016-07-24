@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-24T17:10:51.877Z'
+datePublished: '2016-07-24T17:43:19.144Z'
+sourcePath: >-
+  _posts/2016-07-24-dkw-was-the-worlds-largest-motorcycle-manufacturer-by-the-1.md
 author: []
 via: {}
-dateModified: '2016-07-24T17:10:05.012Z'
+dateModified: '2016-07-24T17:43:18.715Z'
 title: ''
 publisher: {}
 description: >-
@@ -19,10 +21,8 @@ description: >-
   of Wehrmacht soldiers crowded around a DKW SB 500. There were about 19,000
   SB-500's built between 1934 and 1939. In 1932, DKW merged with Audi, Horch and
   Wanderer to form Auto Union. After World War II, DKW was moved to West
-  Germany, with the original factory becoming MZ. 
+  Germany, with the original factory becoming MZ.
 starred: false
-sourcePath: >-
-  _posts/2016-07-24-dkw-was-the-worlds-largest-motorcycle-manufacturer-by-the-1.md
 inFeed: true
 hasPage: true
 inNav: false
