@@ -1,8 +1,9 @@
 ---
-datePublished: '2016-07-22T13:28:39.435Z'
+datePublished: '2016-07-24T08:17:38.387Z'
+sourcePath: _posts/2016-07-22-its-amazing-to-me-that-in-the-1960s-the-ussr-ever-attempt.md
 author: []
 via: {}
-dateModified: '2016-07-22T13:28:34.904Z'
+dateModified: '2016-07-24T08:17:37.503Z'
 title: ''
 publisher: {}
 description: >-
@@ -34,7 +35,6 @@ description: >-
   the last year for the Vostok racers and they only competed in one race in East
   Germany taking tenth place.
 starred: false
-sourcePath: _posts/2016-07-22-its-amazing-to-me-that-in-the-1960s-the-ussr-ever-attempt.md
 inFeed: true
 hasPage: true
 inNav: false
