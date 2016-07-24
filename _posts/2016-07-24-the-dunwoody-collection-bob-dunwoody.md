@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-07-24T07:57:23.984Z'
+datePublished: '2016-07-24T08:32:23.289Z'
 sourcePath: _posts/2016-07-24-the-dunwoody-collection-bob-dunwoody.md
 author: []
 via: {}
-dateModified: '2016-07-24T07:57:23.144Z'
-title: \
+dateModified: '2016-07-24T08:32:22.493Z'
+title: ''
 publisher: {}
 description: >-
   Alistair King on a Norton Manx, focused and determined at the North West 200
