@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-22T12:59:50.340Z'
+datePublished: '2016-07-24T08:21:53.931Z'
+sourcePath: >-
+  _posts/2016-07-22-tom-phillis-first-motorcycle-was-a-1939-high-cam-sunbeam-b2.md
 author: []
 via: {}
-dateModified: '2016-07-22T12:59:11.910Z'
+dateModified: '2016-07-24T08:21:53.558Z'
 title: ''
 publisher: {}
 description: >-
@@ -36,8 +38,6 @@ description: >-
   on April 23, 1961 and Honda’s first GP double at Clermont-Ferrand, France on
   May 21.
 starred: false
-sourcePath: >-
-  _posts/2016-07-22-tom-phillis-first-motorcycle-was-a-1939-high-cam-sunbeam-b2.md
 inFeed: true
 hasPage: true
 inNav: false
