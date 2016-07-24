@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-07-24T04:24:33.061Z'
+datePublished: '2016-07-24T07:52:15.776Z'
+sourcePath: >-
+  _posts/2016-07-24-new-mexico-motorcycle-cop-in-a-4th-of-july-parade-circa-1940.md
 author: []
 via: {}
-dateModified: '2016-07-24T04:24:28.052Z'
+dateModified: '2016-07-24T07:52:15.064Z'
 title: ''
 publisher: {}
 description: New Mexico motorcycle cop in a 4th of July Parade circa 1940
 starred: false
-sourcePath: >-
-  _posts/2016-07-24-new-mexico-motorcycle-cop-in-a-4th-of-july-parade-circa-1940.md
 inFeed: true
 hasPage: true
 inNav: false
