@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 04:04:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 04:06:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/94d84823-1fca-46a5-a8d5-927e8d6ad0cb.jpg">]]></description>
+            <link>https://thegrid.ai/cycle-cult/im-pretty-sure-the-term-ass-backwards-was-coined-to-descr/index.html</link>
+            <guid isPermaLink="false">ba61b051-41de-48c5-9a53-253f3b2136a4</guid>
+            <pubDate>Sun, 24 Jul 2016 04:05:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7622d52b-a652-4fdc-93ef-0d05692d1673.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/on-october-21st-1937-between-the-80th-and-82nd-kilometres-o/index.html</link>
             <guid isPermaLink="false">28f05258-e0e5-486d-a496-7b87711c44f8</guid>
             <pubDate>Sun, 24 Jul 2016 03:36:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9e51ea1-22b0-4b3b-a21f-e8896a862e8a.jpg">]]></description>
-            <link>https://thegrid.ai/cycle-cult/this-is-the-motor-that-changed-everything-the-inline-four-c/index.html</link>
-            <guid isPermaLink="false">4bdb4da5-9015-4595-bca5-3bf03d5988cb</guid>
-            <pubDate>Sun, 24 Jul 2016 03:34:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
