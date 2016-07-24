@@ -1,8 +1,9 @@
 ---
-datePublished: '2016-07-22T05:14:57.018Z'
+datePublished: '2016-07-24T08:02:51.344Z'
+sourcePath: _posts/2016-07-22-ok-cycle-cultists-here-is-a-puzzler-what-is-this-engine-a.md
 author: []
 via: {}
-dateModified: '2016-07-22T05:14:34.528Z'
+dateModified: '2016-07-24T08:02:50.386Z'
 title: ''
 publisher: {}
 description: >-
@@ -11,7 +12,6 @@ description: >-
   stroke with double overhead cams and a six speed gearbox. It was claimed to
   produce 59 hp at 13,000 rpm.
 starred: false
-sourcePath: _posts/2016-07-22-ok-cycle-cultists-here-is-a-puzzler-what-is-this-engine-a.md
 inFeed: true
 hasPage: true
 inNav: false
