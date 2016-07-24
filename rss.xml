@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 23:25:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 23:25:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d0819b6-b936-4e30-9e7d-2afdca030544.jpg" alt="Noel Pope&apos;s 1949 Brough Superior &quot;Silver Fish&quot;">]]></description>
+            <link>https://thegrid.ai/cycle-cult/this-is-what-noel-popes-1949-brough-superior-silver-fish/index.html</link>
+            <guid isPermaLink="false">272ae83c-6fa9-4af4-969c-e92f626282b8</guid>
+            <pubDate>Sun, 24 Jul 2016 23:25:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/556e0963-59e0-43da-bb46-7c39ecf662f2.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/evel-knievel-is-best-remembered-as-riding-harley-davidson-mo/index.html</link>
             <guid isPermaLink="false">414b5dd9-a0ee-4e2f-b988-0f4dd5179589</guid>
             <pubDate>Sun, 24 Jul 2016 23:07:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b9ec233-44cc-4123-984c-2750d7a0406e.jpg" alt="Evel Knievel - Strato-Cycle">]]></description>
-            <link>https://thegrid.ai/cycle-cult/to-some-people-evel-knievel-was-the-worlds-greatest-stuntma/index.html</link>
-            <guid isPermaLink="false">f0838430-41af-4ac9-8122-11a2be19ab33</guid>
-            <pubDate>Sun, 24 Jul 2016 23:07:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
