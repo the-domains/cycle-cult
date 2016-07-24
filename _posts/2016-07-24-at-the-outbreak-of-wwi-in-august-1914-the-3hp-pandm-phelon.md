@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-24T17:32:40.160Z'
+datePublished: '2016-07-24T17:42:13.645Z'
+sourcePath: >-
+  _posts/2016-07-24-at-the-outbreak-of-wwi-in-august-1914-the-3hp-pandm-phelon.md
 author: []
 via: {}
-dateModified: '2016-07-24T17:32:25.370Z'
+dateModified: '2016-07-24T17:42:13.242Z'
 title: ''
 publisher: {}
 description: >-
@@ -18,8 +20,6 @@ description: >-
   actually delivered up to 5 HP. This improvement was carried out to meet the
   increasing demand for sidecar mounts.
 starred: false
-sourcePath: >-
-  _posts/2016-07-24-at-the-outbreak-of-wwi-in-august-1914-the-3hp-pandm-phelon.md
 inFeed: true
 hasPage: true
 inNav: false
