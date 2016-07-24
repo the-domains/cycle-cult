@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 08:23:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 08:23:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/65d52202-7f0a-47dd-a933-d693cc516043.jpg" alt="Giacomo Agostini and Mike Hailwood">]]></description>
+            <link>https://thegrid.ai/cycle-cult/the-classic-battle-between-giacomo-agostini-and-mike-the-bi/index.html</link>
+            <guid isPermaLink="false">4aacbf1f-90f4-43b9-a990-b9e1a7b61886</guid>
+            <pubDate>Sun, 24 Jul 2016 08:23:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5723e606-2be6-46e1-9f49-3580ed5a2be3.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/flying-freddie-dixon-takes-a-spill-in-the-hairpin-at-le-ma/index.html</link>
             <guid isPermaLink="false">65a98b78-b72b-40e8-bc33-3851277250d7</guid>
             <pubDate>Sun, 24 Jul 2016 08:18:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/89aaee61-ea6c-4b2b-8070-0289832df738.jpg" alt="1964 Vostok S-364 ">]]></description>
-            <link>https://thegrid.ai/cycle-cult/its-amazing-to-me-that-in-the-1960s-the-ussr-ever-attempt/index.html</link>
-            <guid isPermaLink="false">bb967699-53de-4e9e-9cb3-5b2f5b3d3130</guid>
-            <pubDate>Sun, 24 Jul 2016 08:17:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
