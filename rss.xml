@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 16:14:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 16:17:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7149ded7-bf75-4e6b-8cb2-9f54f3290958.jpg" alt="Tazio Nuvolari - the Circuito del Lario">]]></description>
+            <link>https://thegrid.ai/cycle-cult/tazio-nuvolari-won-the-circuito-del-lario-roadrace-often-ca/index.html</link>
+            <guid isPermaLink="false">30e45d05-737c-412d-bc7c-e202d6c6f9b9</guid>
+            <pubDate>Sun, 24 Jul 2016 16:16:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a28094f-4552-43f7-95ac-a412d64d2c4d.jpg" alt="Pietro Ghersi">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/e8fdd015-1b4a-4ad1-98e9-807c7ce351fd/index.html</link>
             <guid isPermaLink="false">e8fdd015-1b4a-4ad1-98e9-807c7ce351fd</guid>
             <pubDate>Sun, 24 Jul 2016 15:43:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/426ac2fd-9274-4651-a8eb-c2149351c7f4.jpg" alt="AJS E95 Porcupine">]]></description>
-            <link>https://thegrid.ai/cycle-cult/in-1952-the-porcupine-works-racer-was-redesigned-by-ajs-de/index.html</link>
-            <guid isPermaLink="false">37340811-52c1-4e05-b623-8b0981e437be</guid>
-            <pubDate>Sun, 24 Jul 2016 15:41:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
