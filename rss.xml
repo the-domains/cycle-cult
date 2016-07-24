@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 03:17:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 03:19:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f3dccbd-2efc-432c-bafb-42fe27e3115e.jpg">]]></description>
+            <link>https://thegrid.ai/cycle-cult/charles-bayly-franklin-began-racing-indian-motorcycles-in-19/index.html</link>
+            <guid isPermaLink="false">55aebdd4-1da4-462b-ad2f-e2d2ea9061e3</guid>
+            <pubDate>Sun, 24 Jul 2016 03:18:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0fc0c6e0-77d7-4992-9309-2846cf474129.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/in-1952-the-porcupine-works-racer-was-redesigned-by-ajs-de/index.html</link>
             <guid isPermaLink="false">37340811-52c1-4e05-b623-8b0981e437be</guid>
             <pubDate>Fri, 22 Jul 2016 14:05:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/98b3b9e5-0201-436c-a355-b5b4c12ddeb0.jpg" alt="Gene Vincent - Triumph">]]></description>
-            <link>https://thegrid.ai/cycle-cult/the-year-is-1969-and-legendary-rock-n-roller-gene-vincent-is/index.html</link>
-            <guid isPermaLink="false">0317f019-27f3-4163-a55a-dec48618fe60</guid>
-            <pubDate>Fri, 22 Jul 2016 14:01:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
