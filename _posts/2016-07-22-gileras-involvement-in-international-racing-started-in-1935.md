@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-22T14:16:51.156Z'
+datePublished: '2016-07-24T06:57:37.700Z'
+sourcePath: >-
+  _posts/2016-07-22-gileras-involvement-in-international-racing-started-in-1935.md
 author: []
 via: {}
-dateModified: '2016-07-22T14:16:47.989Z'
+dateModified: '2016-07-24T06:57:36.709Z'
 title: ''
 publisher: {}
 description: >-
@@ -21,8 +23,6 @@ description: >-
   Grand Prix victory. Piero Taruffi and the Gilera 4 would go on to break fifty
   world speed records including 170 mph for the flying kilometer.
 starred: false
-sourcePath: >-
-  _posts/2016-07-22-gileras-involvement-in-international-racing-started-in-1935.md
 inFeed: true
 hasPage: true
 inNav: false
