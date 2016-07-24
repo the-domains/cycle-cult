@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 15:45:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 15:58:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e072374a-9e2b-4542-814f-4d7a9209de26.jpg" alt="June 1937- Enthusiast">]]></description>
+            <link>https://thegrid.ai/cycle-cult/the-june-1937-issue-of-harley-davidsons-magazine-enthusias/index.html</link>
+            <guid isPermaLink="false">93a5fbfb-4b57-451e-b081-9067dead974a</guid>
+            <pubDate>Sun, 24 Jul 2016 15:58:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c1c31173-0569-45a2-9d45-4e727e7f2654.jpg" alt="Jefferson Motorcycle">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/the-winner-of-the-first-isle-of-man-motorcycle-tourist-troph/index.html</link>
             <guid isPermaLink="false">de79ae6b-ed53-4d2c-9154-761a6cbdfb16</guid>
             <pubDate>Sun, 24 Jul 2016 08:28:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2cedf812-223b-4e80-808f-35da46ac611a.jpg">]]></description>
-            <link>https://thegrid.ai/cycle-cult/dc70ba5a-b165-4f2e-afa6-a31ebcc80365/index.html</link>
-            <guid isPermaLink="false">dc70ba5a-b165-4f2e-afa6-a31ebcc80365</guid>
-            <pubDate>Sun, 24 Jul 2016 08:28:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
