@@ -4,8 +4,22 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 08:27:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 08:28:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2cedf812-223b-4e80-808f-35da46ac611a.jpg">]]></description>
+            <link>https://thegrid.ai/cycle-cult/dc70ba5a-b165-4f2e-afa6-a31ebcc80365/index.html</link>
+            <guid isPermaLink="false">dc70ba5a-b165-4f2e-afa6-a31ebcc80365</guid>
+            <pubDate>Sun, 24 Jul 2016 08:28:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/19d7fa15-e575-4a30-b8e8-657cdd539b37.jpg">]]></description>
+            <link>https://thegrid.ai/cycle-cult/324fc85e-1fa4-4a37-a6db-52d4efd84ccd/index.html</link>
+            <guid isPermaLink="false">324fc85e-1fa4-4a37-a6db-52d4efd84ccd</guid>
+            <pubDate>Sun, 24 Jul 2016 08:28:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2fcc8d0c-086d-4fea-92bf-b10cf57d0a49.jpg" alt="&quot;Cannonball&quot; Baker and Teddy Carrol">]]></description>
@@ -61,20 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/tazio-nuvolari-was-known-in-his-village-as-the-son-of-the-d/index.html</link>
             <guid isPermaLink="false">c9b04ecf-8af4-4261-8f4a-54272d241656</guid>
             <pubDate>Sun, 24 Jul 2016 08:24:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/51dd1a5d-d711-4955-9921-5c6810a91fc1.jpg" alt="AJS &quot;Porcupine&quot;">]]></description>
-            <link>https://thegrid.ai/cycle-cult/the-ajs-porcupine-was-originally-to-be-badged-and-raced-as/index.html</link>
-            <guid isPermaLink="false">0e6b617f-7bcc-4f96-8401-ec3e760bc1fb</guid>
-            <pubDate>Sun, 24 Jul 2016 08:23:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/65d52202-7f0a-47dd-a933-d693cc516043.jpg" alt="Giacomo Agostini and Mike Hailwood">]]></description>
-            <link>https://thegrid.ai/cycle-cult/the-classic-battle-between-giacomo-agostini-and-mike-the-bi/index.html</link>
-            <guid isPermaLink="false">4aacbf1f-90f4-43b9-a990-b9e1a7b61886</guid>
-            <pubDate>Sun, 24 Jul 2016 08:23:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
