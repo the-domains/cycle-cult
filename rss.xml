@@ -4,15 +4,8 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 08:04:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 08:02:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/afc954be-4143-4925-8212-860abad4a21a.jpg">]]></description>
-            <link>https://thegrid.ai/cycle-cult/i-love-these-mechanical-monsters-motor-paced-racing-was-all/index.html</link>
-            <guid isPermaLink="false">6617e917-cccc-4a7e-9387-d88c63bdb655</guid>
-            <pubDate>Sun, 24 Jul 2016 08:04:12 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4583f4d9-fac4-4890-bfc9-45f8a14c4f02.jpg" alt="Vostok GP Engine">]]></description>
@@ -75,6 +68,13 @@
             <link>https://thegrid.ai/cycle-cult/some-motorcycle-designs-are-way-ahead-of-the-times-the-majo/index.html</link>
             <guid isPermaLink="false">7e652be5-a6d0-4ce4-a089-a788242b4cbd</guid>
             <pubDate>Sun, 24 Jul 2016 07:59:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/824576c8-aff6-4174-88a8-e8aca376f5ba.jpg">]]></description>
+            <link>https://thegrid.ai/cycle-cult/the-harley-davidson-flathead-engine-started-with-the-model-w/index.html</link>
+            <guid isPermaLink="false">8c314363-b2be-4b9c-adf3-c9712f0265b6</guid>
+            <pubDate>Sun, 24 Jul 2016 07:59:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
