@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 23:25:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 23:25:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/00605f78-12ca-4eb5-a583-664c1de20a3e.jpg" alt="Velocette overhead camshaft KTT">]]></description>
+            <link>https://thegrid.ai/cycle-cult/the-velocette-overhead-camshaft-ktts-were-one-of-the-most-s/index.html</link>
+            <guid isPermaLink="false">226c30e4-923f-43d5-b021-8953e65b93e1</guid>
+            <pubDate>Sun, 24 Jul 2016 23:25:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3483a8f-914a-45bc-bef8-388926a54473.jpg" alt="Noel Pope - Velocette MK6 KTT">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/joseph-berliner-the-us-distributor-for-ducati-was-so-influen/index.html</link>
             <guid isPermaLink="false">9f098e89-1fe8-45ec-ba36-911ea79c1f4c</guid>
             <pubDate>Sun, 24 Jul 2016 23:07:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a882b9fe-130a-4aca-b43f-b6bc906e36b9.jpg" alt="Fred Osbourne - 1926">]]></description>
-            <link>https://thegrid.ai/cycle-cult/in-1926-daredevil-fred-osbourne-thought-it-would-be-a-good-s/index.html</link>
-            <guid isPermaLink="false">7415caf5-2793-4f82-84ec-9dd761ab6e56</guid>
-            <pubDate>Sun, 24 Jul 2016 23:07:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
