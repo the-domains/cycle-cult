@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 16:34:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 17:08:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7318ef21-d9b8-49eb-a1ee-faa20b840efc.jpg" alt="1952 DKW 3 Cylinder 350cc">]]></description>
+            <link>https://thegrid.ai/cycle-cult/after-wwii-dkw-started-producing-small-two-stroke-machines/index.html</link>
+            <guid isPermaLink="false">d438505f-b621-42d3-b578-894967a8791a</guid>
+            <pubDate>Sun, 24 Jul 2016 17:07:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ ]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cbaaa7c1-7145-4e45-803b-6b1ee6c3d605.jpg" alt="Sammy Miller - 1957 Ulster Grand Prix">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/the-1925-celso-stanguellini-race-team-riders-bezzanti-barbo/index.html</link>
             <guid isPermaLink="false">2e3adc30-a0eb-413f-971b-a45dfadb38b8</guid>
             <pubDate>Sun, 24 Jul 2016 16:08:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e503b3a-77d8-46a4-9520-2a2df9159590.png" alt="Francesco Stanguellini">]]></description>
-            <link>https://thegrid.ai/cycle-cult/modena-racetrack-in-1925-on-the-left-holding-the-starter-fl/index.html</link>
-            <guid isPermaLink="false">f3fb2c90-2781-4aa8-8bb9-dc15d4504178</guid>
-            <pubDate>Sun, 24 Jul 2016 16:05:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
