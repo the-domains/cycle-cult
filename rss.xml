@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 06:50:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 06:51:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/426ac2fd-9274-4651-a8eb-c2149351c7f4.jpg" alt="AJS E95 Porcupine">]]></description>
+            <link>https://thegrid.ai/cycle-cult/in-1952-the-porcupine-works-racer-was-redesigned-by-ajs-de/index.html</link>
+            <guid isPermaLink="false">37340811-52c1-4e05-b623-8b0981e437be</guid>
+            <pubDate>Sun, 24 Jul 2016 06:51:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7622d52b-a652-4fdc-93ef-0d05692d1673.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/by-1974-even-the-great-giacomo-agostini-couldnt-ignore-the/index.html</link>
             <guid isPermaLink="false">3aafd99e-befc-4e29-984b-987a85695363</guid>
             <pubDate>Sun, 24 Jul 2016 06:48:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1840fd45ebef6855efffba56a278c370/croprotate.jpg?cropheight=374&cropwidth=792&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fa57676c2-4dc8-426e-a8ef-5f286d37b018.jpg&x=0&y=18">]]></description>
-            <link>https://thegrid.ai/cycle-cult/bert-herbert-le-vack-earned-the-nickname-the-wizard-of-br/index.html</link>
-            <guid isPermaLink="false">fc1e0d11-5c16-476f-870d-5335c95bf9fa</guid>
-            <pubDate>Sun, 24 Jul 2016 06:47:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
