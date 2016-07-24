@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-24T03:29:29.195Z'
+datePublished: '2016-07-24T08:28:56.584Z'
+sourcePath: >-
+  _posts/2016-07-24-the-winner-of-the-first-isle-of-man-motorcycle-tourist-troph.md
 author: []
 via: {}
-dateModified: '2016-07-24T03:29:24.702Z'
+dateModified: '2016-07-24T08:28:56.167Z'
 title: ''
 publisher: {}
 description: >-
@@ -27,12 +29,10 @@ description: >-
   contested the win because Charlie had used his pedals whenever possible.
   Triumph's Jack Marshall also protested claiming that he had the fastest time
   when stops for repairs were deducted. Charlie Collier and Matchless's victory
-  would be upheld, but for the 1908 TT race pedal gears were prohibited. 
+  would be upheld, but for the 1908 TT race pedal gears were prohibited.
   ref:http://ijms.nova.edu/November2007TT/IJMS_Artcl.Ward.html
   ref:https://medium.com/@carlosdominguez/matchless-a-piece-of-the-british-history-abf5682f4162
 starred: false
-sourcePath: >-
-  _posts/2016-07-24-the-winner-of-the-first-isle-of-man-motorcycle-tourist-troph.md
 inFeed: true
 hasPage: true
 inNav: false
