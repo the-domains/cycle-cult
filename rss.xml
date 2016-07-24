@@ -4,7 +4,7 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 23:30:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 23:32:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/cycle-cult/a2be1bb9-4f61-41ad-b1b9-c6943722ee39/index.html</link>
             <guid isPermaLink="false">a2be1bb9-4f61-41ad-b1b9-c6943722ee39</guid>
             <pubDate>Sun, 24 Jul 2016 23:30:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e571440e-75fd-4ef8-856c-3667b2cef685.jpg" alt="Noel Baddow Pope 1939">]]></description>
+            <link>https://thegrid.ai/cycle-cult/on-july-4th-1939-noel-baddow-pope-was-timed-at-137-mph-over/index.html</link>
+            <guid isPermaLink="false">767496ec-a1ec-4569-8ee7-f148146f3f5f</guid>
+            <pubDate>Sun, 24 Jul 2016 23:29:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/the-ducati-berliner-1260-apollo-v4-delivered-a-claimed-100-h/index.html</link>
             <guid isPermaLink="false">d773c630-a42c-4b79-9ba6-9276c2d0a7db</guid>
             <pubDate>Sun, 24 Jul 2016 23:08:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0c412b9-ee52-4a56-b9a0-38cbd7e34686.jpg" alt=" Ducati presenting the Apollo V4 motorcycle to Joseph Berliner in 1964">]]></description>
-            <link>https://thegrid.ai/cycle-cult/giuseppe-montano-in-the-white-jacket-presenting-the-ducati/index.html</link>
-            <guid isPermaLink="false">6fa2b21d-2bba-4143-8a2c-0ab72b379507</guid>
-            <pubDate>Sun, 24 Jul 2016 23:07:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
