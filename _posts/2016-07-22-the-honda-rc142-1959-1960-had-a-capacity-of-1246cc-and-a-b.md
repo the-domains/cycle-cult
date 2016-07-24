@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-22T13:01:48.832Z'
+datePublished: '2016-07-24T06:50:30.102Z'
+sourcePath: >-
+  _posts/2016-07-22-the-honda-rc142-1959-1960-had-a-capacity-of-1246cc-and-a-b.md
 author: []
 via: {}
-dateModified: '2016-07-22T13:01:45.188Z'
+dateModified: '2016-07-24T06:50:29.412Z'
 title: ''
 publisher: {}
 description: >-
@@ -24,8 +26,6 @@ description: >-
   prior to the race. But while reliable, on the TT course the bike still weren't
   fast enough to beat the european competition.
 starred: false
-sourcePath: >-
-  _posts/2016-07-22-the-honda-rc142-1959-1960-had-a-capacity-of-1246cc-and-a-b.md
 inFeed: true
 hasPage: true
 inNav: false
