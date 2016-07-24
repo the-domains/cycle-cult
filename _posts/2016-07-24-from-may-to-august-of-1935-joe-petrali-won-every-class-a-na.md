@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-24T05:08:47.604Z'
+datePublished: '2016-07-24T06:58:38.053Z'
+sourcePath: >-
+  _posts/2016-07-24-from-may-to-august-of-1935-joe-petrali-won-every-class-a-na.md
 author: []
 via: {}
-dateModified: '2016-07-24T05:08:42.688Z'
+dateModified: '2016-07-24T06:58:37.758Z'
 title: ''
 publisher: {}
 description: >-
@@ -15,8 +17,6 @@ description: >-
   the 1930's, winning both the AMA hill climbing and track racing national
   titles in 1932, '33, '35, and '36.
 starred: false
-sourcePath: >-
-  _posts/2016-07-24-from-may-to-august-of-1935-joe-petrali-won-every-class-a-na.md
 inFeed: true
 hasPage: true
 inNav: false
