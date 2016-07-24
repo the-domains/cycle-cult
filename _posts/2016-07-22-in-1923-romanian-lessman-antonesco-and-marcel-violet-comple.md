@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-22T13:18:22.429Z'
+datePublished: '2016-07-24T06:45:55.106Z'
+sourcePath: >-
+  _posts/2016-07-22-in-1923-romanian-lessman-antonesco-and-marcel-violet-comple.md
 author: []
 via: {}
-dateModified: '2016-07-22T13:18:18.712Z'
+dateModified: '2016-07-24T06:45:54.763Z'
 title: ''
 publisher: {}
 description: >-
@@ -18,8 +20,6 @@ description: >-
   especially the forks. Pean finished 11th, Richards 14th and Gillard had to
   retire. The Peugeot two-cylinder motorcycles were raced officially until 1927.
 starred: false
-sourcePath: >-
-  _posts/2016-07-22-in-1923-romanian-lessman-antonesco-and-marcel-violet-comple.md
 inFeed: true
 hasPage: true
 inNav: false
