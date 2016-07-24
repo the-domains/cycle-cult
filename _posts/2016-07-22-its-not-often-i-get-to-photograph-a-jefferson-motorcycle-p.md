@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-07-24T07:55:40.807Z'
+datePublished: '2016-07-24T15:45:38.615Z'
 sourcePath: >-
   _posts/2016-07-22-its-not-often-i-get-to-photograph-a-jefferson-motorcycle-p.md
 author: []
 via: {}
-dateModified: '2016-07-24T07:55:40.420Z'
+dateModified: '2016-07-24T15:45:37.591Z'
 title: ''
 publisher: {}
 description: >-
