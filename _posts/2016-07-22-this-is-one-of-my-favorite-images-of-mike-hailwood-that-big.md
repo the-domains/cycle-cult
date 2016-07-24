@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-22T04:28:42.649Z'
+datePublished: '2016-07-24T06:59:55.579Z'
+sourcePath: >-
+  _posts/2016-07-22-this-is-one-of-my-favorite-images-of-mike-hailwood-that-big.md
 author: []
 via: {}
-dateModified: '2016-07-22T04:28:30.130Z'
+dateModified: '2016-07-24T06:59:54.730Z'
 title: ''
 publisher: {}
 description: >-
@@ -18,8 +20,6 @@ description: >-
   Regazzoni's car was still engulfed in flames, but Mike went right back in and
   pulled Clay to safety likely saving the drivers life.
 starred: false
-sourcePath: >-
-  _posts/2016-07-22-this-is-one-of-my-favorite-images-of-mike-hailwood-that-big.md
 inFeed: true
 hasPage: true
 inNav: false
