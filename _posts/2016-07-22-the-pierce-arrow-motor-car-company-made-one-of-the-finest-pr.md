@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-22T05:26:01.058Z'
+datePublished: '2016-07-24T08:09:09.953Z'
+sourcePath: >-
+  _posts/2016-07-22-the-pierce-arrow-motor-car-company-made-one-of-the-finest-pr.md
 author: []
 via: {}
-dateModified: '2016-07-22T05:25:57.975Z'
+dateModified: '2016-07-24T08:09:07.450Z'
 title: ''
 publisher: {}
 description: >-
@@ -35,8 +37,6 @@ description: >-
   1940. The Pierce-Arrow Motor Car Company went under in 1938. This photo is of
   H. L. Wilkens & Co.'s Pierce dealership at 1082 Bedford avenue in Brooklyn NY.
 starred: false
-sourcePath: >-
-  _posts/2016-07-22-the-pierce-arrow-motor-car-company-made-one-of-the-finest-pr.md
 inFeed: true
 hasPage: true
 inNav: false
