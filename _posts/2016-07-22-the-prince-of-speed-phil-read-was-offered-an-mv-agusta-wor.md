@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-22T04:38:52.565Z'
+datePublished: '2016-07-24T06:50:07.684Z'
+sourcePath: >-
+  _posts/2016-07-22-the-prince-of-speed-phil-read-was-offered-an-mv-agusta-wor.md
 author: []
 via: {}
-dateModified: '2016-07-22T04:38:45.593Z'
+dateModified: '2016-07-24T06:50:07.262Z'
 title: ''
 publisher: {}
 description: >-
@@ -21,8 +23,6 @@ description: >-
   would also be the last time a four-stroke machine would win a title until the
   advent of the MotoGP class in 2002.
 starred: false
-sourcePath: >-
-  _posts/2016-07-22-the-prince-of-speed-phil-read-was-offered-an-mv-agusta-wor.md
 inFeed: true
 hasPage: true
 inNav: false
