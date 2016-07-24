@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 22:46:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 23:07:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8599849e-a72b-42b7-8e7e-06e5120f645a.jpg" alt="Cycle Cult Police Department">]]></description>
+            <link>https://thegrid.ai/cycle-cult/in-february-1955-the-los-angeles-police-department-through/index.html</link>
+            <guid isPermaLink="false">8d8f69aa-410e-4804-a263-2f353a957522</guid>
+            <pubDate>Sun, 24 Jul 2016 23:07:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cb135186-54bb-4136-818b-193a2215988e.jpg" alt="Harley-Davidson Memorial Day Parade Truck">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/7975660b-e0d7-44e6-a4ae-547cc987185e/index.html</link>
             <guid isPermaLink="false">7975660b-e0d7-44e6-a4ae-547cc987185e</guid>
             <pubDate>Sun, 24 Jul 2016 20:06:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7d5d7e8-1979-4609-9f8e-ae7cd17620d6.jpg">]]></description>
-            <link>https://thegrid.ai/cycle-cult/5f704bcc-706a-4d43-934f-3f0222db65d1/index.html</link>
-            <guid isPermaLink="false">5f704bcc-706a-4d43-934f-3f0222db65d1</guid>
-            <pubDate>Sun, 24 Jul 2016 20:06:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
