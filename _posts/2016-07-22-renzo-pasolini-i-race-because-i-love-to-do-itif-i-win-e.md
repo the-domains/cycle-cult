@@ -1,8 +1,9 @@
 ---
-datePublished: '2016-07-22T04:22:23.918Z'
+datePublished: '2016-07-24T08:25:15.651Z'
+sourcePath: _posts/2016-07-22-renzo-pasolini-i-race-because-i-love-to-do-itif-i-win-e.md
 author: []
 via: {}
-dateModified: '2016-07-22T04:22:07.922Z'
+dateModified: '2016-07-24T08:25:15.271Z'
 title: ''
 publisher: {}
 description: >-
@@ -18,7 +19,6 @@ description: >-
   marked the start of his epic battles with Hailwood riding for Honda, and
   Agostini riding for MV Agusta.
 starred: false
-sourcePath: _posts/2016-07-22-renzo-pasolini-i-race-because-i-love-to-do-itif-i-win-e.md
 inFeed: true
 hasPage: true
 inNav: false
