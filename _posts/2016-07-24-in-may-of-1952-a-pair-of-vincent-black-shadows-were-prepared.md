@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-07-24T15:39:10.772Z'
+datePublished: '2016-07-24T17:47:43.307Z'
 sourcePath: >-
   _posts/2016-07-24-in-may-of-1952-a-pair-of-vincent-black-shadows-were-prepared.md
 author: []
 via: {}
-dateModified: '2016-07-24T15:39:10.308Z'
+dateModified: '2016-07-24T17:47:42.682Z'
 title: ''
 publisher: {}
 description: >-
