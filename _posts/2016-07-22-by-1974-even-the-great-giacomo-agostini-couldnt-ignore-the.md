@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-22T13:48:32.314Z'
+datePublished: '2016-07-24T06:48:00.764Z'
+sourcePath: >-
+  _posts/2016-07-22-by-1974-even-the-great-giacomo-agostini-couldnt-ignore-the.md
 author: []
 via: {}
-dateModified: '2016-07-22T13:48:28.075Z'
+dateModified: '2016-07-24T06:47:59.562Z'
 title: ''
 publisher: {}
 description: >-
@@ -16,8 +18,6 @@ description: >-
   the start of the Brno Grand Prix rubbing shoulders with Patrick Pons also on a
   Yamaha in 1975.
 starred: false
-sourcePath: >-
-  _posts/2016-07-22-by-1974-even-the-great-giacomo-agostini-couldnt-ignore-the.md
 inFeed: true
 hasPage: true
 inNav: false
