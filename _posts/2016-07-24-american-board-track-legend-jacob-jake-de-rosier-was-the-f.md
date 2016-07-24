@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-24T03:11:14.015Z'
+datePublished: '2016-07-24T08:27:10.248Z'
+sourcePath: >-
+  _posts/2016-07-24-american-board-track-legend-jacob-jake-de-rosier-was-the-f.md
 author: []
 via: {}
-dateModified: '2016-07-24T03:11:06.710Z'
+dateModified: '2016-07-24T08:27:09.472Z'
 title: ''
 publisher: {}
 description: >-
@@ -30,12 +32,10 @@ description: >-
   Motorcyclists (FAM). By the end of 1911 Jake held every FAM speed record for
   professional riders. De Rosier won nearly 900 races during his racing career
   and was undoubtedly the most famous motorcycle racer of the early 20th
-  century.  ref:https://en.wikipedia.org/wiki/Jake_DeRosier
+  century. ref:https://en.wikipedia.org/wiki/Jake_DeRosier
   ref:http://www.motorcyclemuseum.org/halloffame/detail.aspx?RacerID=95
   ref:http://cmhf.ca/jake-derosier/
 starred: false
-sourcePath: >-
-  _posts/2016-07-24-american-board-track-legend-jacob-jake-de-rosier-was-the-f.md
 inFeed: true
 hasPage: true
 inNav: false
