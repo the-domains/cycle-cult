@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-22T04:12:02.027Z'
+datePublished: '2016-07-24T07:06:10.911Z'
+sourcePath: >-
+  _posts/2016-07-22-renzo-pasolini-is-remembered-for-his-challenges-on-a-benelli.md
 author: []
 via: {}
-dateModified: '2016-07-22T04:11:51.583Z'
+dateModified: '2016-07-24T07:06:10.438Z'
 title: ''
 publisher: {}
 description: >-
@@ -22,8 +24,6 @@ description: >-
   ultimately involving twelve riders and resulting in Pasolini's and Saarinen's
   deaths.
 starred: false
-sourcePath: >-
-  _posts/2016-07-22-renzo-pasolini-is-remembered-for-his-challenges-on-a-benelli.md
 inFeed: true
 hasPage: true
 inNav: false
