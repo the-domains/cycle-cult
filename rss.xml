@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 07:51:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 07:52:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/814fe77c-b315-4ab7-8cfa-0b4d0137accf.jpg" alt="New Mexico motorcycle cop in a 4th of July Parade circa 1940">]]></description>
+            <link>https://thegrid.ai/cycle-cult/new-mexico-motorcycle-cop-in-a-4th-of-july-parade-circa-1940/index.html</link>
+            <guid isPermaLink="false">c83e8f80-128f-415c-ac0c-5810fc688ba2</guid>
+            <pubDate>Sun, 24 Jul 2016 07:52:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/94d84823-1fca-46a5-a8d5-927e8d6ad0cb.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/the-brooklands-concrete-banked-oval-was-famous-for-speed-rec/index.html</link>
             <guid isPermaLink="false">52a62404-d592-413a-bcb8-b709cc0e4d9b</guid>
             <pubDate>Sun, 24 Jul 2016 07:48:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2229ceb9-8ef8-44e8-8e24-58f6714f992b.jpg">]]></description>
-            <link>https://thegrid.ai/cycle-cult/2b60eb76-3a95-4fde-ba41-c604c75c6217/index.html</link>
-            <guid isPermaLink="false">2b60eb76-3a95-4fde-ba41-c604c75c6217</guid>
-            <pubDate>Sun, 24 Jul 2016 07:47:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
