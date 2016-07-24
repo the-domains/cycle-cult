@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-22T05:09:36.072Z'
+datePublished: '2016-07-24T08:05:44.755Z'
+sourcePath: >-
+  _posts/2016-07-22-the-benelli-250cc-four-cylinder-gp-bike-made-its-racing-debu.md
 author: []
 via: {}
-dateModified: '2016-07-22T05:09:31.805Z'
+dateModified: '2016-07-24T08:05:44.116Z'
 title: ''
 publisher: {}
 description: >-
@@ -29,8 +31,6 @@ description: >-
   rules in 1970 limiting the 250 class to two cylinders and six gears making the
   250/4 obsolete.
 starred: false
-sourcePath: >-
-  _posts/2016-07-22-the-benelli-250cc-four-cylinder-gp-bike-made-its-racing-debu.md
 inFeed: true
 hasPage: true
 inNav: false
