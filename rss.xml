@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 04:01:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 04:04:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7622d52b-a652-4fdc-93ef-0d05692d1673.jpg">]]></description>
+            <link>https://thegrid.ai/cycle-cult/frenchman-andre-pernette-was-active-in-velodrome-motorcycle/index.html</link>
+            <guid isPermaLink="false">7826ad23-b360-4206-85d0-47029b3b6b46</guid>
+            <pubDate>Sun, 24 Jul 2016 04:04:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1096b2a9-1cf4-4cf6-9b97-04691138ed64.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/this-is-the-motor-that-changed-everything-the-inline-four-c/index.html</link>
             <guid isPermaLink="false">4bdb4da5-9015-4595-bca5-3bf03d5988cb</guid>
             <pubDate>Sun, 24 Jul 2016 03:34:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b14db4b4-2b26-49b1-809a-8e5b31ab20ac.jpg">]]></description>
-            <link>https://thegrid.ai/cycle-cult/standing-on-the-concrete-at-brooklands-on-march-20th-1911-t/index.html</link>
-            <guid isPermaLink="false">abd6c6fd-9ee8-4d2d-a6d0-5fc3e0619a73</guid>
-            <pubDate>Sun, 24 Jul 2016 03:31:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
