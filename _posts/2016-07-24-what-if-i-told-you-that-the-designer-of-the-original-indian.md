@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-24T03:14:10.817Z'
+datePublished: '2016-07-24T08:11:53.623Z'
+sourcePath: >-
+  _posts/2016-07-24-what-if-i-told-you-that-the-designer-of-the-original-indian.md
 author: []
 via: {}
-dateModified: '2016-07-24T03:14:07.394Z'
+dateModified: '2016-07-24T08:11:39.418Z'
 title: ''
 publisher: {}
 description: >-
@@ -36,10 +38,8 @@ description: >-
   Association was formed in 1916. By 1924 the M&ATA had registered over 10,000
   riders that same year they created a division called the "American Motorcycle
   Association" to control rider registration, activities, and issue sanctions
-  for national events. As of April 30, 2015 the AMA has 214,517 members. 
+  for national events. As of April 30, 2015 the AMA has 214,517 members.
 starred: false
-sourcePath: >-
-  _posts/2016-07-24-what-if-i-told-you-that-the-designer-of-the-original-indian.md
 inFeed: true
 hasPage: true
 inNav: false
