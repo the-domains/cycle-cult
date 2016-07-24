@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-22T13:34:07.073Z'
+datePublished: '2016-07-24T07:05:41.158Z'
+sourcePath: >-
+  _posts/2016-07-22-this-is-another-motom-ultra-lightweight-single-that-appears.md
 author: []
 via: {}
-dateModified: '2016-07-22T13:34:03.088Z'
+dateModified: '2016-07-24T07:05:40.715Z'
 title: ''
 publisher: {}
 description: >-
@@ -13,8 +15,6 @@ description: >-
   road worthy. Battista Battaglia is said to be the definitive Motom expert and
   spare parts guy in Italy.
 starred: false
-sourcePath: >-
-  _posts/2016-07-22-this-is-another-motom-ultra-lightweight-single-that-appears.md
 inFeed: true
 hasPage: true
 inNav: false
