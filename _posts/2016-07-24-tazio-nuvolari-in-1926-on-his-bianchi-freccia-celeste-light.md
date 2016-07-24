@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-24T04:14:45.529Z'
+datePublished: '2016-07-24T08:21:27.318Z'
+sourcePath: >-
+  _posts/2016-07-24-tazio-nuvolari-in-1926-on-his-bianchi-freccia-celeste-light.md
 author: []
 via: {}
-dateModified: '2016-07-24T04:14:35.323Z'
+dateModified: '2016-07-24T08:21:26.534Z'
 title: ''
 publisher: {}
 description: >-
@@ -14,8 +16,6 @@ description: >-
   and 121.428 respectively) as well as two championship titles in Italy, won in
   1924 (class 500) and in 1926 (class 350).
 starred: false
-sourcePath: >-
-  _posts/2016-07-24-tazio-nuvolari-in-1926-on-his-bianchi-freccia-celeste-light.md
 inFeed: true
 hasPage: true
 inNav: false
