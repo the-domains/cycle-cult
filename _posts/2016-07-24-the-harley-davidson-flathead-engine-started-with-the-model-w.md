@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-24T04:21:47.322Z'
+datePublished: '2016-07-24T07:59:10.676Z'
+sourcePath: >-
+  _posts/2016-07-24-the-harley-davidson-flathead-engine-started-with-the-model-w.md
 author: []
 via: {}
-dateModified: '2016-07-24T04:21:43.501Z'
+dateModified: '2016-07-24T07:59:10.251Z'
 title: ''
 publisher: {}
 description: >-
@@ -24,10 +26,8 @@ description: >-
   decided to change the rules and made the flathead uncompetitive. The K racers
   were replaced first by the iron-head XR 750 cc overhead valve engine, and two
   years later by the alloy-head XR, which continues in service in flat track
-  racing to this day. 
+  racing to this day.
 starred: false
-sourcePath: >-
-  _posts/2016-07-24-the-harley-davidson-flathead-engine-started-with-the-model-w.md
 inFeed: true
 hasPage: true
 inNav: false
