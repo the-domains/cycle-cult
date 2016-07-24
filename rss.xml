@@ -4,22 +4,8 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 20:06:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 20:06:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1800deb5-0540-4aaf-82d2-fec4dbb3a66f.jpg">]]></description>
-            <link>https://thegrid.ai/cycle-cult/48650f2e-1571-49a7-a0ec-548c9c5fa2ae/index.html</link>
-            <guid isPermaLink="false">48650f2e-1571-49a7-a0ec-548c9c5fa2ae</guid>
-            <pubDate>Sun, 24 Jul 2016 20:05:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d0fd4f17-9855-4ddc-87f7-50c84de62c32.jpg">]]></description>
-            <link>https://thegrid.ai/cycle-cult/67a6f032-9c79-4f5f-a5f6-fdcee052cb19/index.html</link>
-            <guid isPermaLink="false">67a6f032-9c79-4f5f-a5f6-fdcee052cb19</guid>
-            <pubDate>Sun, 24 Jul 2016 20:05:47 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/87aeece6-16eb-44d8-aedd-79b7947dfd23.jpg">]]></description>
@@ -75,6 +61,20 @@
             <link>https://thegrid.ai/cycle-cult/dkw-was-the-worlds-largest-motorcycle-manufacturer-by-the-1/index.html</link>
             <guid isPermaLink="false">390e75a8-6e22-4cb8-96e0-ef0db8b25621</guid>
             <pubDate>Sun, 24 Jul 2016 17:43:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a74b239b-2089-4581-a025-8dab56e010f7.jpg" alt="Phelon &amp; Moore - 1914">]]></description>
+            <link>https://thegrid.ai/cycle-cult/at-the-outbreak-of-wwi-in-august-1914-the-3hp-pandm-phelon/index.html</link>
+            <guid isPermaLink="false">f75ddea7-408b-4693-8236-2bf1ff8026f6</guid>
+            <pubDate>Sun, 24 Jul 2016 17:42:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dca9316d-c995-4be5-855f-a971c8bf798e.jpg" alt="Francis Alexander Simpson Cutaway Drawing - Panther">]]></description>
+            <link>https://thegrid.ai/cycle-cult/phelon-and-moore-manufactured-motorcycles-in-england-from-1904/index.html</link>
+            <guid isPermaLink="false">1753c2d7-a8b3-4855-a239-56e7a4dca0be</guid>
+            <pubDate>Sun, 24 Jul 2016 17:37:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
