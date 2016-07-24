@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-24T03:17:07.111Z'
+datePublished: '2016-07-24T08:05:17.398Z'
+sourcePath: >-
+  _posts/2016-07-24-jack-marshall-photographed-here-at-brooklands-won-the-1908.md
 author: []
 via: {}
-dateModified: '2016-07-24T03:17:03.946Z'
+dateModified: '2016-07-24T08:05:16.977Z'
 title: ''
 publisher: {}
 description: >-
@@ -31,10 +33,8 @@ description: >-
   twin was slower than that of the Jack's Triumph single. The win stimulated
   sales with around Triumph 3,000 motorcycles being produced in 1909. Triumph's
   reputation was such that at the onset of WW1 in 1914 the British army placed
-  an order for 30,000 motorcycles for the war effort. 
+  an order for 30,000 motorcycles for the war effort.
 starred: false
-sourcePath: >-
-  _posts/2016-07-24-jack-marshall-photographed-here-at-brooklands-won-the-1908.md
 inFeed: true
 hasPage: true
 inNav: false
