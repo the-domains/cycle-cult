@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 16:28:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 16:34:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ ]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cbaaa7c1-7145-4e45-803b-6b1ee6c3d605.jpg" alt="Sammy Miller - 1957 Ulster Grand Prix">]]></description>
+            <link>https://thegrid.ai/cycle-cult/photo-the-dunwoody-collection-bob-dunwoody/index.html</link>
+            <guid isPermaLink="false">3d01a276-2f97-4d06-a995-2c7fd6d3e2d3</guid>
+            <pubDate>Sun, 24 Jul 2016 16:34:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2db8067-12c0-4b5c-83ad-e9862c75998c.jpg" alt="DKW RM350 - Exploded View">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/modena-racetrack-in-1925-on-the-left-holding-the-starter-fl/index.html</link>
             <guid isPermaLink="false">f3fb2c90-2781-4aa8-8bb9-dc15d4504178</guid>
             <pubDate>Sun, 24 Jul 2016 16:05:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1c5b74fc7573410e577644fd87b94d6b/croprotate.jpg?cropheight=371&cropwidth=792&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F591cbea9-267f-4ef8-81ac-0bad5560e323.jpg&x=0&y=64" alt="Supercharged Vincent Comet TT Special">]]></description>
-            <link>https://thegrid.ai/cycle-cult/the-supercharged-vincent-comet-tt-special-was-built-for-an-a/index.html</link>
-            <guid isPermaLink="false">7a1b9a7d-9d1a-4b1a-b315-31a18df68e96</guid>
-            <pubDate>Sun, 24 Jul 2016 16:02:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
