@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-22T14:11:43.038Z'
+datePublished: '2016-07-24T08:12:45.417Z'
+sourcePath: >-
+  _posts/2016-07-22-this-is-one-of-my-favorite-isle-of-man-photos-george-rowley.md
 author: []
 via: {}
-dateModified: '2016-07-22T14:11:40.282Z'
+dateModified: '2016-07-24T08:12:44.311Z'
 title: ''
 publisher: {}
 description: >-
@@ -35,8 +37,6 @@ description: >-
   set several records, breaking the 100 mph lap speed record at the Ulster Grand
   Prix.
 starred: false
-sourcePath: >-
-  _posts/2016-07-22-this-is-one-of-my-favorite-isle-of-man-photos-george-rowley.md
 inFeed: true
 hasPage: true
 inNav: false
