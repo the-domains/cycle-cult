@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-22T04:54:15.822Z'
+datePublished: '2016-07-24T07:58:05.735Z'
+sourcePath: >-
+  _posts/2016-07-22-albert-sourdot-won-the-lightweight-french-grand-prix-on-a-mo.md
 author: []
 via: {}
-dateModified: '2016-07-22T04:54:10.833Z'
+dateModified: '2016-07-24T07:58:05.345Z'
 title: ''
 publisher: {}
 description: >-
@@ -23,8 +25,6 @@ description: >-
   Monet-Goyon resumed production of small displacement motorcycles and scooters
   until finally closing its doors at the end of the 1950’s.
 starred: false
-sourcePath: >-
-  _posts/2016-07-22-albert-sourdot-won-the-lightweight-french-grand-prix-on-a-mo.md
 inFeed: true
 hasPage: true
 inNav: false
