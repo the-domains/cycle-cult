@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-22T13:38:19.217Z'
+datePublished: '2016-07-24T08:08:34.277Z'
+sourcePath: >-
+  _posts/2016-07-22-naomi-taniguchi-became-the-first-japanese-racer-to-compete-a.md
 author: []
 via: {}
-dateModified: '2016-07-22T13:38:11.844Z'
+dateModified: '2016-07-24T08:08:21.592Z'
 title: ''
 publisher: {}
 description: >-
@@ -24,8 +26,6 @@ description: >-
   finished in the points five times, the best results were two fourth places.
   Honda was third in the constructor championship behind the MV Agusta and MZ.
 starred: false
-sourcePath: >-
-  _posts/2016-07-22-naomi-taniguchi-became-the-first-japanese-racer-to-compete-a.md
 inFeed: true
 hasPage: true
 inNav: false
