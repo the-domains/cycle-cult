@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 16:05:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 16:08:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4a0a7b7-092e-4cfa-a5b5-f1dc86771fb4.png" alt="Scuderia Stanguellini Race Team">]]></description>
+            <link>https://thegrid.ai/cycle-cult/the-1925-celso-stanguellini-race-team-riders-bezzanti-barbo/index.html</link>
+            <guid isPermaLink="false">2e3adc30-a0eb-413f-971b-a45dfadb38b8</guid>
+            <pubDate>Sun, 24 Jul 2016 16:08:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e503b3a-77d8-46a4-9520-2a2df9159590.png" alt="Francesco Stanguellini">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/the-harley-davidson-flathead-engine-started-with-the-model-w/index.html</link>
             <guid isPermaLink="false">8c314363-b2be-4b9c-adf3-c9712f0265b6</guid>
             <pubDate>Sun, 24 Jul 2016 15:37:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6a43f02d-3d4b-484d-a425-bf5adc8b67ad.jpg">]]></description>
-            <link>https://thegrid.ai/cycle-cult/tazio-nuvolari-in-1926-on-his-bianchi-freccia-celeste-light/index.html</link>
-            <guid isPermaLink="false">b1a9e8ea-9548-4d04-9939-ac4e31f3ea30</guid>
-            <pubDate>Sun, 24 Jul 2016 15:36:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
