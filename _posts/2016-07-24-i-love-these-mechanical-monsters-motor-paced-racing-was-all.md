@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-24T03:48:24.917Z'
+datePublished: '2016-07-24T08:04:12.888Z'
+sourcePath: >-
+  _posts/2016-07-24-i-love-these-mechanical-monsters-motor-paced-racing-was-all.md
 author: []
 via: {}
-dateModified: '2016-07-24T03:48:20.942Z'
+dateModified: '2016-07-24T08:04:09.810Z'
 title: ''
 publisher: {}
 description: >-
@@ -21,11 +23,9 @@ description: >-
   wrenching. One accident at the Parc des Princes in Paris was immortalized by
   Ernest Hemingway in A Movable Feast with "where we saw that great rider Ganay
   fall and heard his skull crumple under the crash helmet as you crack a
-  hard-boiled against a stone to peel it on a picnic." 
+  hard-boiled against a stone to peel it on a picnic."
   ref:https://en.wikipedia.org/wiki/List_of_professional_cyclists_who_died_during_a_race
 starred: false
-sourcePath: >-
-  _posts/2016-07-24-i-love-these-mechanical-monsters-motor-paced-racing-was-all.md
 inFeed: true
 hasPage: true
 inNav: false
