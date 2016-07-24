@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 16:08:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 16:12:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f622fa8-9ce1-4827-8451-53f80562446d.jpg" alt="Tazio Nuvolari and Francesco Stanguellini">]]></description>
+            <link>https://thegrid.ai/cycle-cult/tazio-nuvolari-and-francesco-stanguellini-in-october-23-of-1/index.html</link>
+            <guid isPermaLink="false">59c2ce59-79eb-4ea3-b790-f3a4e1e06a7d</guid>
+            <pubDate>Sun, 24 Jul 2016 16:12:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4a0a7b7-092e-4cfa-a5b5-f1dc86771fb4.png" alt="Scuderia Stanguellini Race Team">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/in-may-of-1952-a-pair-of-vincent-black-shadows-were-prepared/index.html</link>
             <guid isPermaLink="false">194ad836-953f-4af8-9706-2b94dafb435a</guid>
             <pubDate>Sun, 24 Jul 2016 15:39:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/824576c8-aff6-4174-88a8-e8aca376f5ba.jpg">]]></description>
-            <link>https://thegrid.ai/cycle-cult/the-harley-davidson-flathead-engine-started-with-the-model-w/index.html</link>
-            <guid isPermaLink="false">8c314363-b2be-4b9c-adf3-c9712f0265b6</guid>
-            <pubDate>Sun, 24 Jul 2016 15:37:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
