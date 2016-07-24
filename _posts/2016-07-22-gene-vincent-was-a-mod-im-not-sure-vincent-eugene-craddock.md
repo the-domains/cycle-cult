@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-22T04:47:41.990Z'
+datePublished: '2016-07-24T07:00:51.990Z'
+sourcePath: >-
+  _posts/2016-07-22-gene-vincent-was-a-mod-im-not-sure-vincent-eugene-craddock.md
 author: []
 via: {}
-dateModified: '2016-07-22T04:47:15.622Z'
+dateModified: '2016-07-24T07:00:51.334Z'
 title: ''
 publisher: {}
 description: >-
@@ -27,8 +29,6 @@ description: >-
   single "Dance to the Bop" was used in the movie Hot Rod Gang and the group
   performed the song on the nationally-broadcast Ed Sullivan Show.
 starred: false
-sourcePath: >-
-  _posts/2016-07-22-gene-vincent-was-a-mod-im-not-sure-vincent-eugene-craddock.md
 inFeed: true
 hasPage: true
 inNav: false
