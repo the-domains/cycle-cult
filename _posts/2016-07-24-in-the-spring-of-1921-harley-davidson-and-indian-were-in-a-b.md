@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-24T03:42:26.988Z'
+datePublished: '2016-07-24T08:01:06.196Z'
+sourcePath: >-
+  _posts/2016-07-24-in-the-spring-of-1921-harley-davidson-and-indian-were-in-a-b.md
 author: []
 via: {}
-dateModified: '2016-07-24T03:42:23.003Z'
+dateModified: '2016-07-24T08:01:05.230Z'
 title: ''
 publisher: {}
 description: >-
@@ -23,10 +25,8 @@ description: >-
   Bert was with Indian for four years but after the record attempts he reached
   out to John Prestwich at JAP in what some say was a renewed sense of
   patriotism in hopes of putting a British made big twin "Yank-Buster" back on
-  the throne.  ref:http://www.geocities.ws/charles_b_franklin/contents.html
+  the throne. ref:http://www.geocities.ws/charles_b_franklin/contents.html
 starred: false
-sourcePath: >-
-  _posts/2016-07-24-in-the-spring-of-1921-harley-davidson-and-indian-were-in-a-b.md
 inFeed: true
 hasPage: true
 inNav: false
