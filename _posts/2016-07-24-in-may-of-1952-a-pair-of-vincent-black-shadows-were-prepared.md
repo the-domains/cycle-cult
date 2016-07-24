@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-24T03:00:45.528Z'
+datePublished: '2016-07-24T06:56:50.789Z'
+sourcePath: >-
+  _posts/2016-07-24-in-may-of-1952-a-pair-of-vincent-black-shadows-were-prepared.md
 author: []
 via: {}
-dateModified: '2016-07-24T03:00:35.865Z'
+dateModified: '2016-07-24T06:56:49.496Z'
 title: ''
 publisher: {}
 description: >-
@@ -24,11 +26,9 @@ description: >-
   as such used the standard bearings, had the factory used caged roller bearing
   big ends made by Alpha like George Brown used in his "Nero" and "Super Nero"
   sprinters the results might have been different. Vincent still ended up going
-  home from France with eight other speed records. 
+  home from France with eight other speed records.
   ref:http://johnlumleyaffair.blogspot.fr/p/montlhery-black-shadows.html
 starred: false
-sourcePath: >-
-  _posts/2016-07-24-in-may-of-1952-a-pair-of-vincent-black-shadows-were-prepared.md
 inFeed: true
 hasPage: true
 inNav: false
