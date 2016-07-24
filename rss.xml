@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 17:14:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 17:16:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2a5c2312-514f-477b-a153-33434ce95761.jpg" alt="NSU Works Team - 1938">]]></description>
+            <link>https://thegrid.ai/cycle-cult/this-is-a-great-shot-of-the-nsu-works-team-in-1938-karl-bod/index.html</link>
+            <guid isPermaLink="false">432f1ec9-035d-4f98-9ecf-d464507e470c</guid>
+            <pubDate>Sun, 24 Jul 2016 17:16:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/073f8006-950e-4b2a-8ae7-973aba2e0d31.jpg" alt="The first post WWII Motorcycle Race in Germany">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/tazio-giorgio-nuvolari-and-his-team-mates-with-the-bianchi-3/index.html</link>
             <guid isPermaLink="false">87a1e4eb-2cbc-49f9-bbf4-5b6fcb74dbc4</guid>
             <pubDate>Sun, 24 Jul 2016 16:19:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7149ded7-bf75-4e6b-8cb2-9f54f3290958.jpg" alt="Tazio Nuvolari - the Circuito del Lario">]]></description>
-            <link>https://thegrid.ai/cycle-cult/tazio-nuvolari-won-the-circuito-del-lario-roadrace-often-ca/index.html</link>
-            <guid isPermaLink="false">30e45d05-737c-412d-bc7c-e202d6c6f9b9</guid>
-            <pubDate>Sun, 24 Jul 2016 16:16:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
