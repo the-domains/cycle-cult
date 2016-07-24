@@ -4,8 +4,22 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 06:58:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 06:59:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f34f0720-29d5-40b5-af4f-782c20c86157.jpg" alt="Oscar Hedstr&ouml;m">]]></description>
+            <link>https://thegrid.ai/cycle-cult/oscar-hedstrom-built-the-first-indian-prototype-in-1901-and/index.html</link>
+            <guid isPermaLink="false">85408094-7a7d-452a-8876-6776d94c6268</guid>
+            <pubDate>Sun, 24 Jul 2016 06:59:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b765f275-78fc-4527-bbf2-77c7eb5fbc3a.jpg" alt="SOHC 500cc twin Peugeot">]]></description>
+            <link>https://thegrid.ai/cycle-cult/m-richard-the-1925-winner-of-the-grand-prix-of-lyon-on-a-so/index.html</link>
+            <guid isPermaLink="false">637bbf2b-0191-4370-a70f-6212d62b87fa</guid>
+            <pubDate>Sun, 24 Jul 2016 06:59:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac3f2ff8-e6bb-4abb-97b8-f859859b76c6.jpg" alt="Joe Petrali - Hank Syvertsen">]]></description>
@@ -61,20 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/13f9b8b2-968c-4b85-bf62-b7a6a9fb31f3/index.html</link>
             <guid isPermaLink="false">13f9b8b2-968c-4b85-bf62-b7a6a9fb31f3</guid>
             <pubDate>Sun, 24 Jul 2016 06:56:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cac07cdb-5da3-438d-85c8-1583a6d0eb63.jpg">]]></description>
-            <link>https://thegrid.ai/cycle-cult/c64473c2-84a5-46dd-a5c3-2ed2e6379c60/index.html</link>
-            <guid isPermaLink="false">c64473c2-84a5-46dd-a5c3-2ed2e6379c60</guid>
-            <pubDate>Sun, 24 Jul 2016 06:55:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3464a153-aaa6-4ccb-b86a-e3e8cca4cabe.jpg">]]></description>
-            <link>https://thegrid.ai/cycle-cult/0f262b7e-28b6-40aa-a785-f93463a46e8d/index.html</link>
-            <guid isPermaLink="false">0f262b7e-28b6-40aa-a785-f93463a46e8d</guid>
-            <pubDate>Sun, 24 Jul 2016 06:55:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
