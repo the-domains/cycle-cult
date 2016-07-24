@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 22:34:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 22:36:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9baaf28a-f460-4108-bb42-8c659dcd9e07.jpg" alt="Gary Hocking on the 250 MV">]]></description>
+            <link>https://thegrid.ai/cycle-cult/a-great-shot-of-gary-hocking-on-the-250-mv-at-the-ulster-gra/index.html</link>
+            <guid isPermaLink="false">a2ade7a0-d826-42f4-a347-3523b19558f5</guid>
+            <pubDate>Sun, 24 Jul 2016 22:36:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/18c77a2b-c296-4478-9afd-7f0664e39585.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/8ea85b44-510d-4407-a0e4-e05bc4cfc5d2/index.html</link>
             <guid isPermaLink="false">8ea85b44-510d-4407-a0e4-e05bc4cfc5d2</guid>
             <pubDate>Sun, 24 Jul 2016 20:06:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4be31997-d046-4f5f-bb81-451ce5fb3fcc.jpg">]]></description>
-            <link>https://thegrid.ai/cycle-cult/24438055-8e36-4947-b148-44e5a5949e14/index.html</link>
-            <guid isPermaLink="false">24438055-8e36-4947-b148-44e5a5949e14</guid>
-            <pubDate>Sun, 24 Jul 2016 20:06:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
