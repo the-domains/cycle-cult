@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-22T13:56:55.132Z'
+datePublished: '2016-07-24T08:20:26.834Z'
+sourcePath: >-
+  _posts/2016-07-22-naomi-taniguchi-on-the-honda-rc142-at-the-1959-isle-of-man-t.md
 author: []
 via: {}
-dateModified: '2016-07-22T13:56:50.679Z'
+dateModified: '2016-07-24T08:20:26.277Z'
 title: ''
 publisher: {}
 description: >-
@@ -23,8 +25,6 @@ description: >-
   participation in World Grand Prix racing, Naomi Taniguchi at age 73 fired up a
   restored RC142 and did an impressive lap of the course!
 starred: false
-sourcePath: >-
-  _posts/2016-07-22-naomi-taniguchi-on-the-honda-rc142-at-the-1959-isle-of-man-t.md
 inFeed: true
 hasPage: true
 inNav: false
