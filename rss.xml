@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 07:05:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 07:06:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb133f16-14a9-44c7-bab8-b89329b0a2fd.jpg" alt="Renzo Pasolini">]]></description>
+            <link>https://thegrid.ai/cycle-cult/renzo-pasolini-is-remembered-for-his-challenges-on-a-benelli/index.html</link>
+            <guid isPermaLink="false">31462b27-3e6e-431c-9571-a23f1bcff6d8</guid>
+            <pubDate>Sun, 24 Jul 2016 07:06:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c7db4113-27d4-49ec-b20d-57963f1911f0.jpg" alt="Motom ultra-lightweight">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/catalogue-images-of-the-pierce-motorcycles-and-the-pierce-sp/index.html</link>
             <guid isPermaLink="false">ed7d70dc-ef71-4e61-bbda-28a6cf0f8963</guid>
             <pubDate>Sun, 24 Jul 2016 07:02:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a11cd2a9-0521-4f57-9119-b6e03b5d2828.jpg" alt="OHV 350cc Z&eacute;del v-twin Alcyon motorcycle">]]></description>
-            <link>https://thegrid.ai/cycle-cult/paul-meunier-won-the-french-grand-prix-in-1921-on-a-ohv-350c/index.html</link>
-            <guid isPermaLink="false">47139ba3-231f-46fd-88c9-1c3f1836a8b2</guid>
-            <pubDate>Sun, 24 Jul 2016 07:01:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
