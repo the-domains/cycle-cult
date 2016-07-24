@@ -8,6 +8,13 @@
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3483a8f-914a-45bc-bef8-388926a54473.jpg" alt="Noel Pope - Velocette MK6 KTT">]]></description>
+            <link>https://thegrid.ai/cycle-cult/noel-pope-competed-at-the-isle-of-man-tt-sometimes-in-both-t/index.html</link>
+            <guid isPermaLink="false">c55993f1-06d5-41e3-8ccf-45d8efe8ad74</guid>
+            <pubDate>Sun, 24 Jul 2016 23:25:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d0819b6-b936-4e30-9e7d-2afdca030544.jpg" alt="Noel Pope&apos;s 1949 Brough Superior &quot;Silver Fish&quot;">]]></description>
             <link>https://thegrid.ai/cycle-cult/this-is-what-noel-popes-1949-brough-superior-silver-fish/index.html</link>
             <guid isPermaLink="false">272ae83c-6fa9-4af4-969c-e92f626282b8</guid>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/in-1926-daredevil-fred-osbourne-thought-it-would-be-a-good-s/index.html</link>
             <guid isPermaLink="false">7415caf5-2793-4f82-84ec-9dd761ab6e56</guid>
             <pubDate>Sun, 24 Jul 2016 23:07:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/41779cc0-f5d3-432f-b7a0-4f355395e275.jpg">]]></description>
-            <link>https://thegrid.ai/cycle-cult/evel-knievel-is-best-remembered-as-riding-harley-davidson-mo/index.html</link>
-            <guid isPermaLink="false">414b5dd9-a0ee-4e2f-b988-0f4dd5179589</guid>
-            <pubDate>Sun, 24 Jul 2016 23:07:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
