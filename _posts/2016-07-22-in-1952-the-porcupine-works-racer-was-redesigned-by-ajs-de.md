@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-22T14:05:59.270Z'
+datePublished: '2016-07-24T06:51:13.046Z'
+sourcePath: >-
+  _posts/2016-07-22-in-1952-the-porcupine-works-racer-was-redesigned-by-ajs-de.md
 author: []
 via: {}
-dateModified: '2016-07-22T14:05:56.299Z'
+dateModified: '2016-07-24T06:51:12.360Z'
 title: ''
 publisher: {}
 description: >-
@@ -40,8 +42,6 @@ description: >-
   others, thankfully all four E95 machines. A 1954 AJS E95 Porcupine was sold
   post-auction at Bonham’s in 2011, for a reputed $675,000!
 starred: false
-sourcePath: >-
-  _posts/2016-07-22-in-1952-the-porcupine-works-racer-was-redesigned-by-ajs-de.md
 inFeed: true
 hasPage: true
 inNav: false
