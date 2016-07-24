@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-24T04:57:22.608Z'
+datePublished: '2016-07-24T07:47:23.475Z'
+sourcePath: >-
+  _posts/2016-07-24-giuliano-maoggi-on-a-ducati-marianna-125cc-at-the-motogiro-d.md
 author: []
 via: {}
-dateModified: '2016-07-24T04:57:19.531Z'
+dateModified: '2016-07-24T07:47:23.072Z'
 title: ''
 publisher: {}
 description: >-
@@ -23,10 +25,8 @@ description: >-
   Thirty seven 100cc Gran Sport motorcycles competed in the Motogiro d'Italia on
   April 17th thru the 25th, in 1955. Out of the 200 riders that contacted Ducati
   to participate in the race, 25 were chosen for the official Ducati factory
-  works team (while independent riders rode the remaining 12 Mariannas). 
+  works team (while independent riders rode the remaining 12 Mariannas).
 starred: false
-sourcePath: >-
-  _posts/2016-07-24-giuliano-maoggi-on-a-ducati-marianna-125cc-at-the-motogiro-d.md
 inFeed: true
 hasPage: true
 inNav: false
