@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 03:19:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 03:22:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3390ce57-35aa-44f2-842d-286c2617556d.jpg">]]></description>
+            <link>https://thegrid.ai/cycle-cult/guy-lee-evans-was-already-a-fast-competitor-at-brooklands-in/index.html</link>
+            <guid isPermaLink="false">603537b4-a90c-42a6-94ef-28c6fb7db2e5</guid>
+            <pubDate>Sun, 24 Jul 2016 03:21:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f3dccbd-2efc-432c-bafb-42fe27e3115e.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/in-1939-ajs-designer-matt-wright-former-new-imperial-design/index.html</link>
             <guid isPermaLink="false">65f4b85c-fa2e-493a-ae50-671d2b98605a</guid>
             <pubDate>Fri, 22 Jul 2016 14:09:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/426ac2fd-9274-4651-a8eb-c2149351c7f4.jpg" alt="AJS E95 Porcupine">]]></description>
-            <link>https://thegrid.ai/cycle-cult/in-1952-the-porcupine-works-racer-was-redesigned-by-ajs-de/index.html</link>
-            <guid isPermaLink="false">37340811-52c1-4e05-b623-8b0981e437be</guid>
-            <pubDate>Fri, 22 Jul 2016 14:05:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
