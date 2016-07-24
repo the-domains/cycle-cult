@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-22T13:25:45.819Z'
+datePublished: '2016-07-24T06:46:30.955Z'
+sourcePath: >-
+  _posts/2016-07-22-ernest-henrys-parallel-twin-cylinder-double-overhead-cam-pe.md
 author: []
 via: {}
-dateModified: '2016-07-22T13:25:42.639Z'
+dateModified: '2016-07-24T06:46:30.193Z'
 title: ''
 publisher: {}
 description: >-
@@ -17,8 +19,6 @@ description: >-
   would have been entered in the French GP. Development was discontinued and in
   1915 Ernest Henry left Peugeot.
 starred: false
-sourcePath: >-
-  _posts/2016-07-22-ernest-henrys-parallel-twin-cylinder-double-overhead-cam-pe.md
 inFeed: true
 hasPage: true
 inNav: false
