@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-22T13:55:00.530Z'
+datePublished: '2016-07-24T06:48:50.137Z'
+sourcePath: >-
+  _posts/2016-07-22-jack-shemans-is-a-cycle-cult-unsung-hero-and-a-highly-regard.md
 author: []
 via: {}
-dateModified: '2016-07-22T13:54:56.853Z'
+dateModified: '2016-07-24T06:48:49.245Z'
 title: ''
 publisher: {}
 description: >-
@@ -31,8 +33,6 @@ description: >-
   left Norman Hyde Jack continued building engines in his own shop until
   retiring.
 starred: false
-sourcePath: >-
-  _posts/2016-07-22-jack-shemans-is-a-cycle-cult-unsung-hero-and-a-highly-regard.md
 inFeed: true
 hasPage: true
 inNav: false
