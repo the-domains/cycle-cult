@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-24T03:34:00.613Z'
+datePublished: '2016-07-24T07:03:01.973Z'
+sourcePath: >-
+  _posts/2016-07-24-this-is-the-motor-that-changed-everything-the-inline-four-c.md
 author: []
 via: {}
-dateModified: '2016-07-24T03:33:57.317Z'
+dateModified: '2016-07-24T07:03:01.595Z'
 title: ''
 publisher: {}
 description: >-
@@ -30,12 +32,10 @@ description: >-
   the Rondine racers. Taruffi contacted Giuseppe Gilera who bought the
   motorcycles and tooling with the condition that Taruffi would join the Gilera
   Company. Taruffi and the Rondine would go on to break fifty world speed
-  records including 170 mph on the flying kilometer in just 13.13 seconds. 
+  records including 170 mph on the flying kilometer in just 13.13 seconds.
   ref:https://nl.wikipedia.org/wiki/OPRA
-  ref:http://www.italianways.com/the-gilera-rondine-500-unrivaled-power/ 
+  ref:http://www.italianways.com/the-gilera-rondine-500-unrivaled-power/
 starred: false
-sourcePath: >-
-  _posts/2016-07-24-this-is-the-motor-that-changed-everything-the-inline-four-c.md
 inFeed: true
 hasPage: true
 inNav: false
