@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-07-24T07:49:37.605Z'
+datePublished: '2016-07-24T16:34:25.204Z'
 sourcePath: _posts/2016-07-24-photo-the-dunwoody-collection-bob-dunwoody.md
 author: []
 via: {}
-dateModified: '2016-07-24T07:49:36.988Z'
+dateModified: '2016-07-24T16:34:24.570Z'
 title: ''
 publisher: {}
 description: >-
