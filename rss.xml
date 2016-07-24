@@ -4,7 +4,7 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 04:11:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 04:11:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -33,6 +33,13 @@
             <link>https://thegrid.ai/cycle-cult/9a1e10f9-2e05-442f-bdeb-b7b5e96316ad/index.html</link>
             <guid isPermaLink="false">9a1e10f9-2e05-442f-bdeb-b7b5e96316ad</guid>
             <pubDate>Sun, 24 Jul 2016 04:10:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f2a734e-1aaf-4bf7-8262-0e0395268eda.jpg">]]></description>
+            <link>https://thegrid.ai/cycle-cult/b5e8c307-6fff-4ae4-a254-836a569127cd/index.html</link>
+            <guid isPermaLink="false">b5e8c307-6fff-4ae4-a254-836a569127cd</guid>
+            <pubDate>Sun, 24 Jul 2016 04:10:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/alessandro-ansani-was-a-mechanical-genius-he-built-his-firs/index.html</link>
             <guid isPermaLink="false">c5e0206a-0fc6-4643-acf2-2852afb06f51</guid>
             <pubDate>Sun, 24 Jul 2016 03:56:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/75ca41b8-4381-4ed0-9c68-4e2e383890c2.jpg">]]></description>
-            <link>https://thegrid.ai/cycle-cult/alessandro-ansani-must-have-raised-some-eye-brows-when-he-sh/index.html</link>
-            <guid isPermaLink="false">54804dcb-73a6-4c08-8490-c08be825ff2c</guid>
-            <pubDate>Sun, 24 Jul 2016 03:53:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
