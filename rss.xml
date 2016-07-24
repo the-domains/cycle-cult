@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 04:10:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 04:11:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c64e1e0-22c8-4086-b20d-196deaaf68ae.jpg">]]></description>
+            <link>https://thegrid.ai/cycle-cult/f594c724-4886-4d4c-9272-f6a0e3db9b14/index.html</link>
+            <guid isPermaLink="false">f594c724-4886-4d4c-9272-f6a0e3db9b14</guid>
+            <pubDate>Sun, 24 Jul 2016 04:10:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7091fec7-6944-4283-a3d7-edb359fef319.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/ansanis-w3-fan-engine-proved-to-be-a-wild-success-after-his/index.html</link>
             <guid isPermaLink="false">a381e0da-4fa6-4c74-8d1d-3c6e9821c57c</guid>
             <pubDate>Sun, 24 Jul 2016 03:51:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/afc954be-4143-4925-8212-860abad4a21a.jpg">]]></description>
-            <link>https://thegrid.ai/cycle-cult/i-love-these-mechanical-monsters-motor-paced-racing-was-all/index.html</link>
-            <guid isPermaLink="false">6617e917-cccc-4a7e-9387-d88c63bdb655</guid>
-            <pubDate>Sun, 24 Jul 2016 03:48:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
