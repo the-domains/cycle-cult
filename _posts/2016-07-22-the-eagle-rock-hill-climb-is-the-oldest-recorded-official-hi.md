@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-22T04:44:31.176Z'
+datePublished: '2016-07-24T07:50:26.778Z'
+sourcePath: >-
+  _posts/2016-07-22-the-eagle-rock-hill-climb-is-the-oldest-recorded-official-hi.md
 author: []
 via: {}
-dateModified: '2016-07-22T04:44:25.586Z'
+dateModified: '2016-07-24T07:50:26.162Z'
 title: ''
 publisher: {}
 description: >-
@@ -12,8 +14,6 @@ description: >-
   Jr. It lasted for several years until safety concerns by public officials
   closed it down in 1906.
 starred: false
-sourcePath: >-
-  _posts/2016-07-22-the-eagle-rock-hill-climb-is-the-oldest-recorded-official-hi.md
 inFeed: true
 hasPage: true
 inNav: false
