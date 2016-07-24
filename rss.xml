@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 03:00:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 03:08:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/70e83d08-cf04-4636-bc16-dae42b86c6b4.jpg">]]></description>
+            <link>https://thegrid.ai/cycle-cult/in-post-wwii-england-there-were-dozens-of-airfields-being-us/index.html</link>
+            <guid isPermaLink="false">3db05b21-54ad-4ac1-ab74-3c863d877922</guid>
+            <pubDate>Sun, 24 Jul 2016 03:08:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5edf2a35-7ce4-488f-8dcc-7c5fbdc9a375.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/jack-shemans-is-a-cycle-cult-unsung-hero-and-a-highly-regard/index.html</link>
             <guid isPermaLink="false">579b454b-1c1d-4787-9b2d-bb683710ab78</guid>
             <pubDate>Fri, 22 Jul 2016 13:55:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/65d52202-7f0a-47dd-a933-d693cc516043.jpg" alt="Giacomo Agostini and Mike Hailwood">]]></description>
-            <link>https://thegrid.ai/cycle-cult/the-classic-battle-between-giacomo-agostini-and-mike-the-bi/index.html</link>
-            <guid isPermaLink="false">4aacbf1f-90f4-43b9-a990-b9e1a7b61886</guid>
-            <pubDate>Fri, 22 Jul 2016 13:52:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
