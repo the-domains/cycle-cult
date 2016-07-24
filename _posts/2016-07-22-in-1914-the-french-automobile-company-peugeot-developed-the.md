@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-22T05:11:41.613Z'
+datePublished: '2016-07-24T06:54:27.299Z'
+sourcePath: >-
+  _posts/2016-07-22-in-1914-the-french-automobile-company-peugeot-developed-the.md
 author: []
 via: {}
-dateModified: '2016-07-22T05:11:32.633Z'
+dateModified: '2016-07-24T06:54:26.855Z'
 title: ''
 publisher: {}
 description: >-
@@ -41,8 +43,6 @@ description: >-
   single camshaft and two valves per cylinder, dry clutch, kick start,
   three-speed transmission and front brakes, it produced a claimed 27 hp.
 starred: false
-sourcePath: >-
-  _posts/2016-07-22-in-1914-the-french-automobile-company-peugeot-developed-the.md
 inFeed: true
 hasPage: true
 inNav: false
