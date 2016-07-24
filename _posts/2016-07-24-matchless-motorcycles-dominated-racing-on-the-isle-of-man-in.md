@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-24T03:24:10.174Z'
+datePublished: '2016-07-24T06:43:05.156Z'
+sourcePath: >-
+  _posts/2016-07-24-matchless-motorcycles-dominated-racing-on-the-isle-of-man-in.md
 author: []
 via: {}
-dateModified: '2016-07-24T03:24:03.498Z'
+dateModified: '2016-07-24T06:43:04.031Z'
 title: ''
 publisher: {}
 description: >-
@@ -26,8 +28,6 @@ description: >-
   now included a range of single and twin cylinder motorcycles which were in
   high demand thanks impart to the boys racing successes.
 starred: false
-sourcePath: >-
-  _posts/2016-07-24-matchless-motorcycles-dominated-racing-on-the-isle-of-man-in.md
 inFeed: true
 hasPage: true
 inNav: false
