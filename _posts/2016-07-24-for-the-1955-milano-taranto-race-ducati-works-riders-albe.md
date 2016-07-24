@@ -1,8 +1,9 @@
 ---
-datePublished: '2016-07-24T04:55:03.697Z'
+datePublished: '2016-07-24T06:43:58.552Z'
+sourcePath: _posts/2016-07-24-for-the-1955-milano-taranto-race-ducati-works-riders-albe.md
 author: []
 via: {}
-dateModified: '2016-07-24T04:54:59.599Z'
+dateModified: '2016-07-24T06:43:57.749Z'
 title: ''
 publisher: {}
 description: >-
@@ -25,7 +26,6 @@ description: >-
   Twin-cylinder which came in third at Monza and was designing a double-camshaft
   four-cylinder!
 starred: false
-sourcePath: _posts/2016-07-24-for-the-1955-milano-taranto-race-ducati-works-riders-albe.md
 inFeed: true
 hasPage: true
 inNav: false
