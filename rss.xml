@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 17:25:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 17:27:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/186a5265-e767-4a68-bf96-46babf4729cd.jpg" alt="Gwenda Jason - Brooklands 1922">]]></description>
+            <link>https://thegrid.ai/cycle-cult/in-1922-selwyn-edge-returned-to-brooklands-with-gwenda-jason/index.html</link>
+            <guid isPermaLink="false">de910ed6-02ca-4a66-801a-e6e8758c5dc4</guid>
+            <pubDate>Sun, 24 Jul 2016 17:27:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/de903cd1-5a55-43cb-ad33-f252443e6582.jpg" alt="NSU at the 1939 Isle of Man Tourist Trophy">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/the-dkw-rm350-two-stroke-three-cylinder-engine-used-light-al/index.html</link>
             <guid isPermaLink="false">e9d7e80b-28fc-4a48-82cd-4b3831880948</guid>
             <pubDate>Sun, 24 Jul 2016 16:28:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0382b6ae-b36c-4a1c-8f8c-e23282c5f1da.jpg" alt="Toni Bauhofer">]]></description>
-            <link>https://thegrid.ai/cycle-cult/toni-bauhofer-won-the-german-motorcycle-championship-four-ti/index.html</link>
-            <guid isPermaLink="false">8179b4e8-0428-4d04-bf32-700ab4b48572</guid>
-            <pubDate>Sun, 24 Jul 2016 16:25:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
