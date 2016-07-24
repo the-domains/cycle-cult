@@ -1,8 +1,9 @@
 ---
-datePublished: '2016-07-24T04:19:35.456Z'
+datePublished: '2016-07-24T07:48:36.863Z'
+sourcePath: _posts/2016-07-24-so-this-is-interestingcees-fick-from-holland-stuffed-a-75.md
 author: []
 via: {}
-dateModified: '2016-07-24T04:19:31.920Z'
+dateModified: '2016-07-24T07:48:36.519Z'
 title: ''
 publisher: {}
 description: >-
@@ -14,11 +15,10 @@ description: >-
   others in choppers ofthat era. He had a factory in Tilburg and in his spare
   time experimented building frames of his own design and mashing up engine
   components like a Noriel ( an Ariel 4 in a featherbed Norton frame) and this
-  creation.  ref: photo Anibal Martinez via Antique Motorcycle Club of America's
+  creation. ref: photo Anibal Martinez via Antique Motorcycle Club of America's
   Facebook page additional info on Cees Fick from Philippe Guyony
   http://egli-vincent.net/vincent-specials/cees-fick-vincent/
 starred: false
-sourcePath: _posts/2016-07-24-so-this-is-interestingcees-fick-from-holland-stuffed-a-75.md
 inFeed: true
 hasPage: true
 inNav: false
