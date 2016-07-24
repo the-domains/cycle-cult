@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 07:59:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 07:59:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/768867ed-1d81-41bd-9de0-93ad27e89902.jpg" alt="Burlesque dancer Misty Ayers">]]></description>
+            <link>https://thegrid.ai/cycle-cult/burlesque-dancer-misty-ayers-is-our-cycle-cult-girl-of-the-d/index.html</link>
+            <guid isPermaLink="false">17c79108-6c27-4275-93d8-c0736d2ba788</guid>
+            <pubDate>Sun, 24 Jul 2016 07:59:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2a9c3cec-023f-46a8-be3e-a380970c0e30.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/a-1954-honda-dream-showed-up-at-the-vintage-motorcycle-days/index.html</link>
             <guid isPermaLink="false">edec7d04-5aa7-4990-af2c-160c84ad1fe8</guid>
             <pubDate>Sun, 24 Jul 2016 07:55:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c59c994f-cb07-414d-9f7a-2aa32804b513.jpg">]]></description>
-            <link>https://thegrid.ai/cycle-cult/e27d1a86-2aa1-4b5f-a525-9389b7675bdf/index.html</link>
-            <guid isPermaLink="false">e27d1a86-2aa1-4b5f-a525-9389b7675bdf</guid>
-            <pubDate>Sun, 24 Jul 2016 07:54:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
