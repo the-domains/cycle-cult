@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-22T04:25:25.022Z'
+datePublished: '2016-07-24T07:59:30.570Z'
+sourcePath: >-
+  _posts/2016-07-22-some-motorcycle-designs-are-way-ahead-of-the-times-the-majo.md
 author: []
 via: {}
-dateModified: '2016-07-22T04:25:14.758Z'
+dateModified: '2016-07-24T07:59:29.723Z'
 title: ''
 publisher: {}
 description: >-
@@ -16,8 +18,6 @@ description: >-
   initial testing was limited to a parking lot. None the less it's a very
   interesting prototype that must have grabbed a lot of attention in 1948!
 starred: false
-sourcePath: >-
-  _posts/2016-07-22-some-motorcycle-designs-are-way-ahead-of-the-times-the-majo.md
 inFeed: true
 hasPage: true
 inNav: false
