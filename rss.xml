@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 23:13:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 23:15:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/075ba530-297f-4517-bcd5-896c68d7463e.jpg" alt="Noel Pope&apos;s 1949 attempt at a new world land speed record">]]></description>
+            <link>https://thegrid.ai/cycle-cult/noel-popes-1949-attempt-at-a-new-world-land-speed-record-wa/index.html</link>
+            <guid isPermaLink="false">2552ccc7-26d1-4e68-8d1c-713e421c4090</guid>
+            <pubDate>Sun, 24 Jul 2016 23:15:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e8679f4-00f8-4bec-b763-abdebb88f1f0.jpg" alt="Noel Pope and the Brough Superior Streamline">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/when-touring-on-a-motorcycle-one-seldom-remarks-that-they-ha/index.html</link>
             <guid isPermaLink="false">2355b160-fd47-4c09-9fee-caaf18fead50</guid>
             <pubDate>Sun, 24 Jul 2016 23:07:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8599849e-a72b-42b7-8e7e-06e5120f645a.jpg" alt="Cycle Cult Police Department">]]></description>
-            <link>https://thegrid.ai/cycle-cult/in-february-1955-the-los-angeles-police-department-through/index.html</link>
-            <guid isPermaLink="false">8d8f69aa-410e-4804-a263-2f353a957522</guid>
-            <pubDate>Sun, 24 Jul 2016 23:07:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
