@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 17:11:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 17:14:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/073f8006-950e-4b2a-8ae7-973aba2e0d31.jpg" alt="The first post WWII Motorcycle Race in Germany">]]></description>
+            <link>https://thegrid.ai/cycle-cult/the-first-post-wwii-motorcycle-race-organized-in-germany-was/index.html</link>
+            <guid isPermaLink="false">7349421d-6114-4a16-8662-4e99f83ebc3f</guid>
+            <pubDate>Sun, 24 Jul 2016 17:14:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/17f9ea01-f3b0-4ebb-8750-0e4bd148c8d5.jpg" alt="Karl Bodmer in 1937 riding for DKW">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/tazio-nuvolari-won-the-circuito-del-lario-roadrace-often-ca/index.html</link>
             <guid isPermaLink="false">30e45d05-737c-412d-bc7c-e202d6c6f9b9</guid>
             <pubDate>Sun, 24 Jul 2016 16:16:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a28094f-4552-43f7-95ac-a412d64d2c4d.jpg" alt="Pietro Ghersi">]]></description>
-            <link>https://thegrid.ai/cycle-cult/talk-about-a-bum-deal-at-the-1926-lightweight-tt-race-newco/index.html</link>
-            <guid isPermaLink="false">2373a21d-b59f-4d56-9660-683ed6c44929</guid>
-            <pubDate>Sun, 24 Jul 2016 16:13:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
