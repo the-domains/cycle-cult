@@ -1,8 +1,9 @@
 ---
-datePublished: '2016-07-22T04:35:43.067Z'
+datePublished: '2016-07-24T06:48:28.042Z'
+sourcePath: _posts/2016-07-22-the-nsu-rk-350-renn-kompressor-and-rk-500-had-two-cylind.md
 author: []
 via: {}
-dateModified: '2016-07-22T04:35:19.395Z'
+dateModified: '2016-07-24T06:48:26.979Z'
 title: ''
 publisher: {}
 description: >-
@@ -20,7 +21,6 @@ description: >-
   Wilhelm Herz fell in the second round. It was a unbearable debacle for Moore
   and the NSU team.
 starred: false
-sourcePath: _posts/2016-07-22-the-nsu-rk-350-renn-kompressor-and-rk-500-had-two-cylind.md
 inFeed: true
 hasPage: true
 inNav: false
