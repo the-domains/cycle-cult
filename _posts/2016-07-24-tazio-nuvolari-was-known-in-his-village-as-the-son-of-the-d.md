@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-24T04:16:51.634Z'
+datePublished: '2016-07-24T08:24:26.384Z'
+sourcePath: >-
+  _posts/2016-07-24-tazio-nuvolari-was-known-in-his-village-as-the-son-of-the-d.md
 author: []
 via: {}
-dateModified: '2016-07-24T04:16:48.475Z'
+dateModified: '2016-07-24T08:24:25.958Z'
 title: ''
 publisher: {}
 description: >-
@@ -25,8 +27,6 @@ description: >-
   1927 Tazio and another motorcycle racer Achille Varzi purchased a pair of
   Bugatti 35Bs and started their own automotive race team.
 starred: false
-sourcePath: >-
-  _posts/2016-07-24-tazio-nuvolari-was-known-in-his-village-as-the-son-of-the-d.md
 inFeed: true
 hasPage: true
 inNav: false
