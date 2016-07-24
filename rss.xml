@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 06:48:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 06:48:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d759270c-14c1-4131-9527-6607cc3af947.jpg" alt="NSU Renn Kompressor">]]></description>
+            <link>https://thegrid.ai/cycle-cult/the-nsu-rk-350-renn-kompressor-and-rk-500-had-two-cylind/index.html</link>
+            <guid isPermaLink="false">0628251a-db4e-40fb-94a3-b94dd0c6e40c</guid>
+            <pubDate>Sun, 24 Jul 2016 06:48:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/244905f8-2e88-46a5-a583-da1f587882a9.jpg" alt="Giacomo Agostini - 1974">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/8d3519de-affd-4d75-9fc6-d306459b95af/index.html</link>
             <guid isPermaLink="false">8d3519de-affd-4d75-9fc6-d306459b95af</guid>
             <pubDate>Sun, 24 Jul 2016 06:44:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/21537a8e-bfb1-4a61-b05b-e686571124c3.jpg">]]></description>
-            <link>https://thegrid.ai/cycle-cult/c7a9d780-e7b2-409e-9b87-5db9e2699b4a/index.html</link>
-            <guid isPermaLink="false">c7a9d780-e7b2-409e-9b87-5db9e2699b4a</guid>
-            <pubDate>Sun, 24 Jul 2016 06:44:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
