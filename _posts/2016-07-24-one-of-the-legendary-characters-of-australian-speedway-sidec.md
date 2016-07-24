@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-24T04:51:41.842Z'
+datePublished: '2016-07-24T07:49:02.786Z'
+sourcePath: >-
+  _posts/2016-07-24-one-of-the-legendary-characters-of-australian-speedway-sidec.md
 author: []
 via: {}
-dateModified: '2016-07-24T04:51:36.286Z'
+dateModified: '2016-07-24T07:49:02.513Z'
 title: ''
 publisher: {}
 description: >-
@@ -20,10 +22,8 @@ description: >-
   risk of the sport, 12 competitors lost their lives while racing at the Sydney
   Sports Ground. In the most tragic accident, close friends off the track Norm
   Clay and Ray Duggan both died after crashing together in a Solo race at the
-  track on 21 January 1950. 
+  track on 21 January 1950.
 starred: false
-sourcePath: >-
-  _posts/2016-07-24-one-of-the-legendary-characters-of-australian-speedway-sidec.md
 inFeed: true
 hasPage: true
 inNav: false
