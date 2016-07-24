@@ -4,8 +4,22 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 06:48:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 06:49:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e152fe1-ca02-4ae7-918d-a0aec6004896.jpg" alt="Ren&eacute; Gillard">]]></description>
+            <link>https://thegrid.ai/cycle-cult/rene-gillard-photo-won-the-grand-prix-of-lyon-on-a-peugeot/index.html</link>
+            <guid isPermaLink="false">45bb6945-62e4-42a0-9598-f0235d6b1aef</guid>
+            <pubDate>Sun, 24 Jul 2016 06:49:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c93a957-af6a-4b23-8628-41a84aa6bde0.jpg" alt="Jack Shemans">]]></description>
+            <link>https://thegrid.ai/cycle-cult/jack-shemans-is-a-cycle-cult-unsung-hero-and-a-highly-regard/index.html</link>
+            <guid isPermaLink="false">579b454b-1c1d-4787-9b2d-bb683710ab78</guid>
+            <pubDate>Sun, 24 Jul 2016 06:48:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d759270c-14c1-4131-9527-6607cc3af947.jpg" alt="NSU Renn Kompressor">]]></description>
@@ -61,20 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/charles-bayly-franklin-began-racing-indian-motorcycles-in-19/index.html</link>
             <guid isPermaLink="false">55aebdd4-1da4-462b-ad2f-e2d2ea9061e3</guid>
             <pubDate>Sun, 24 Jul 2016 06:45:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/71573ece-24a2-4ed8-a75f-292921436dec.jpg" alt="Alec Bennett">]]></description>
-            <link>https://thegrid.ai/cycle-cult/alec-bennett-won-the-500cc-senior-french-grand-prix-in-1921/index.html</link>
-            <guid isPermaLink="false">20a44f5c-703a-482d-b811-76d9b6ac20d4</guid>
-            <pubDate>Sun, 24 Jul 2016 06:44:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc2df219-753d-46ee-9a1c-c57c2003f093.jpg">]]></description>
-            <link>https://thegrid.ai/cycle-cult/8d3519de-affd-4d75-9fc6-d306459b95af/index.html</link>
-            <guid isPermaLink="false">8d3519de-affd-4d75-9fc6-d306459b95af</guid>
-            <pubDate>Sun, 24 Jul 2016 06:44:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
