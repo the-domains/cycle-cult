@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-22T03:35:16.933Z'
+datePublished: '2016-07-24T07:55:40.807Z'
+sourcePath: >-
+  _posts/2016-07-22-its-not-often-i-get-to-photograph-a-jefferson-motorcycle-p.md
 author: []
 via: {}
-dateModified: '2016-07-22T03:33:58.441Z'
+dateModified: '2016-07-24T07:55:40.420Z'
 title: ''
 publisher: {}
 description: >-
@@ -22,8 +24,6 @@ description: >-
   1914. At this point only 3 Jefferson / P.E.M. v-twin motorcycles are know to
   have survived.
 starred: false
-sourcePath: >-
-  _posts/2016-07-22-its-not-often-i-get-to-photograph-a-jefferson-motorcycle-p.md
 inFeed: true
 hasPage: true
 inNav: false
