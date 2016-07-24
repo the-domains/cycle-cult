@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 23:32:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 23:34:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/05df07d7-a4f1-4e70-86a5-b9ba040536ab.jpg" alt="Fulford&ndash;Miami Speedway 1926">]]></description>
+            <link>https://thegrid.ai/cycle-cult/on-february-22-1926-with-a-crowd-of-20000-the-fulfordmiam/index.html</link>
+            <guid isPermaLink="false">efce1e4f-6a53-451b-92c0-4e30b9f8f1c6</guid>
+            <pubDate>Sun, 24 Jul 2016 23:34:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/18c77a2b-c296-4478-9afd-7f0664e39585.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/berliner-motor-corporation-in-hasbrouck-heights-new-jersey/index.html</link>
             <guid isPermaLink="false">79f0f1ca-b1b3-44be-8020-907e549ee71b</guid>
             <pubDate>Sun, 24 Jul 2016 23:10:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8c172fa-91cc-4dde-83fd-4568c6052259.jpg" alt="The Ducati Berliner 1260 Apollo V4">]]></description>
-            <link>https://thegrid.ai/cycle-cult/the-ducati-berliner-1260-apollo-v4-delivered-a-claimed-100-h/index.html</link>
-            <guid isPermaLink="false">d773c630-a42c-4b79-9ba6-9276c2d0a7db</guid>
-            <pubDate>Sun, 24 Jul 2016 23:08:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
