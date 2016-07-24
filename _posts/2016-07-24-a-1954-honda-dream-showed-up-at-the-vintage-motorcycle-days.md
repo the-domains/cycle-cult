@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-24T04:12:19.901Z'
+datePublished: '2016-07-24T07:55:09.839Z'
+sourcePath: >-
+  _posts/2016-07-24-a-1954-honda-dream-showed-up-at-the-vintage-motorcycle-days.md
 author: []
 via: {}
-dateModified: '2016-07-24T04:12:15.083Z'
+dateModified: '2016-07-24T07:55:08.396Z'
 title: ''
 publisher: {}
 description: >-
@@ -25,8 +27,6 @@ description: >-
   produced by hand took a week to make but now it was possible to turn out two
   every thirty minutes.
 starred: false
-sourcePath: >-
-  _posts/2016-07-24-a-1954-honda-dream-showed-up-at-the-vintage-motorcycle-days.md
 inFeed: true
 hasPage: true
 inNav: false
