@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 23:36:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 23:41:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a882b9fe-130a-4aca-b43f-b6bc906e36b9.jpg" alt="Fred Osbourne - 1926">]]></description>
+            <link>https://thegrid.ai/cycle-cult/in-1926-daredevil-fred-osbourne-thought-it-would-be-a-good-s/index.html</link>
+            <guid isPermaLink="false">7415caf5-2793-4f82-84ec-9dd761ab6e56</guid>
+            <pubDate>Sun, 24 Jul 2016 23:41:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3eba0728-4890-478a-9fd9-e0adf4b0a6fb.jpg" alt="Jack Prince - Board Tracks">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/noel-popes-1949-attempt-at-a-new-world-land-speed-record-wa/index.html</link>
             <guid isPermaLink="false">2552ccc7-26d1-4e68-8d1c-713e421c4090</guid>
             <pubDate>Sun, 24 Jul 2016 23:15:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e8679f4-00f8-4bec-b763-abdebb88f1f0.jpg" alt="Noel Pope and the Brough Superior Streamline">]]></description>
-            <link>https://thegrid.ai/cycle-cult/this-motorrad-cover-shows-noel-pope-and-the-brough-superior/index.html</link>
-            <guid isPermaLink="false">0321a26d-3574-4126-9ac0-b4a2e8c0ffa6</guid>
-            <pubDate>Sun, 24 Jul 2016 23:12:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
