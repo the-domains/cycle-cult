@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-24T05:07:56.082Z'
+datePublished: '2016-07-24T06:51:56.112Z'
+sourcePath: >-
+  _posts/2016-07-24-in-1947-the-inventor-of-the-vespa-aircraft-designer-corrad.md
 author: []
 via: {}
-dateModified: '2016-07-24T05:05:21.129Z'
+dateModified: '2016-07-24T06:51:55.471Z'
 title: ''
 publisher: {}
 description: >-
@@ -17,8 +19,6 @@ description: >-
   Ape has been in continuous production since its inception and has been
   produced in Italy and India.
 starred: false
-sourcePath: >-
-  _posts/2016-07-24-in-1947-the-inventor-of-the-vespa-aircraft-designer-corrad.md
 inFeed: true
 hasPage: true
 inNav: false
