@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 03:22:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 03:24:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6bc02802-eaae-46a0-8c96-4acefbaf9f26.jpg">]]></description>
+            <link>https://thegrid.ai/cycle-cult/matchless-motorcycles-dominated-racing-on-the-isle-of-man-in/index.html</link>
+            <guid isPermaLink="false">0054f491-73b3-438e-9afb-1d6861b2ec68</guid>
+            <pubDate>Sun, 24 Jul 2016 03:24:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3390ce57-35aa-44f2-842d-286c2617556d.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/this-is-one-of-my-favorite-isle-of-man-photos-george-rowley/index.html</link>
             <guid isPermaLink="false">31072782-7d6c-4822-9087-0d14add63b39</guid>
             <pubDate>Fri, 22 Jul 2016 14:11:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/47e957ff-c3ac-4400-b566-66533a518f2d.jpg" alt="AJS water cooled supercharged Porcupine">]]></description>
-            <link>https://thegrid.ai/cycle-cult/in-1939-ajs-designer-matt-wright-former-new-imperial-design/index.html</link>
-            <guid isPermaLink="false">65f4b85c-fa2e-493a-ae50-671d2b98605a</guid>
-            <pubDate>Fri, 22 Jul 2016 14:09:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
