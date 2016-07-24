@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-24T16:02:40.304Z'
+datePublished: '2016-07-24T17:44:25.974Z'
+sourcePath: >-
+  _posts/2016-07-24-the-supercharged-vincent-comet-tt-special-was-built-for-an-a.md
 author: []
 via: {}
-dateModified: '2016-07-24T16:02:32.125Z'
+dateModified: '2016-07-24T17:44:25.386Z'
 title: ''
 publisher: {}
 description: >-
@@ -26,11 +28,9 @@ description: >-
   for a respectable 8th place all things considered. Irving would leave Vincent
   in 1937 to work at Velocette until 1942. He returned to Stevenage as Vincent's
   Chief Engineer in 1943 and he back to his native Australia in 1949, after the
-  Vincent motorcycle business was put into receivership.  ref: Phil Irving -
-  Autobiography 
+  Vincent motorcycle business was put into receivership. ref: Phil Irving -
+  Autobiography
 starred: false
-sourcePath: >-
-  _posts/2016-07-24-the-supercharged-vincent-comet-tt-special-was-built-for-an-a.md
 inFeed: true
 hasPage: true
 inNav: false
