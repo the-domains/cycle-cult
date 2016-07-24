@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 07:47:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 07:47:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/045c4636-844b-4302-8d51-547afb380188.jpg" alt="Giuliano Maoggi">]]></description>
+            <link>https://thegrid.ai/cycle-cult/giuliano-maoggi-on-a-ducati-marianna-125cc-at-the-motogiro-d/index.html</link>
+            <guid isPermaLink="false">248ec9a1-d520-4c53-b7f9-1bfc102e79bc</guid>
+            <pubDate>Sun, 24 Jul 2016 07:47:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ee692fd0-c47b-46a0-85a7-617bc286ff7f.jpg" alt="Joe Petrali set the land speed record">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/the-first-world-motorcycle-championship-race-was-held-in-jul/index.html</link>
             <guid isPermaLink="false">9c9456c6-ebc3-48d0-af3f-5958652643ec</guid>
             <pubDate>Sun, 24 Jul 2016 07:04:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/11d961bf-0d3f-46fa-876f-d61e21f44bac.jpg" alt="Jimmie Guthrie - 1936 Senior TT Winner">]]></description>
-            <link>https://thegrid.ai/cycle-cult/jimmie-guthrie-became-one-of-joe-craigs-norton-works-riders/index.html</link>
-            <guid isPermaLink="false">8088f9a6-94e1-4608-acb9-f524c9f592f7</guid>
-            <pubDate>Sun, 24 Jul 2016 07:04:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
