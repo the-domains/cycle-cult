@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 03:45:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 03:48:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/afc954be-4143-4925-8212-860abad4a21a.jpg">]]></description>
+            <link>https://thegrid.ai/cycle-cult/i-love-these-mechanical-monsters-motor-paced-racing-was-all/index.html</link>
+            <guid isPermaLink="false">6617e917-cccc-4a7e-9387-d88c63bdb655</guid>
+            <pubDate>Sun, 24 Jul 2016 03:48:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a57676c2-4dc8-426e-a8ef-5f286d37b018.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/guy-lee-evans-was-already-a-fast-competitor-at-brooklands-in/index.html</link>
             <guid isPermaLink="false">603537b4-a90c-42a6-94ef-28c6fb7db2e5</guid>
             <pubDate>Sun, 24 Jul 2016 03:21:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f3dccbd-2efc-432c-bafb-42fe27e3115e.jpg">]]></description>
-            <link>https://thegrid.ai/cycle-cult/charles-bayly-franklin-began-racing-indian-motorcycles-in-19/index.html</link>
-            <guid isPermaLink="false">55aebdd4-1da4-462b-ad2f-e2d2ea9061e3</guid>
-            <pubDate>Sun, 24 Jul 2016 03:18:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
