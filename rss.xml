@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 04:19:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 04:22:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/824576c8-aff6-4174-88a8-e8aca376f5ba.jpg">]]></description>
+            <link>https://thegrid.ai/cycle-cult/the-harley-davidson-flathead-engine-started-with-the-model-w/index.html</link>
+            <guid isPermaLink="false">8c314363-b2be-4b9c-adf3-c9712f0265b6</guid>
+            <pubDate>Sun, 24 Jul 2016 04:21:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/99ab811a-71f0-405d-b90a-b69fc861812f.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/b5e8c307-6fff-4ae4-a254-836a569127cd/index.html</link>
             <guid isPermaLink="false">b5e8c307-6fff-4ae4-a254-836a569127cd</guid>
             <pubDate>Sun, 24 Jul 2016 04:10:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/935cafed-54c9-4743-a8d1-028c6418a1bd.jpg">]]></description>
-            <link>https://thegrid.ai/cycle-cult/a235f2d0-8716-45c9-888c-dfa57acd193b/index.html</link>
-            <guid isPermaLink="false">a235f2d0-8716-45c9-888c-dfa57acd193b</guid>
-            <pubDate>Sun, 24 Jul 2016 04:10:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
