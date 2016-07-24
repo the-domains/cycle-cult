@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 03:51:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 03:53:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/75ca41b8-4381-4ed0-9c68-4e2e383890c2.jpg">]]></description>
+            <link>https://thegrid.ai/cycle-cult/alessandro-ansani-must-have-raised-some-eye-brows-when-he-sh/index.html</link>
+            <guid isPermaLink="false">54804dcb-73a6-4c08-8490-c08be825ff2c</guid>
+            <pubDate>Sun, 24 Jul 2016 03:53:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1654491-0dc6-46ca-b318-c94aaf567286.png">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/the-gang-welcomes-the-1000th-cycle-cultist-thanks-to-all-of/index.html</link>
             <guid isPermaLink="false">5f7de9cf-8771-4c53-b2f4-0c0d7c8d9a10</guid>
             <pubDate>Sun, 24 Jul 2016 03:26:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6bc02802-eaae-46a0-8c96-4acefbaf9f26.jpg">]]></description>
-            <link>https://thegrid.ai/cycle-cult/matchless-motorcycles-dominated-racing-on-the-isle-of-man-in/index.html</link>
-            <guid isPermaLink="false">0054f491-73b3-438e-9afb-1d6861b2ec68</guid>
-            <pubDate>Sun, 24 Jul 2016 03:24:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
