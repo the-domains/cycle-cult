@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-07-24T08:21:27.318Z'
+datePublished: '2016-07-24T15:36:59.456Z'
 sourcePath: >-
   _posts/2016-07-24-tazio-nuvolari-in-1926-on-his-bianchi-freccia-celeste-light.md
 author: []
 via: {}
-dateModified: '2016-07-24T08:21:26.534Z'
+dateModified: '2016-07-24T15:36:58.956Z'
 title: ''
 publisher: {}
 description: >-
