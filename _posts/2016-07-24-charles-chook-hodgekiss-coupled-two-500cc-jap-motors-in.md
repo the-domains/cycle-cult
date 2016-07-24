@@ -1,8 +1,9 @@
 ---
-datePublished: '2016-07-24T04:47:25.772Z'
+datePublished: '2016-07-24T07:01:11.620Z'
+sourcePath: _posts/2016-07-24-charles-chook-hodgekiss-coupled-two-500cc-jap-motors-in.md
 author: []
 via: {}
-dateModified: '2016-07-24T04:45:46.807Z'
+dateModified: '2016-07-24T07:01:11.094Z'
 title: ''
 publisher: {}
 description: >-
@@ -14,11 +15,10 @@ description: >-
   The J.A.P. was a proprietary engine, and as such available to every
   builder/racer. There was even one Aussie racer that built a Speedcar with 3
   JAP engines! In 1955 a 500cc JAP Speedway engine could be purchased for under
-  100 £ ($156.00).  Photo via Steve Margo who got it from Barbara Keir "Ckook's"
+  100 £ ($156.00). Photo via Steve Margo who got it from Barbara Keir "Ckook's"
   daughter Check out Steve's blog
   https://www.facebook.com/groups/184768618290981/
 starred: false
-sourcePath: _posts/2016-07-24-charles-chook-hodgekiss-coupled-two-500cc-jap-motors-in.md
 inFeed: true
 hasPage: true
 inNav: false
