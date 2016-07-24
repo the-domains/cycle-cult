@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-22T13:52:49.872Z'
+datePublished: '2016-07-24T08:23:37.670Z'
+sourcePath: >-
+  _posts/2016-07-22-the-classic-battle-between-giacomo-agostini-and-mike-the-bi.md
 author: []
 via: {}
-dateModified: '2016-07-22T13:52:47.027Z'
+dateModified: '2016-07-24T08:23:37.227Z'
 title: ''
 publisher: {}
 description: >-
@@ -19,8 +21,6 @@ description: >-
   in 1978. Yeah I'd say any battle on the track between these titans of two
   wheels is going to be classic.
 starred: false
-sourcePath: >-
-  _posts/2016-07-22-the-classic-battle-between-giacomo-agostini-and-mike-the-bi.md
 inFeed: true
 hasPage: true
 inNav: false
