@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 03:11:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 03:14:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/be5202a2-e1bc-4d90-838a-276118aff6a0.jpg">]]></description>
+            <link>https://thegrid.ai/cycle-cult/what-if-i-told-you-that-the-designer-of-the-original-indian/index.html</link>
+            <guid isPermaLink="false">be7413b4-bcb7-46d6-81ec-5816b4eb739c</guid>
+            <pubDate>Sun, 24 Jul 2016 03:14:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f544e2ec-a3e0-4617-b670-d60fd5b6485c.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/glenn-bewley-of-classic-motorcycle-engineering-in-tennessee/index.html</link>
             <guid isPermaLink="false">251f7df8-6d25-412f-b90a-0481abd2215d</guid>
             <pubDate>Fri, 22 Jul 2016 13:59:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f5dda7c-8724-4c6b-9f8c-5b1b778d2192.jpg" alt="Naomi Taniguchi on the Honda RC142">]]></description>
-            <link>https://thegrid.ai/cycle-cult/naomi-taniguchi-on-the-honda-rc142-at-the-1959-isle-of-man-t/index.html</link>
-            <guid isPermaLink="false">30f73366-2f31-4536-9f86-cf7707f81968</guid>
-            <pubDate>Fri, 22 Jul 2016 13:56:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
