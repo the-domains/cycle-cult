@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-22T05:18:50.254Z'
+datePublished: '2016-07-24T08:01:35.545Z'
+sourcePath: >-
+  _posts/2016-07-22-ultra-lightweight-motorcycles-have-always-piqued-my-interest.md
 author: []
 via: {}
-dateModified: '2016-07-22T05:18:46.172Z'
+dateModified: '2016-07-24T08:01:35.185Z'
 title: ''
 publisher: {}
 description: >-
@@ -23,8 +25,6 @@ description: >-
   was a 1962 prototype with a horizontal cylinder layout and a sweet 98cc OHC
   four stroke 2-valve unit construction engine.
 starred: false
-sourcePath: >-
-  _posts/2016-07-22-ultra-lightweight-motorcycles-have-always-piqued-my-interest.md
 inFeed: true
 hasPage: true
 inNav: false
