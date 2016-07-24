@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-24T05:17:36.462Z'
+datePublished: '2016-07-24T06:58:19.857Z'
+sourcePath: >-
+  _posts/2016-07-24-in-1935-norton-decided-to-go-after-the-500cc-worlds-fastest.md
 author: []
 via: {}
-dateModified: '2016-07-24T05:17:33.012Z'
+dateModified: '2016-07-24T06:58:18.290Z'
 title: ''
 publisher: {}
 description: >-
@@ -13,8 +15,6 @@ description: >-
   mile records. Astonishingly, this also beat the records for the more powerful
   750cc and 1,000cc classes.
 starred: false
-sourcePath: >-
-  _posts/2016-07-24-in-1935-norton-decided-to-go-after-the-500cc-worlds-fastest.md
 inFeed: true
 hasPage: true
 inNav: false
