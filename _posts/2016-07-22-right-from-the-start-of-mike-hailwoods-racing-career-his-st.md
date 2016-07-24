@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-22T13:40:43.921Z'
+datePublished: '2016-07-24T08:04:29.673Z'
+sourcePath: >-
+  _posts/2016-07-22-right-from-the-start-of-mike-hailwoods-racing-career-his-st.md
 author: []
 via: {}
-dateModified: '2016-07-22T13:40:41.173Z'
+dateModified: '2016-07-24T08:04:29.199Z'
 title: ''
 publisher: {}
 description: >-
@@ -10,8 +12,6 @@ description: >-
   aggressive as you can tell from this shot of his boot worn clean through to
   his toes and the abrasions on his pudding bowl helmet.
 starred: false
-sourcePath: >-
-  _posts/2016-07-22-right-from-the-start-of-mike-hailwoods-racing-career-his-st.md
 inFeed: true
 hasPage: true
 inNav: false
