@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-07-24T07:59:10.676Z'
+datePublished: '2016-07-24T15:37:39.084Z'
 sourcePath: >-
   _posts/2016-07-24-the-harley-davidson-flathead-engine-started-with-the-model-w.md
 author: []
 via: {}
-dateModified: '2016-07-24T07:59:10.251Z'
+dateModified: '2016-07-24T15:37:38.673Z'
 title: ''
 publisher: {}
 description: >-
