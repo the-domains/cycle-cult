@@ -4,8 +4,22 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 08:21:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 08:23:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5723e606-2be6-46e1-9f49-3580ed5a2be3.jpg">]]></description>
+            <link>https://thegrid.ai/cycle-cult/7a3bd6a1-ad21-42cb-bdb9-27324afeefe3/index.html</link>
+            <guid isPermaLink="false">7a3bd6a1-ad21-42cb-bdb9-27324afeefe3</guid>
+            <pubDate>Sun, 24 Jul 2016 08:23:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb6734a2-e10c-4eaa-935f-f08c82e385ca.jpg">]]></description>
+            <link>https://thegrid.ai/cycle-cult/a93b31c4-e269-4123-9fe9-d9e72b03c1d5/index.html</link>
+            <guid isPermaLink="false">a93b31c4-e269-4123-9fe9-d9e72b03c1d5</guid>
+            <pubDate>Sun, 24 Jul 2016 08:22:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/27321f69-6860-45ab-99b4-e220eb92f51e.jpg" alt="Tom Phillis - Norton">]]></description>
@@ -61,20 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/its-amazing-to-me-that-in-the-1960s-the-ussr-ever-attempt/index.html</link>
             <guid isPermaLink="false">bb967699-53de-4e9e-9cb3-5b2f5b3d3130</guid>
             <pubDate>Sun, 24 Jul 2016 08:17:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/85af13a2-db6e-44d1-ab9c-ebf9ee92eb6a.jpg">]]></description>
-            <link>https://thegrid.ai/cycle-cult/angel-nieto-is-one-of-the-most-successful-motorcycle-racers/index.html</link>
-            <guid isPermaLink="false">304146cb-3d26-43c0-883e-b34ee1ecd1bb</guid>
-            <pubDate>Sun, 24 Jul 2016 08:16:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f09fdd11-effa-4ac3-b91b-e79eb6abf39a.jpg" alt="Edward &quot;Teddy&quot; Carroll">]]></description>
-            <link>https://thegrid.ai/cycle-cult/edward-teddy-carroll-was-just-17-when-he-landed-his-dream/index.html</link>
-            <guid isPermaLink="false">d4b3ed16-c654-4d14-875c-95434cef9f19</guid>
-            <pubDate>Sun, 24 Jul 2016 08:14:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
