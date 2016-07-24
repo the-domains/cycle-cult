@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-22T05:32:06.765Z'
+datePublished: '2016-07-24T06:44:56.823Z'
+sourcePath: >-
+  _posts/2016-07-22-alec-bennett-won-the-500cc-senior-french-grand-prix-in-1921.md
 author: []
 via: {}
-dateModified: '2016-07-22T05:32:01.960Z'
+dateModified: '2016-07-24T06:44:55.771Z'
 title: ''
 publisher: {}
 description: >-
@@ -27,8 +29,6 @@ description: >-
   motorcycle racing in the 1930s to concentrate on his retail motor-trade
   business in Southampton, Hampshire.
 starred: false
-sourcePath: >-
-  _posts/2016-07-22-alec-bennett-won-the-500cc-senior-french-grand-prix-in-1921.md
 inFeed: true
 hasPage: true
 inNav: false
