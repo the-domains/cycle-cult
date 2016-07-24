@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 16:02:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 16:05:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e503b3a-77d8-46a4-9520-2a2df9159590.png" alt="Francesco Stanguellini">]]></description>
+            <link>https://thegrid.ai/cycle-cult/modena-racetrack-in-1925-on-the-left-holding-the-starter-fl/index.html</link>
+            <guid isPermaLink="false">f3fb2c90-2781-4aa8-8bb9-dc15d4504178</guid>
+            <pubDate>Sun, 24 Jul 2016 16:05:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1c5b74fc7573410e577644fd87b94d6b/croprotate.jpg?cropheight=371&cropwidth=792&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F591cbea9-267f-4ef8-81ac-0bad5560e323.jpg&x=0&y=64" alt="Supercharged Vincent Comet TT Special">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/tazio-nuvolari-in-1926-on-his-bianchi-freccia-celeste-light/index.html</link>
             <guid isPermaLink="false">b1a9e8ea-9548-4d04-9939-ac4e31f3ea30</guid>
             <pubDate>Sun, 24 Jul 2016 15:36:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[\]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/282ce012-b0b8-4db2-960d-e8c3d0b2284e.jpg" alt="Alistair King - Norton Manx">]]></description>
-            <link>https://thegrid.ai/cycle-cult/the-dunwoody-collection-bob-dunwoody/index.html</link>
-            <guid isPermaLink="false">5660452a-6269-438b-90cc-61443e72820b</guid>
-            <pubDate>Sun, 24 Jul 2016 08:32:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
