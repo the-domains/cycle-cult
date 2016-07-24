@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 14:17:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 03:00:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5edf2a35-7ce4-488f-8dcc-7c5fbdc9a375.jpg">]]></description>
+            <link>https://thegrid.ai/cycle-cult/in-may-of-1952-a-pair-of-vincent-black-shadows-were-prepared/index.html</link>
+            <guid isPermaLink="false">194ad836-953f-4af8-9706-2b94dafb435a</guid>
+            <pubDate>Sun, 24 Jul 2016 03:00:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/64117e37-598d-41b9-bafd-e3d87f2993d5.jpg" alt="Gilera 500cc - 1949">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/the-classic-battle-between-giacomo-agostini-and-mike-the-bi/index.html</link>
             <guid isPermaLink="false">4aacbf1f-90f4-43b9-a990-b9e1a7b61886</guid>
             <pubDate>Fri, 22 Jul 2016 13:52:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a8429fc-afb9-4557-bc04-8b5a520a051e.jpg" alt="Giacomo Agostini - 1971">]]></description>
-            <link>https://thegrid.ai/cycle-cult/giacomo-agostini-on-the-1-mv-agusta-pushes-off-the-starting/index.html</link>
-            <guid isPermaLink="false">07020893-4fc1-43c9-92aa-695a5f5221ae</guid>
-            <pubDate>Fri, 22 Jul 2016 13:51:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
