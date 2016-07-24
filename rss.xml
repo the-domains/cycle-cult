@@ -4,7 +4,7 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 04:11:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 04:11:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -43,6 +43,13 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/58f67d6b-4bcb-462c-842b-c69f2deb2abd.jpg">]]></description>
+            <link>https://thegrid.ai/cycle-cult/64f0f00d-afd0-445b-884c-26712a239f24/index.html</link>
+            <guid isPermaLink="false">64f0f00d-afd0-445b-884c-26712a239f24</guid>
+            <pubDate>Sun, 24 Jul 2016 04:10:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/19e07323-38a5-47aa-b61d-ab77ce043501.jpg">]]></description>
             <link>https://thegrid.ai/cycle-cult/the-british-hot-rod-associations-weekend-sprinter-races-at/index.html</link>
             <guid isPermaLink="false">075b6db6-d246-4324-9269-bc87cc398a6f</guid>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/the-first-world-motorcycle-championship-race-was-held-in-jul/index.html</link>
             <guid isPermaLink="false">9c9456c6-ebc3-48d0-af3f-5958652643ec</guid>
             <pubDate>Sun, 24 Jul 2016 04:01:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e30873e-acf0-42ad-8e1c-a2fb99b082ea.png" alt="Alessandro Ansani - 35 hp &quot;Omnia&quot; Slayer">]]></description>
-            <link>https://thegrid.ai/cycle-cult/alessandro-ansani-was-a-mechanical-genius-he-built-his-firs/index.html</link>
-            <guid isPermaLink="false">c5e0206a-0fc6-4643-acf2-2852afb06f51</guid>
-            <pubDate>Sun, 24 Jul 2016 03:56:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
