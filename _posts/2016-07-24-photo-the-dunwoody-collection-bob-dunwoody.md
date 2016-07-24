@@ -1,9 +1,10 @@
 ---
-datePublished: '2016-07-24T05:00:24.080Z'
+datePublished: '2016-07-24T07:49:37.605Z'
+sourcePath: _posts/2016-07-24-photo-the-dunwoody-collection-bob-dunwoody.md
 author: []
 via: {}
-dateModified: '2016-07-24T04:59:53.107Z'
-title: 'Photo: the Dunwoody Collection ( Bob Dunwoody)'
+dateModified: '2016-07-24T07:49:36.988Z'
+title: ''
 publisher: {}
 description: >-
   Terry Hill shown here talking to Sammy Miller at the 1957 Ulster Grand Prix
@@ -24,10 +25,9 @@ description: >-
   are over 300 motorcycles on display many of which are original works machines
   and prototypes. Included in the collection are an original sterile AJS E90
   Porcupine, Geoff Duke's Gilera 500 4C and a Verdel with a radial engine. Sammy
-  Miller was one of the best trial riders of all time.  Photo: the Dunwoody
+  Miller was one of the best trial riders of all time. Photo: the Dunwoody
   Collection ( Bob Dunwoody)
 starred: false
-sourcePath: _posts/2016-07-24-photo-the-dunwoody-collection-bob-dunwoody.md
 inFeed: true
 hasPage: true
 inNav: false
