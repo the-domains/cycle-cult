@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-24T03:36:46.973Z'
+datePublished: '2016-07-24T08:29:22.377Z'
+sourcePath: >-
+  _posts/2016-07-24-on-october-21st-1937-between-the-80th-and-82nd-kilometres-o.md
 author: []
 via: {}
-dateModified: '2016-07-24T03:36:40.780Z'
+dateModified: '2016-07-24T08:29:21.709Z'
 title: ''
 publisher: {}
 description: >-
@@ -18,8 +20,6 @@ description: >-
   of the modern era. It was a water-cooled dohc 492cc 4-cylinder 4 stroke engine
   running on alcohol through Weber carburetors and a Roots supercharger.
 starred: false
-sourcePath: >-
-  _posts/2016-07-24-on-october-21st-1937-between-the-80th-and-82nd-kilometres-o.md
 inFeed: true
 hasPage: true
 inNav: false
