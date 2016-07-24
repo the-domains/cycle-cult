@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 05:17:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 05:20:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d58bcffb-4483-4ac1-8068-b33af6dbab6b.jpg" alt="Jimmie Guthrie - Joe Craig">]]></description>
+            <link>https://thegrid.ai/cycle-cult/jimmie-guthrie-with-joe-craig-at-the-1931-isle-of-man-on-the/index.html</link>
+            <guid isPermaLink="false">09e8b97b-bc42-4dd2-b15a-d8884587be04</guid>
+            <pubDate>Sun, 24 Jul 2016 05:19:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e97d9cfc-d47a-4242-8089-43cc0b84044d.jpg" alt="Jimmie Guthrie - 490cc Norton">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/for-the-1955-milano-taranto-race-ducati-works-riders-albe/index.html</link>
             <guid isPermaLink="false">3d40f33c-da71-4d82-9d33-2d4c8ea06e69</guid>
             <pubDate>Sun, 24 Jul 2016 04:55:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7d2881b-de08-4c7c-8b9e-edd3d7fd1270.png" alt="Charles &lsquo;Chook&rsquo; Hodgekiss - Two 500cc J.A.P. Motor Rigs">]]></description>
-            <link>https://thegrid.ai/cycle-cult/one-of-the-legendary-characters-of-australian-speedway-sidec/index.html</link>
-            <guid isPermaLink="false">7b00c12e-9045-44d8-ab05-ced4f52e9123</guid>
-            <pubDate>Sun, 24 Jul 2016 04:51:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
