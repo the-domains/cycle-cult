@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-22T04:19:48.399Z'
+datePublished: '2016-07-24T07:59:55.283Z'
+sourcePath: >-
+  _posts/2016-07-22-burlesque-dancer-misty-ayers-is-our-cycle-cult-girl-of-the-d.md
 author: []
 via: {}
-dateModified: '2016-07-22T04:19:34.004Z'
+dateModified: '2016-07-24T07:59:54.909Z'
 title: ''
 publisher: {}
 description: >-
@@ -10,8 +12,6 @@ description: >-
   an actress known for the films, Bad Girls Do Cry (1965), Tijuana After Midnite
   (1954) and A Night in Hollywood (1953 ).
 starred: false
-sourcePath: >-
-  _posts/2016-07-22-burlesque-dancer-misty-ayers-is-our-cycle-cult-girl-of-the-d.md
 inFeed: true
 hasPage: true
 inNav: false
