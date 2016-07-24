@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 16:12:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 16:14:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a28094f-4552-43f7-95ac-a412d64d2c4d.jpg" alt="Pietro Ghersi">]]></description>
+            <link>https://thegrid.ai/cycle-cult/talk-about-a-bum-deal-at-the-1926-lightweight-tt-race-newco/index.html</link>
+            <guid isPermaLink="false">2373a21d-b59f-4d56-9660-683ed6c44929</guid>
+            <pubDate>Sun, 24 Jul 2016 16:13:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f622fa8-9ce1-4827-8451-53f80562446d.jpg" alt="Tazio Nuvolari and Francesco Stanguellini">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/in-1952-the-porcupine-works-racer-was-redesigned-by-ajs-de/index.html</link>
             <guid isPermaLink="false">37340811-52c1-4e05-b623-8b0981e437be</guid>
             <pubDate>Sun, 24 Jul 2016 15:41:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5edf2a35-7ce4-488f-8dcc-7c5fbdc9a375.jpg">]]></description>
-            <link>https://thegrid.ai/cycle-cult/in-may-of-1952-a-pair-of-vincent-black-shadows-were-prepared/index.html</link>
-            <guid isPermaLink="false">194ad836-953f-4af8-9706-2b94dafb435a</guid>
-            <pubDate>Sun, 24 Jul 2016 15:39:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
