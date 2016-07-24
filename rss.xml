@@ -4,15 +4,8 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 07:02:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 07:02:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4748b3fd-90c0-487e-aac7-ec7094357c00.jpg">]]></description>
-            <link>https://thegrid.ai/cycle-cult/97f7a7e9-d001-4ece-80dd-2ac8ae6f634b/index.html</link>
-            <guid isPermaLink="false">97f7a7e9-d001-4ece-80dd-2ac8ae6f634b</guid>
-            <pubDate>Sun, 24 Jul 2016 07:02:28 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/013c8f08-04d0-4be2-8369-bdb49806fa39.jpg" alt="Pierce Motorcycle">]]></description>
@@ -75,6 +68,13 @@
             <link>https://thegrid.ai/cycle-cult/from-may-to-august-of-1935-joe-petrali-won-every-class-a-na/index.html</link>
             <guid isPermaLink="false">02a5fb69-9de7-4d4c-afbc-f3af36ac0198</guid>
             <pubDate>Sun, 24 Jul 2016 06:58:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e97d9cfc-d47a-4242-8089-43cc0b84044d.jpg" alt="Jimmie Guthrie - 490cc Norton">]]></description>
+            <link>https://thegrid.ai/cycle-cult/in-1935-norton-decided-to-go-after-the-500cc-worlds-fastest/index.html</link>
+            <guid isPermaLink="false">d85baf2f-8c33-4b21-ab86-0401a8ba7f00</guid>
+            <pubDate>Sun, 24 Jul 2016 06:58:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
