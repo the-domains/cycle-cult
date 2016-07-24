@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 08:28:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 08:29:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/51b454cc-5972-47b9-b7fa-1b5f9654366c.jpg">]]></description>
+            <link>https://thegrid.ai/cycle-cult/on-october-21st-1937-between-the-80th-and-82nd-kilometres-o/index.html</link>
+            <guid isPermaLink="false">28f05258-e0e5-486d-a496-7b87711c44f8</guid>
+            <pubDate>Sun, 24 Jul 2016 08:29:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1cdcf0a3-92c6-4065-9d6b-5903e775dd20.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/renzo-pasolini-i-race-because-i-love-to-do-itif-i-win-e/index.html</link>
             <guid isPermaLink="false">83139963-2a82-4cc7-af49-fa40f99efd54</guid>
             <pubDate>Sun, 24 Jul 2016 08:25:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d58bcffb-4483-4ac1-8068-b33af6dbab6b.jpg" alt="Jimmie Guthrie - Joe Craig">]]></description>
-            <link>https://thegrid.ai/cycle-cult/jimmie-guthrie-with-joe-craig-at-the-1931-isle-of-man-on-the/index.html</link>
-            <guid isPermaLink="false">09e8b97b-bc42-4dd2-b15a-d8884587be04</guid>
-            <pubDate>Sun, 24 Jul 2016 08:24:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
