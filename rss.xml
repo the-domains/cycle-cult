@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 03:08:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 03:11:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f544e2ec-a3e0-4617-b670-d60fd5b6485c.jpg">]]></description>
+            <link>https://thegrid.ai/cycle-cult/american-board-track-legend-jacob-jake-de-rosier-was-the-f/index.html</link>
+            <guid isPermaLink="false">8bd1cfdd-fb1a-439a-84f6-340986d63e8a</guid>
+            <pubDate>Sun, 24 Jul 2016 03:11:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/70e83d08-cf04-4636-bc16-dae42b86c6b4.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/naomi-taniguchi-on-the-honda-rc142-at-the-1959-isle-of-man-t/index.html</link>
             <guid isPermaLink="false">30f73366-2f31-4536-9f86-cf7707f81968</guid>
             <pubDate>Fri, 22 Jul 2016 13:56:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c93a957-af6a-4b23-8628-41a84aa6bde0.jpg" alt="Jack Shemans">]]></description>
-            <link>https://thegrid.ai/cycle-cult/jack-shemans-is-a-cycle-cult-unsung-hero-and-a-highly-regard/index.html</link>
-            <guid isPermaLink="false">579b454b-1c1d-4787-9b2d-bb683710ab78</guid>
-            <pubDate>Fri, 22 Jul 2016 13:55:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
