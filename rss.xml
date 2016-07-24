@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 03:42:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 03:45:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a57676c2-4dc8-426e-a8ef-5f286d37b018.jpg">]]></description>
+            <link>https://thegrid.ai/cycle-cult/bert-herbert-le-vack-earned-the-nickname-the-wizard-of-br/index.html</link>
+            <guid isPermaLink="false">fc1e0d11-5c16-476f-870d-5335c95bf9fa</guid>
+            <pubDate>Sun, 24 Jul 2016 03:45:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6de3136d-2aac-44db-ab5d-71221ae3cfb7.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/charles-bayly-franklin-began-racing-indian-motorcycles-in-19/index.html</link>
             <guid isPermaLink="false">55aebdd4-1da4-462b-ad2f-e2d2ea9061e3</guid>
             <pubDate>Sun, 24 Jul 2016 03:18:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0fc0c6e0-77d7-4992-9309-2846cf474129.jpg">]]></description>
-            <link>https://thegrid.ai/cycle-cult/jack-marshall-photographed-here-at-brooklands-won-the-1908/index.html</link>
-            <guid isPermaLink="false">6e921f4e-8ea3-4a12-9ec7-16bd8e4e2dbd</guid>
-            <pubDate>Sun, 24 Jul 2016 03:17:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
