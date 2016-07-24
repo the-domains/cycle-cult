@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-22T13:10:01.402Z'
+datePublished: '2016-07-24T07:48:12.687Z'
+sourcePath: >-
+  _posts/2016-07-22-the-brooklands-concrete-banked-oval-was-famous-for-speed-rec.md
 author: []
 via: {}
-dateModified: '2016-07-22T13:09:57.123Z'
+dateModified: '2016-07-24T07:48:12.248Z'
 title: ''
 publisher: {}
 description: >-
@@ -33,8 +35,6 @@ description: >-
   Beart's efforts were even felt in the USA, where Nortons he tuned won at
   Daytona for three years running 1949, 1950 and 1951.
 starred: false
-sourcePath: >-
-  _posts/2016-07-22-the-brooklands-concrete-banked-oval-was-famous-for-speed-rec.md
 inFeed: true
 hasPage: true
 inNav: false
