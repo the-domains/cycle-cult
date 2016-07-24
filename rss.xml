@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 15:58:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 16:00:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b753456-63ee-447b-a5ba-4f0ac7491e2d.jpg" alt="The Vincent &quot;League of Extraordinary Gentlemen&quot; ">]]></description>
+            <link>https://thegrid.ai/cycle-cult/the-vincent-league-of-extraordinary-gentlemen-with-the-fir/index.html</link>
+            <guid isPermaLink="false">9afd5ea5-9d08-4c92-a5af-dc022118272f</guid>
+            <pubDate>Sun, 24 Jul 2016 16:00:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e072374a-9e2b-4542-814f-4d7a9209de26.jpg" alt="June 1937- Enthusiast">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/on-october-21st-1937-between-the-80th-and-82nd-kilometres-o/index.html</link>
             <guid isPermaLink="false">28f05258-e0e5-486d-a496-7b87711c44f8</guid>
             <pubDate>Sun, 24 Jul 2016 08:29:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1cdcf0a3-92c6-4065-9d6b-5903e775dd20.jpg">]]></description>
-            <link>https://thegrid.ai/cycle-cult/the-winner-of-the-first-isle-of-man-motorcycle-tourist-troph/index.html</link>
-            <guid isPermaLink="false">de79ae6b-ed53-4d2c-9154-761a6cbdfb16</guid>
-            <pubDate>Sun, 24 Jul 2016 08:28:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
