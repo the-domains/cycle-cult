@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-22T13:12:26.049Z'
+datePublished: '2016-07-24T08:27:34.630Z'
+sourcePath: >-
+  _posts/2016-07-22-cannonball-baker-and-teddy-carroll-set-motorcycle-enduranc.md
 author: []
 via: {}
-dateModified: '2016-07-22T13:12:20.535Z'
+dateModified: '2016-07-24T08:27:33.985Z'
 title: ''
 publisher: {}
 description: >-
@@ -48,8 +50,6 @@ description: >-
   POWs remained at Camp Sherman until September 1919, several months after the
   war had ended.
 starred: false
-sourcePath: >-
-  _posts/2016-07-22-cannonball-baker-and-teddy-carroll-set-motorcycle-enduranc.md
 inFeed: true
 hasPage: true
 inNav: false
