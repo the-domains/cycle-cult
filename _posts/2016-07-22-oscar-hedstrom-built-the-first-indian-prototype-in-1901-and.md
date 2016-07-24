@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-22T04:50:03.733Z'
+datePublished: '2016-07-24T06:59:26.600Z'
+sourcePath: >-
+  _posts/2016-07-22-oscar-hedstrom-built-the-first-indian-prototype-in-1901-and.md
 author: []
 via: {}
-dateModified: '2016-07-22T04:49:41.796Z'
+dateModified: '2016-07-24T06:59:25.683Z'
 title: ''
 publisher: {}
 description: >-
@@ -39,8 +41,6 @@ description: >-
   Indian Motorcycle Company on March 24th 1913 after a disagreement with the
   board regarding dubious practices to inflate the company's stock values.
 starred: false
-sourcePath: >-
-  _posts/2016-07-22-oscar-hedstrom-built-the-first-indian-prototype-in-1901-and.md
 inFeed: true
 hasPage: true
 inNav: false
