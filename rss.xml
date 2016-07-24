@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 16:19:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 16:22:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/37a0beeb-6316-42ee-a9a8-45171e10253d.jpg" alt="Triumph-Werke N&uuml;rnberg AG">]]></description>
+            <link>https://thegrid.ai/cycle-cult/the-triumph-motorcycle-is-always-thought-of-as-the-quintesse/index.html</link>
+            <guid isPermaLink="false">3ef5aa89-aa68-4afb-b939-0eac50da98df</guid>
+            <pubDate>Sun, 24 Jul 2016 16:22:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe299314-37ef-4028-a1c6-f1c35311563c.jpg" alt="Tazio Giorgio Nuvolari i Bianchi">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/the-june-1937-issue-of-harley-davidsons-magazine-enthusias/index.html</link>
             <guid isPermaLink="false">93a5fbfb-4b57-451e-b081-9067dead974a</guid>
             <pubDate>Sun, 24 Jul 2016 15:58:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c1c31173-0569-45a2-9d45-4e727e7f2654.jpg" alt="Jefferson Motorcycle">]]></description>
-            <link>https://thegrid.ai/cycle-cult/its-not-often-i-get-to-photograph-a-jefferson-motorcycle-p/index.html</link>
-            <guid isPermaLink="false">5852fa9a-ded2-4976-87d4-f83ed0f0e4aa</guid>
-            <pubDate>Sun, 24 Jul 2016 15:45:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
