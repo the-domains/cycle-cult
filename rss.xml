@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 22:36:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 22:41:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0615af0e-e8df-45d2-9187-58a96c52c025.jpg" alt="WWII United States Army Indians">]]></description>
+            <link>https://thegrid.ai/cycle-cult/the-united-states-army-used-indian-chiefs-scouts-and-junio/index.html</link>
+            <guid isPermaLink="false">da67f8e2-4851-415f-9e22-167b8e83e0c5</guid>
+            <pubDate>Sun, 24 Jul 2016 22:41:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9baaf28a-f460-4108-bb42-8c659dcd9e07.jpg" alt="Gary Hocking on the 250 MV">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/b0dd8956-8448-4428-bac9-b72f766a1918/index.html</link>
             <guid isPermaLink="false">b0dd8956-8448-4428-bac9-b72f766a1918</guid>
             <pubDate>Sun, 24 Jul 2016 20:06:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/540fbbc9-7438-412c-96b0-f8dfe710fcfa.jpg">]]></description>
-            <link>https://thegrid.ai/cycle-cult/8ea85b44-510d-4407-a0e4-e05bc4cfc5d2/index.html</link>
-            <guid isPermaLink="false">8ea85b44-510d-4407-a0e4-e05bc4cfc5d2</guid>
-            <pubDate>Sun, 24 Jul 2016 20:06:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
