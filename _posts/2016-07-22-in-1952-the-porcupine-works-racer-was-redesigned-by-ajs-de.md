@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-07-24T06:51:13.046Z'
+datePublished: '2016-07-24T15:41:11.332Z'
 sourcePath: >-
   _posts/2016-07-22-in-1952-the-porcupine-works-racer-was-redesigned-by-ajs-de.md
 author: []
 via: {}
-dateModified: '2016-07-24T06:51:12.360Z'
+dateModified: '2016-07-24T15:41:10.290Z'
 title: ''
 publisher: {}
 description: >-
