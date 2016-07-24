@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-24T03:31:44.570Z'
+datePublished: '2016-07-24T07:53:15.815Z'
+sourcePath: >-
+  _posts/2016-07-24-standing-on-the-concrete-at-brooklands-on-march-20th-1911-t.md
 author: []
 via: {}
-dateModified: '2016-07-24T03:31:41.234Z'
+dateModified: '2016-07-24T07:53:15.166Z'
 title: ''
 publisher: {}
 description: >-
@@ -46,13 +48,11 @@ description: >-
   spotted by a "Jagdstaffel 2" hunter squadron of the the German Imperial Army
   Air Service and shot down. Cambrai was situated quite far behind enemy lines
   and Oliver's body was never recovered. His memorial is Ref. IV. F. 12. at
-  Point-du-jour Military Cemetery, Athies, near Arras. 
+  Point-du-jour Military Cemetery, Athies, near Arras.
   ref:http://daveroperracing.blogspot.com/p/oliver-cyril-godfrey-first-mountain.html
   ref:https://www.bonhams.com/auctions/19290/lot/397/
   ref:http://www.motorcyclistonline.com/blogs/first-american-motorcycle-to-win-isle-man-tt-indian-island-icon?image=2
 starred: false
-sourcePath: >-
-  _posts/2016-07-24-standing-on-the-concrete-at-brooklands-on-march-20th-1911-t.md
 inFeed: true
 hasPage: true
 inNav: false
