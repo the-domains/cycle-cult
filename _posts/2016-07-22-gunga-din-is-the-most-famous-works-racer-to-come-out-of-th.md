@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-22T04:32:15.706Z'
+datePublished: '2016-07-24T08:26:44.535Z'
+sourcePath: >-
+  _posts/2016-07-22-gunga-din-is-the-most-famous-works-racer-to-come-out-of-th.md
 author: []
 via: {}
-dateModified: '2016-07-22T04:32:07.402Z'
+dateModified: '2016-07-24T08:26:44.070Z'
 title: ''
 publisher: {}
 description: >-
@@ -18,8 +20,6 @@ description: >-
   design swing arm with two dampers similar to a modern Monoshock system (only
   25 years earlier).
 starred: false
-sourcePath: >-
-  _posts/2016-07-22-gunga-din-is-the-most-famous-works-racer-to-come-out-of-th.md
 inFeed: true
 hasPage: true
 inNav: false
