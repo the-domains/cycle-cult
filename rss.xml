@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 15:43:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 15:45:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c1c31173-0569-45a2-9d45-4e727e7f2654.jpg" alt="Jefferson Motorcycle">]]></description>
+            <link>https://thegrid.ai/cycle-cult/its-not-often-i-get-to-photograph-a-jefferson-motorcycle-p/index.html</link>
+            <guid isPermaLink="false">5852fa9a-ded2-4976-87d4-f83ed0f0e4aa</guid>
+            <pubDate>Sun, 24 Jul 2016 15:45:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bc8fe77a-819b-4d5d-8d9f-3581598ce4d2.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/dc70ba5a-b165-4f2e-afa6-a31ebcc80365/index.html</link>
             <guid isPermaLink="false">dc70ba5a-b165-4f2e-afa6-a31ebcc80365</guid>
             <pubDate>Sun, 24 Jul 2016 08:28:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/19d7fa15-e575-4a30-b8e8-657cdd539b37.jpg">]]></description>
-            <link>https://thegrid.ai/cycle-cult/324fc85e-1fa4-4a37-a6db-52d4efd84ccd/index.html</link>
-            <guid isPermaLink="false">324fc85e-1fa4-4a37-a6db-52d4efd84ccd</guid>
-            <pubDate>Sun, 24 Jul 2016 08:28:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
