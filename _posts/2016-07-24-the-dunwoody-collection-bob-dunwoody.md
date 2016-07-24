@@ -1,9 +1,10 @@
 ---
-datePublished: '2016-07-24T05:02:41.967Z'
+datePublished: '2016-07-24T07:57:23.984Z'
+sourcePath: _posts/2016-07-24-the-dunwoody-collection-bob-dunwoody.md
 author: []
 via: {}
-dateModified: '2016-07-24T05:02:37.972Z'
-title: the Dunwoody Collection ( Bob Dunwoody)
+dateModified: '2016-07-24T07:57:23.144Z'
+title: \
 publisher: {}
 description: >-
   Alistair King on a Norton Manx, focused and determined at the North West 200
@@ -28,7 +29,6 @@ description: >-
   500cc race in Monza he finished second. He thus finished fifth in the
   standings of the 500cc World Championship.
 starred: false
-sourcePath: _posts/2016-07-24-the-dunwoody-collection-bob-dunwoody.md
 inFeed: true
 hasPage: true
 inNav: false
