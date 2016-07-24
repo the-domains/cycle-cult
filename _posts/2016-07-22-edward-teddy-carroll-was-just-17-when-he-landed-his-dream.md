@@ -1,8 +1,9 @@
 ---
-datePublished: '2016-07-22T13:23:54.230Z'
+datePublished: '2016-07-24T08:14:10.219Z'
+sourcePath: _posts/2016-07-22-edward-teddy-carroll-was-just-17-when-he-landed-his-dream.md
 author: []
 via: {}
-dateModified: '2016-07-22T13:23:47.748Z'
+dateModified: '2016-07-24T08:14:09.485Z'
 title: ''
 publisher: {}
 description: >-
@@ -33,7 +34,6 @@ description: >-
   39th lap, but he would have to settle for 4th place behind the Harley riders
   Red Parkhurst 1st, Ralph Hepburn 2nd, and Otto Walker in 3rd.
 starred: false
-sourcePath: _posts/2016-07-22-edward-teddy-carroll-was-just-17-when-he-landed-his-dream.md
 inFeed: true
 hasPage: true
 inNav: false
