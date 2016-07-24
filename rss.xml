@@ -4,8 +4,22 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 07:03:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 07:04:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1096b2a9-1cf4-4cf6-9b97-04691138ed64.jpg">]]></description>
+            <link>https://thegrid.ai/cycle-cult/the-first-world-motorcycle-championship-race-was-held-in-jul/index.html</link>
+            <guid isPermaLink="false">9c9456c6-ebc3-48d0-af3f-5958652643ec</guid>
+            <pubDate>Sun, 24 Jul 2016 07:04:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/11d961bf-0d3f-46fa-876f-d61e21f44bac.jpg" alt="Jimmie Guthrie - 1936 Senior TT Winner">]]></description>
+            <link>https://thegrid.ai/cycle-cult/jimmie-guthrie-became-one-of-joe-craigs-norton-works-riders/index.html</link>
+            <guid isPermaLink="false">8088f9a6-94e1-4608-acb9-f524c9f592f7</guid>
+            <pubDate>Sun, 24 Jul 2016 07:04:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/19e07323-38a5-47aa-b61d-ab77ce043501.jpg">]]></description>
@@ -61,20 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/glenn-bewley-of-classic-motorcycle-engineering-in-tennessee/index.html</link>
             <guid isPermaLink="false">251f7df8-6d25-412f-b90a-0481abd2215d</guid>
             <pubDate>Sun, 24 Jul 2016 07:00:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a916a560-3980-4bec-a407-aa84d852667d.jpg" alt="Mike Hailwood">]]></description>
-            <link>https://thegrid.ai/cycle-cult/this-is-one-of-my-favorite-images-of-mike-hailwood-that-big/index.html</link>
-            <guid isPermaLink="false">fb4bb22a-559e-4291-9af0-12edb7d2e191</guid>
-            <pubDate>Sun, 24 Jul 2016 06:59:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f34f0720-29d5-40b5-af4f-782c20c86157.jpg" alt="Oscar Hedstr&ouml;m">]]></description>
-            <link>https://thegrid.ai/cycle-cult/oscar-hedstrom-built-the-first-indian-prototype-in-1901-and/index.html</link>
-            <guid isPermaLink="false">85408094-7a7d-452a-8876-6776d94c6268</guid>
-            <pubDate>Sun, 24 Jul 2016 06:59:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
