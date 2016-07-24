@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 04:15:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 04:16:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4db87d4b-241c-49c4-ba6b-ca7d24dca9c2.jpg">]]></description>
+            <link>https://thegrid.ai/cycle-cult/tazio-nuvolari-was-known-in-his-village-as-the-son-of-the-d/index.html</link>
+            <guid isPermaLink="false">c9b04ecf-8af4-4261-8f4a-54272d241656</guid>
+            <pubDate>Sun, 24 Jul 2016 04:16:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6a43f02d-3d4b-484d-a425-bf5adc8b67ad.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/535b001a-e44e-4cfe-a511-4d935b618136/index.html</link>
             <guid isPermaLink="false">535b001a-e44e-4cfe-a511-4d935b618136</guid>
             <pubDate>Sun, 24 Jul 2016 04:10:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/58f67d6b-4bcb-462c-842b-c69f2deb2abd.jpg">]]></description>
-            <link>https://thegrid.ai/cycle-cult/64f0f00d-afd0-445b-884c-26712a239f24/index.html</link>
-            <guid isPermaLink="false">64f0f00d-afd0-445b-884c-26712a239f24</guid>
-            <pubDate>Sun, 24 Jul 2016 04:10:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
