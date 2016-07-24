@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-24T04:04:02.838Z'
+datePublished: '2016-07-24T06:50:53.507Z'
+sourcePath: >-
+  _posts/2016-07-24-frenchman-andre-pernette-was-active-in-velodrome-motorcycle.md
 author: []
 via: {}
-dateModified: '2016-07-24T04:03:55.762Z'
+dateModified: '2016-07-24T06:50:52.654Z'
 title: ''
 publisher: {}
 description: >-
@@ -17,8 +19,6 @@ description: >-
   were leaning over the barrier resulting in 2 people dead and 10 injured, both
   riders survived.
 starred: false
-sourcePath: >-
-  _posts/2016-07-24-frenchman-andre-pernette-was-active-in-velodrome-motorcycle.md
 inFeed: true
 hasPage: true
 inNav: false
