@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 04:51:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 04:55:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/84d80c06-ef13-4f60-ac2b-a72a294de737.jpg" alt="Ducati 100cc Marianna">]]></description>
+            <link>https://thegrid.ai/cycle-cult/for-the-1955-milano-taranto-race-ducati-works-riders-albe/index.html</link>
+            <guid isPermaLink="false">3d40f33c-da71-4d82-9d33-2d4c8ea06e69</guid>
+            <pubDate>Sun, 24 Jul 2016 04:55:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7d2881b-de08-4c7c-8b9e-edd3d7fd1270.png" alt="Charles &lsquo;Chook&rsquo; Hodgekiss - Two 500cc J.A.P. Motor Rigs">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/a-1954-honda-dream-showed-up-at-the-vintage-motorcycle-days/index.html</link>
             <guid isPermaLink="false">edec7d04-5aa7-4990-af2c-160c84ad1fe8</guid>
             <pubDate>Sun, 24 Jul 2016 04:12:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c64e1e0-22c8-4086-b20d-196deaaf68ae.jpg">]]></description>
-            <link>https://thegrid.ai/cycle-cult/f594c724-4886-4d4c-9272-f6a0e3db9b14/index.html</link>
-            <guid isPermaLink="false">f594c724-4886-4d4c-9272-f6a0e3db9b14</guid>
-            <pubDate>Sun, 24 Jul 2016 04:10:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
