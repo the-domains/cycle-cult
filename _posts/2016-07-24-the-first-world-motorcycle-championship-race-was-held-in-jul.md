@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-24T04:01:38.917Z'
+datePublished: '2016-07-24T07:04:22.997Z'
+sourcePath: >-
+  _posts/2016-07-24-the-first-world-motorcycle-championship-race-was-held-in-jul.md
 author: []
 via: {}
-dateModified: '2016-07-24T04:01:34.015Z'
+dateModified: '2016-07-24T07:04:22.519Z'
 title: ''
 publisher: {}
 description: >-
@@ -18,8 +20,6 @@ description: >-
   everything from a fully functioning hydrofoil to a 20 cylinder, 4 row radial
   aircraft engine and a 4 stroke W3 engine among other machines.
 starred: false
-sourcePath: >-
-  _posts/2016-07-24-the-first-world-motorcycle-championship-race-was-held-in-jul.md
 inFeed: true
 hasPage: true
 inNav: false
