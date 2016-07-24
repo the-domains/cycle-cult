@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-24T03:56:32.833Z'
+datePublished: '2016-07-24T07:58:46.086Z'
+sourcePath: >-
+  _posts/2016-07-24-alessandro-ansani-was-a-mechanical-genius-he-built-his-firs.md
 author: []
 via: {}
-dateModified: '2016-07-24T03:56:22.680Z'
+dateModified: '2016-07-24T07:58:45.656Z'
 title: ''
 publisher: {}
 description: >-
@@ -28,8 +30,6 @@ description: >-
   motors. Alessandro Ansani is photographed here in 1907 wearing his familiar
   cap on a 35 hp "Omnia" slayer velo rider pacer cycle.
 starred: false
-sourcePath: >-
-  _posts/2016-07-24-alessandro-ansani-was-a-mechanical-genius-he-built-his-firs.md
 inFeed: true
 hasPage: true
 inNav: false
