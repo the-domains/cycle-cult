@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 05:20:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 05:22:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/11d961bf-0d3f-46fa-876f-d61e21f44bac.jpg" alt="Jimmie Guthrie - 1936 Senior TT Winner">]]></description>
+            <link>https://thegrid.ai/cycle-cult/jimmie-guthrie-became-one-of-joe-craigs-norton-works-riders/index.html</link>
+            <guid isPermaLink="false">8088f9a6-94e1-4608-acb9-f524c9f592f7</guid>
+            <pubDate>Sun, 24 Jul 2016 05:22:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d58bcffb-4483-4ac1-8068-b33af6dbab6b.jpg" alt="Jimmie Guthrie - Joe Craig">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/giuliano-maoggi-on-a-ducati-marianna-125cc-at-the-motogiro-d/index.html</link>
             <guid isPermaLink="false">248ec9a1-d520-4c53-b7f9-1bfc102e79bc</guid>
             <pubDate>Sun, 24 Jul 2016 04:57:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/84d80c06-ef13-4f60-ac2b-a72a294de737.jpg" alt="Ducati 100cc Marianna">]]></description>
-            <link>https://thegrid.ai/cycle-cult/for-the-1955-milano-taranto-race-ducati-works-riders-albe/index.html</link>
-            <guid isPermaLink="false">3d40f33c-da71-4d82-9d33-2d4c8ea06e69</guid>
-            <pubDate>Sun, 24 Jul 2016 04:55:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
