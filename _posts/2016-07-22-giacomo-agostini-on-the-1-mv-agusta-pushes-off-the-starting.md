@@ -1,16 +1,16 @@
 ---
-datePublished: '2016-07-22T13:51:00.249Z'
+datePublished: '2016-07-24T06:57:58.581Z'
+sourcePath: >-
+  _posts/2016-07-22-giacomo-agostini-on-the-1-mv-agusta-pushes-off-the-starting.md
 author: []
 via: {}
-dateModified: '2016-07-22T13:50:57.216Z'
+dateModified: '2016-07-24T06:57:58.136Z'
 title: ''
 publisher: {}
 description: >-
   Giacomo Agostini on the #1 MV Agusta pushes off the starting line surrounded
   by an ever increasing swarm of screaming 2 strokes in 1971.
 starred: false
-sourcePath: >-
-  _posts/2016-07-22-giacomo-agostini-on-the-1-mv-agusta-pushes-off-the-starting.md
 inFeed: true
 hasPage: true
 inNav: false
