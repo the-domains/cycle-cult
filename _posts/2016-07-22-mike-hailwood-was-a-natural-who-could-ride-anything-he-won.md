@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-22T13:46:13.318Z'
+datePublished: '2016-07-24T07:53:40.890Z'
+sourcePath: >-
+  _posts/2016-07-22-mike-hailwood-was-a-natural-who-could-ride-anything-he-won.md
 author: []
 via: {}
-dateModified: '2016-07-22T13:46:10.235Z'
+dateModified: '2016-07-24T07:53:39.915Z'
 title: ''
 publisher: {}
 description: >-
@@ -22,8 +24,6 @@ description: >-
   rivals for most of his career. Hailwood would go on to win the 1961 250cc
   World Championship on the Honda 4 cylinder.
 starred: false
-sourcePath: >-
-  _posts/2016-07-22-mike-hailwood-was-a-natural-who-could-ride-anything-he-won.md
 inFeed: true
 hasPage: true
 inNav: false
