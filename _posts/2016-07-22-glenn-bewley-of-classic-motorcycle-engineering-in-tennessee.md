@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-22T13:59:10.973Z'
+datePublished: '2016-07-24T07:00:23.923Z'
+sourcePath: >-
+  _posts/2016-07-22-glenn-bewley-of-classic-motorcycle-engineering-in-tennessee.md
 author: []
 via: {}
-dateModified: '2016-07-22T13:59:06.795Z'
+dateModified: '2016-07-24T07:00:23.150Z'
 title: ''
 publisher: {}
 description: >-
@@ -16,8 +18,6 @@ description: >-
   bike is said to have awoken from it's long slumber with the aid of some
   starting rollers and within minutes settled into a comfortable idle.
 starred: false
-sourcePath: >-
-  _posts/2016-07-22-glenn-bewley-of-classic-motorcycle-engineering-in-tennessee.md
 inFeed: true
 hasPage: true
 inNav: false
