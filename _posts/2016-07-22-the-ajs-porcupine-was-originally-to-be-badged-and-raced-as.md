@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-22T05:30:09.264Z'
+datePublished: '2016-07-24T08:23:58.499Z'
+sourcePath: >-
+  _posts/2016-07-22-the-ajs-porcupine-was-originally-to-be-badged-and-raced-as.md
 author: []
 via: {}
-dateModified: '2016-07-22T05:30:05.289Z'
+dateModified: '2016-07-24T08:23:57.954Z'
 title: ''
 publisher: {}
 description: >-
@@ -27,8 +29,6 @@ description: >-
   Velocette, a shaft-drive twin cylinder machine of 600cc capacity and loosely
   based on the supercharged 500cc racing machine known as 'The Roarer'.
 starred: false
-sourcePath: >-
-  _posts/2016-07-22-the-ajs-porcupine-was-originally-to-be-badged-and-raced-as.md
 inFeed: true
 hasPage: true
 inNav: false
