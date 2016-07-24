@@ -4,8 +4,22 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 07:59:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 08:00:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/98b3b9e5-0201-436c-a355-b5b4c12ddeb0.jpg" alt="Gene Vincent - Triumph">]]></description>
+            <link>https://thegrid.ai/cycle-cult/the-year-is-1969-and-legendary-rock-n-roller-gene-vincent-is/index.html</link>
+            <guid isPermaLink="false">0317f019-27f3-4163-a55a-dec48618fe60</guid>
+            <pubDate>Sun, 24 Jul 2016 08:00:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1beee23c-eef3-4278-8575-c664704ab943.jpg" alt="Paul Meunier ">]]></description>
+            <link>https://thegrid.ai/cycle-cult/this-is-what-a-pit-stop-during-the-french-motorcycle-grand-p/index.html</link>
+            <guid isPermaLink="false">737e019a-3a36-4963-9fb3-26224b16d406</guid>
+            <pubDate>Sun, 24 Jul 2016 08:00:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/768867ed-1d81-41bd-9de0-93ad27e89902.jpg" alt="Burlesque dancer Misty Ayers">]]></description>
@@ -61,20 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/the-dunwoody-collection-bob-dunwoody/index.html</link>
             <guid isPermaLink="false">5660452a-6269-438b-90cc-61443e72820b</guid>
             <pubDate>Sun, 24 Jul 2016 07:57:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c1c31173-0569-45a2-9d45-4e727e7f2654.jpg" alt="Jefferson Motorcycle">]]></description>
-            <link>https://thegrid.ai/cycle-cult/its-not-often-i-get-to-photograph-a-jefferson-motorcycle-p/index.html</link>
-            <guid isPermaLink="false">5852fa9a-ded2-4976-87d4-f83ed0f0e4aa</guid>
-            <pubDate>Sun, 24 Jul 2016 07:55:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f066c833-286f-4397-b260-40cfa4ed90e4.jpg">]]></description>
-            <link>https://thegrid.ai/cycle-cult/a-1954-honda-dream-showed-up-at-the-vintage-motorcycle-days/index.html</link>
-            <guid isPermaLink="false">edec7d04-5aa7-4990-af2c-160c84ad1fe8</guid>
-            <pubDate>Sun, 24 Jul 2016 07:55:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
