@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 23:15:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 23:25:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/556e0963-59e0-43da-bb46-7c39ecf662f2.jpg">]]></description>
+            <link>https://thegrid.ai/cycle-cult/noel-pope-went-to-the-bonneville-salt-flats-in-september-of/index.html</link>
+            <guid isPermaLink="false">a6f3ab90-0d5e-4779-8373-586f638bb3e9</guid>
+            <pubDate>Sun, 24 Jul 2016 23:25:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/075ba530-297f-4517-bcd5-896c68d7463e.jpg" alt="Noel Pope&apos;s 1949 attempt at a new world land speed record">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/to-some-people-evel-knievel-was-the-worlds-greatest-stuntma/index.html</link>
             <guid isPermaLink="false">f0838430-41af-4ac9-8122-11a2be19ab33</guid>
             <pubDate>Sun, 24 Jul 2016 23:07:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0bcb305e-85d0-4653-b185-6dccd0479211.jpg" alt="Cycle Cult Camping Rig">]]></description>
-            <link>https://thegrid.ai/cycle-cult/when-touring-on-a-motorcycle-one-seldom-remarks-that-they-ha/index.html</link>
-            <guid isPermaLink="false">2355b160-fd47-4c09-9fee-caaf18fead50</guid>
-            <pubDate>Sun, 24 Jul 2016 23:07:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
