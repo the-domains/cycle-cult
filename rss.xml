@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 07:05:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 07:05:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c7db4113-27d4-49ec-b20d-57963f1911f0.jpg" alt="Motom ultra-lightweight">]]></description>
+            <link>https://thegrid.ai/cycle-cult/this-is-another-motom-ultra-lightweight-single-that-appears/index.html</link>
+            <guid isPermaLink="false">a5a102fd-2551-425c-bba9-624e806880c6</guid>
+            <pubDate>Sun, 24 Jul 2016 07:05:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/935cafed-54c9-4743-a8d1-028c6418a1bd.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/paul-meunier-won-the-french-grand-prix-in-1921-on-a-ohv-350c/index.html</link>
             <guid isPermaLink="false">47139ba3-231f-46fd-88c9-1c3f1836a8b2</guid>
             <pubDate>Sun, 24 Jul 2016 07:01:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb6b52bb-12b7-48a6-835e-6d5af4f81a43.png" alt="Charles &lsquo;Chook&rsquo; Hodgekiss - Dual 500cc J.A.P. ">]]></description>
-            <link>https://thegrid.ai/cycle-cult/charles-chook-hodgekiss-coupled-two-500cc-jap-motors-in/index.html</link>
-            <guid isPermaLink="false">d309e4ff-e2be-46db-bc60-1619d14d3216</guid>
-            <pubDate>Sun, 24 Jul 2016 07:01:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
