@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-22T13:32:17.147Z'
+datePublished: '2016-07-24T07:02:03.032Z'
+sourcePath: >-
+  _posts/2016-07-22-catalogue-images-of-the-pierce-motorcycles-and-the-pierce-sp.md
 author: []
 via: {}
-dateModified: '2016-07-22T13:32:13.881Z'
+dateModified: '2016-07-24T07:02:02.647Z'
 title: ''
 publisher: {}
 description: >-
@@ -19,8 +21,6 @@ description: >-
   strenuous for one of his age and expressed the belief that to continue would
   impair his health in later years".
 starred: false
-sourcePath: >-
-  _posts/2016-07-22-catalogue-images-of-the-pierce-motorcycles-and-the-pierce-sp.md
 inFeed: true
 hasPage: true
 inNav: false
