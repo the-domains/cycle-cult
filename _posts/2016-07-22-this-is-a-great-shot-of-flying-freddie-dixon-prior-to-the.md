@@ -1,8 +1,9 @@
 ---
-datePublished: '2016-07-22T05:08:02.186Z'
+datePublished: '2016-07-24T06:51:34.677Z'
+sourcePath: _posts/2016-07-22-this-is-a-great-shot-of-flying-freddie-dixon-prior-to-the.md
 author: []
 via: {}
-dateModified: '2016-07-22T05:07:39.350Z'
+dateModified: '2016-07-24T06:51:33.363Z'
 title: ''
 publisher: {}
 description: >-
@@ -35,7 +36,6 @@ description: >-
   modifications resulted in the new Mark 3 Douglas machine. Dixon died on the
   5th of November 1956 in Reigate, Surrey at age 64.
 starred: false
-sourcePath: _posts/2016-07-22-this-is-a-great-shot-of-flying-freddie-dixon-prior-to-the.md
 inFeed: true
 hasPage: true
 inNav: false
