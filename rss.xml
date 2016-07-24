@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 08:14:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 08:17:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/85af13a2-db6e-44d1-ab9c-ebf9ee92eb6a.jpg">]]></description>
+            <link>https://thegrid.ai/cycle-cult/angel-nieto-is-one-of-the-most-successful-motorcycle-racers/index.html</link>
+            <guid isPermaLink="false">304146cb-3d26-43c0-883e-b34ee1ecd1bb</guid>
+            <pubDate>Sun, 24 Jul 2016 08:16:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f09fdd11-effa-4ac3-b91b-e79eb6abf39a.jpg" alt="Edward &quot;Teddy&quot; Carroll">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/alessandro-ansani-must-have-raised-some-eye-brows-when-he-sh/index.html</link>
             <guid isPermaLink="false">54804dcb-73a6-4c08-8490-c08be825ff2c</guid>
             <pubDate>Sun, 24 Jul 2016 08:06:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/043bad21-4a3f-437a-bc60-4e79e1490947.jpg" alt="Silvio Grassetti">]]></description>
-            <link>https://thegrid.ai/cycle-cult/the-benelli-250cc-four-cylinder-gp-bike-made-its-racing-debu/index.html</link>
-            <guid isPermaLink="false">8b9d9a66-3326-47e1-9344-beda851aa9ae</guid>
-            <pubDate>Sun, 24 Jul 2016 08:05:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
