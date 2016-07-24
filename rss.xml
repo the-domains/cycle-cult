@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 08:12:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 08:14:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f09fdd11-effa-4ac3-b91b-e79eb6abf39a.jpg" alt="Edward &quot;Teddy&quot; Carroll">]]></description>
+            <link>https://thegrid.ai/cycle-cult/edward-teddy-carroll-was-just-17-when-he-landed-his-dream/index.html</link>
+            <guid isPermaLink="false">d4b3ed16-c654-4d14-875c-95434cef9f19</guid>
+            <pubDate>Sun, 24 Jul 2016 08:14:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/96e1546f-50a2-4bd2-99c8-3ff256a30faf.png" alt="George Rowley - AJS V4 Kompressor">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/the-benelli-250cc-four-cylinder-gp-bike-made-its-racing-debu/index.html</link>
             <guid isPermaLink="false">8b9d9a66-3326-47e1-9344-beda851aa9ae</guid>
             <pubDate>Sun, 24 Jul 2016 08:05:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0fc0c6e0-77d7-4992-9309-2846cf474129.jpg">]]></description>
-            <link>https://thegrid.ai/cycle-cult/jack-marshall-photographed-here-at-brooklands-won-the-1908/index.html</link>
-            <guid isPermaLink="false">6e921f4e-8ea3-4a12-9ec7-16bd8e4e2dbd</guid>
-            <pubDate>Sun, 24 Jul 2016 08:05:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
