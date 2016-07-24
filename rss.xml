@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 23:25:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 23:30:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/18c77a2b-c296-4478-9afd-7f0664e39585.jpg">]]></description>
+            <link>https://thegrid.ai/cycle-cult/a2be1bb9-4f61-41ad-b1b9-c6943722ee39/index.html</link>
+            <guid isPermaLink="false">a2be1bb9-4f61-41ad-b1b9-c6943722ee39</guid>
+            <pubDate>Sun, 24 Jul 2016 23:30:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/00605f78-12ca-4eb5-a583-664c1de20a3e.jpg" alt="Velocette overhead camshaft KTT">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/giuseppe-montano-in-the-white-jacket-presenting-the-ducati/index.html</link>
             <guid isPermaLink="false">6fa2b21d-2bba-4143-8a2c-0ab72b379507</guid>
             <pubDate>Sun, 24 Jul 2016 23:07:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/483dd335-21f8-4694-aa04-65fcd85d4a5a.jpg" alt="Ducati Apollo Prototype 1,257cc V4">]]></description>
-            <link>https://thegrid.ai/cycle-cult/joseph-berliner-the-us-distributor-for-ducati-was-so-influen/index.html</link>
-            <guid isPermaLink="false">9f098e89-1fe8-45ec-ba36-911ea79c1f4c</guid>
-            <pubDate>Sun, 24 Jul 2016 23:07:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
