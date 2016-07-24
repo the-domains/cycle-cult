@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-07-24T06:54:27.299Z'
+datePublished: '2016-07-24T06:54:59.826Z'
 sourcePath: >-
   _posts/2016-07-22-in-1914-the-french-automobile-company-peugeot-developed-the.md
 author: []
 via: {}
-dateModified: '2016-07-24T06:54:26.855Z'
+dateModified: '2016-07-24T06:54:59.015Z'
 title: ''
 publisher: {}
 description: >-
