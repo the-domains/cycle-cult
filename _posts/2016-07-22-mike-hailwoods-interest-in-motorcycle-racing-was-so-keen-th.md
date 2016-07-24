@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-22T13:44:10.976Z'
+datePublished: '2016-07-24T07:52:47.980Z'
+sourcePath: >-
+  _posts/2016-07-22-mike-hailwoods-interest-in-motorcycle-racing-was-so-keen-th.md
 author: []
 via: {}
-dateModified: '2016-07-22T13:44:07.271Z'
+dateModified: '2016-07-24T07:52:47.503Z'
 title: ''
 publisher: {}
 description: >-
@@ -19,8 +21,6 @@ description: >-
   at the extremely bumpy Monza track. Hailwood broke the Bob's record with an
   average speed of 144.8 mph and went on to win the US GP later that same week!
 starred: false
-sourcePath: >-
-  _posts/2016-07-22-mike-hailwoods-interest-in-motorcycle-racing-was-so-keen-th.md
 inFeed: true
 hasPage: true
 inNav: false
