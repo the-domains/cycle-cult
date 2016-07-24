@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-22T04:00:06.615Z'
+datePublished: '2016-07-24T07:50:03.673Z'
+sourcePath: >-
+  _posts/2016-07-22-i-love-a-good-engine-cutaway-and-this-1951-vincent-hrd-is-am.md
 author: []
 via: {}
-dateModified: '2016-07-22T03:59:46.636Z'
+dateModified: '2016-07-24T07:50:02.575Z'
 title: ''
 publisher: {}
 description: >-
@@ -15,8 +17,6 @@ description: >-
   company was promptly renamed Vincent HRD Co., Ltd and production moved to
   Stevenage.
 starred: false
-sourcePath: >-
-  _posts/2016-07-22-i-love-a-good-engine-cutaway-and-this-1951-vincent-hrd-is-am.md
 inFeed: true
 hasPage: true
 inNav: false
