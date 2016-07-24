@@ -4,8 +4,15 @@
         <description><![CDATA[Cycle Cult]]></description>
         <link>https://thegrid.ai/cycle-cult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 16:22:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 16:26:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cycle-cult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0382b6ae-b36c-4a1c-8f8c-e23282c5f1da.jpg" alt="Toni Bauhofer">]]></description>
+            <link>https://thegrid.ai/cycle-cult/toni-bauhofer-won-the-german-motorcycle-championship-four-ti/index.html</link>
+            <guid isPermaLink="false">8179b4e8-0428-4d04-bf32-700ab4b48572</guid>
+            <pubDate>Sun, 24 Jul 2016 16:25:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/37a0beeb-6316-42ee-a9a8-45171e10253d.jpg" alt="Triumph-Werke N&uuml;rnberg AG">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cycle-cult/the-vincent-league-of-extraordinary-gentlemen-with-the-fir/index.html</link>
             <guid isPermaLink="false">9afd5ea5-9d08-4c92-a5af-dc022118272f</guid>
             <pubDate>Sun, 24 Jul 2016 16:00:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e072374a-9e2b-4542-814f-4d7a9209de26.jpg" alt="June 1937- Enthusiast">]]></description>
-            <link>https://thegrid.ai/cycle-cult/the-june-1937-issue-of-harley-davidsons-magazine-enthusias/index.html</link>
-            <guid isPermaLink="false">93a5fbfb-4b57-451e-b081-9067dead974a</guid>
-            <pubDate>Sun, 24 Jul 2016 15:58:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
